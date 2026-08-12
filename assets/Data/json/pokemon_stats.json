@@ -1,0 +1,8202 @@
+[
+    {
+        "S.no": "#0001",
+        "Name": "Bulbasaur",
+        "HP": 45,
+        "Attack": 49,
+        "Defense": 49,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0002",
+        "Name": "Ivysaur",
+        "HP": 60,
+        "Attack": 62,
+        "Defense": 63,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0003",
+        "Name": "Venusaur",
+        "HP": 80,
+        "Attack": 82,
+        "Defense": 83,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0004",
+        "Name": "Charmander",
+        "HP": 39,
+        "Attack": 52,
+        "Defense": 43,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0005",
+        "Name": "Charmeleon",
+        "HP": 58,
+        "Attack": 64,
+        "Defense": 58,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0006",
+        "Name": "Charizard",
+        "HP": 78,
+        "Attack": 84,
+        "Defense": 78,
+        "Speed": 100
+    },
+    {
+        "S.no": "#0007",
+        "Name": "Squirtle",
+        "HP": 44,
+        "Attack": 48,
+        "Defense": 65,
+        "Speed": 43
+    },
+    {
+        "S.no": "#0008",
+        "Name": "Wartortle",
+        "HP": 59,
+        "Attack": 63,
+        "Defense": 80,
+        "Speed": 58
+    },
+    {
+        "S.no": "#0009",
+        "Name": "Blastoise",
+        "HP": 79,
+        "Attack": 83,
+        "Defense": 100,
+        "Speed": 78
+    },
+    {
+        "S.no": "#0010",
+        "Name": "Caterpie",
+        "HP": 45,
+        "Attack": 30,
+        "Defense": 35,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0011",
+        "Name": "Metapod",
+        "HP": 50,
+        "Attack": 20,
+        "Defense": 55,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0012",
+        "Name": "Butterfree",
+        "HP": 60,
+        "Attack": 45,
+        "Defense": 50,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0013",
+        "Name": "Weedle",
+        "HP": 40,
+        "Attack": 35,
+        "Defense": 30,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0014",
+        "Name": "Kakuna",
+        "HP": 45,
+        "Attack": 25,
+        "Defense": 50,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0015",
+        "Name": "Beedrill",
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 40,
+        "Speed": 75
+    },
+    {
+        "S.no": "#0016",
+        "Name": "Pidgey",
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 40,
+        "Speed": 56
+    },
+    {
+        "S.no": "#0017",
+        "Name": "Pidgeotto",
+        "HP": 63,
+        "Attack": 60,
+        "Defense": 55,
+        "Speed": 71
+    },
+    {
+        "S.no": "#0018",
+        "Name": "Pidgeot",
+        "HP": 83,
+        "Attack": 80,
+        "Defense": 75,
+        "Speed": 101
+    },
+    {
+        "S.no": "#0019",
+        "Name": "Rattata",
+        "HP": 30,
+        "Attack": 56,
+        "Defense": 35,
+        "Speed": 72
+    },
+    {
+        "S.no": "#0020",
+        "Name": "Raticate",
+        "HP": 55,
+        "Attack": 81,
+        "Defense": 60,
+        "Speed": 97
+    },
+    {
+        "S.no": "#0021",
+        "Name": "Spearow",
+        "HP": 40,
+        "Attack": 60,
+        "Defense": 30,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0022",
+        "Name": "Fearow",
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 65,
+        "Speed": 100
+    },
+    {
+        "S.no": "#0023",
+        "Name": "Ekans",
+        "HP": 35,
+        "Attack": 60,
+        "Defense": 44,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0024",
+        "Name": "Arbok",
+        "HP": 60,
+        "Attack": 95,
+        "Defense": 69,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0025",
+        "Name": "Pikachu",
+        "HP": 35,
+        "Attack": 55,
+        "Defense": 40,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0026",
+        "Name": "Raichu",
+        "HP": 60,
+        "Attack": 90,
+        "Defense": 55,
+        "Speed": 110
+    },
+    {
+        "S.no": "#0027",
+        "Name": "Sandshrew",
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 85,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0028",
+        "Name": "Sandslash",
+        "HP": 75,
+        "Attack": 100,
+        "Defense": 110,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0029",
+        "Name": "Nidoran-F",
+        "HP": 55,
+        "Attack": 47,
+        "Defense": 52,
+        "Speed": 41
+    },
+    {
+        "S.no": "#0030",
+        "Name": "Nidorina",
+        "HP": 70,
+        "Attack": 62,
+        "Defense": 67,
+        "Speed": 56
+    },
+    {
+        "S.no": "#0031",
+        "Name": "Nidoqueen",
+        "HP": 90,
+        "Attack": 92,
+        "Defense": 87,
+        "Speed": 76
+    },
+    {
+        "S.no": "#0032",
+        "Name": "Nidoran-M",
+        "HP": 46,
+        "Attack": 57,
+        "Defense": 40,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0033",
+        "Name": "Nidorino",
+        "HP": 61,
+        "Attack": 72,
+        "Defense": 57,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0034",
+        "Name": "Nidoking",
+        "HP": 81,
+        "Attack": 102,
+        "Defense": 77,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0035",
+        "Name": "Clefairy",
+        "HP": 70,
+        "Attack": 45,
+        "Defense": 48,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0036",
+        "Name": "Clefable",
+        "HP": 95,
+        "Attack": 70,
+        "Defense": 73,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0037",
+        "Name": "Vulpix",
+        "HP": 38,
+        "Attack": 41,
+        "Defense": 40,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0038",
+        "Name": "Ninetales",
+        "HP": 73,
+        "Attack": 76,
+        "Defense": 75,
+        "Speed": 100
+    },
+    {
+        "S.no": "#0039",
+        "Name": "Jigglypuff",
+        "HP": 115,
+        "Attack": 45,
+        "Defense": 20,
+        "Speed": 20
+    },
+    {
+        "S.no": "#0040",
+        "Name": "Wigglytuff",
+        "HP": 140,
+        "Attack": 70,
+        "Defense": 45,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0041",
+        "Name": "Zubat",
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 35,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0042",
+        "Name": "Golbat",
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 70,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0043",
+        "Name": "Oddish",
+        "HP": 45,
+        "Attack": 50,
+        "Defense": 55,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0044",
+        "Name": "Gloom",
+        "HP": 60,
+        "Attack": 65,
+        "Defense": 70,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0045",
+        "Name": "Vileplume",
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 85,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0046",
+        "Name": "Paras",
+        "HP": 35,
+        "Attack": 70,
+        "Defense": 55,
+        "Speed": 25
+    },
+    {
+        "S.no": "#0047",
+        "Name": "Parasect",
+        "HP": 60,
+        "Attack": 95,
+        "Defense": 80,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0048",
+        "Name": "Venonat",
+        "HP": 60,
+        "Attack": 55,
+        "Defense": 50,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0049",
+        "Name": "Venomoth",
+        "HP": 70,
+        "Attack": 65,
+        "Defense": 60,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0050",
+        "Name": "Diglett",
+        "HP": 10,
+        "Attack": 55,
+        "Defense": 25,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0051",
+        "Name": "Dugtrio",
+        "HP": 35,
+        "Attack": 100,
+        "Defense": 50,
+        "Speed": 120
+    },
+    {
+        "S.no": "#0052",
+        "Name": "Meowth",
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 35,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0053",
+        "Name": "Persian",
+        "HP": 65,
+        "Attack": 70,
+        "Defense": 60,
+        "Speed": 115
+    },
+    {
+        "S.no": "#0054",
+        "Name": "Psyduck",
+        "HP": 50,
+        "Attack": 52,
+        "Defense": 48,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0055",
+        "Name": "Golduck",
+        "HP": 80,
+        "Attack": 82,
+        "Defense": 78,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0056",
+        "Name": "Mankey",
+        "HP": 40,
+        "Attack": 80,
+        "Defense": 35,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0057",
+        "Name": "Primeape",
+        "HP": 65,
+        "Attack": 105,
+        "Defense": 60,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0058",
+        "Name": "Growlithe",
+        "HP": 55,
+        "Attack": 70,
+        "Defense": 45,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0059",
+        "Name": "Arcanine",
+        "HP": 90,
+        "Attack": 110,
+        "Defense": 80,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0060",
+        "Name": "Poliwag",
+        "HP": 40,
+        "Attack": 50,
+        "Defense": 40,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0061",
+        "Name": "Poliwhirl",
+        "HP": 65,
+        "Attack": 65,
+        "Defense": 65,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0062",
+        "Name": "Poliwrath",
+        "HP": 90,
+        "Attack": 95,
+        "Defense": 95,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0063",
+        "Name": "Abra",
+        "HP": 25,
+        "Attack": 20,
+        "Defense": 15,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0064",
+        "Name": "Kadabra",
+        "HP": 40,
+        "Attack": 35,
+        "Defense": 30,
+        "Speed": 105
+    },
+    {
+        "S.no": "#0065",
+        "Name": "Alakazam",
+        "HP": 55,
+        "Attack": 50,
+        "Defense": 45,
+        "Speed": 120
+    },
+    {
+        "S.no": "#0066",
+        "Name": "Machop",
+        "HP": 70,
+        "Attack": 80,
+        "Defense": 50,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0067",
+        "Name": "Machoke",
+        "HP": 80,
+        "Attack": 100,
+        "Defense": 70,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0068",
+        "Name": "Machamp",
+        "HP": 90,
+        "Attack": 130,
+        "Defense": 80,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0069",
+        "Name": "Bellsprout",
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 35,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0070",
+        "Name": "Weepinbell",
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 50,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0071",
+        "Name": "Victreebel",
+        "HP": 80,
+        "Attack": 105,
+        "Defense": 65,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0072",
+        "Name": "Tentacool",
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 35,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0073",
+        "Name": "Tentacruel",
+        "HP": 80,
+        "Attack": 70,
+        "Defense": 65,
+        "Speed": 100
+    },
+    {
+        "S.no": "#0074",
+        "Name": "Geodude",
+        "HP": 40,
+        "Attack": 80,
+        "Defense": 100,
+        "Speed": 20
+    },
+    {
+        "S.no": "#0075",
+        "Name": "Graveler",
+        "HP": 55,
+        "Attack": 95,
+        "Defense": 115,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0076",
+        "Name": "Golem",
+        "HP": 80,
+        "Attack": 120,
+        "Defense": 130,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0077",
+        "Name": "Ponyta",
+        "HP": 50,
+        "Attack": 85,
+        "Defense": 55,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0078",
+        "Name": "Rapidash",
+        "HP": 65,
+        "Attack": 100,
+        "Defense": 70,
+        "Speed": 105
+    },
+    {
+        "S.no": "#0079",
+        "Name": "Slowpoke",
+        "HP": 90,
+        "Attack": 65,
+        "Defense": 65,
+        "Speed": 15
+    },
+    {
+        "S.no": "#0080",
+        "Name": "Slowbro",
+        "HP": 95,
+        "Attack": 75,
+        "Defense": 110,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0081",
+        "Name": "Magnemite",
+        "HP": 25,
+        "Attack": 35,
+        "Defense": 70,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0082",
+        "Name": "Magneton",
+        "HP": 50,
+        "Attack": 60,
+        "Defense": 95,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0083",
+        "Name": "Farfetchd",
+        "HP": 52,
+        "Attack": 90,
+        "Defense": 55,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0084",
+        "Name": "Doduo",
+        "HP": 35,
+        "Attack": 85,
+        "Defense": 45,
+        "Speed": 75
+    },
+    {
+        "S.no": "#0085",
+        "Name": "Dodrio",
+        "HP": 60,
+        "Attack": 110,
+        "Defense": 70,
+        "Speed": 110
+    },
+    {
+        "S.no": "#0086",
+        "Name": "Seel",
+        "HP": 65,
+        "Attack": 45,
+        "Defense": 55,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0087",
+        "Name": "Dewgong",
+        "HP": 90,
+        "Attack": 70,
+        "Defense": 80,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0088",
+        "Name": "Grimer",
+        "HP": 80,
+        "Attack": 80,
+        "Defense": 50,
+        "Speed": 25
+    },
+    {
+        "S.no": "#0089",
+        "Name": "Muk",
+        "HP": 105,
+        "Attack": 105,
+        "Defense": 75,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0090",
+        "Name": "Shellder",
+        "HP": 30,
+        "Attack": 65,
+        "Defense": 100,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0091",
+        "Name": "Cloyster",
+        "HP": 50,
+        "Attack": 95,
+        "Defense": 180,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0092",
+        "Name": "Gastly",
+        "HP": 30,
+        "Attack": 35,
+        "Defense": 30,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0093",
+        "Name": "Haunter",
+        "HP": 45,
+        "Attack": 50,
+        "Defense": 45,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0094",
+        "Name": "Gengar",
+        "HP": 60,
+        "Attack": 65,
+        "Defense": 60,
+        "Speed": 110
+    },
+    {
+        "S.no": "#0095",
+        "Name": "Onix",
+        "HP": 35,
+        "Attack": 45,
+        "Defense": 160,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0096",
+        "Name": "Drowzee",
+        "HP": 60,
+        "Attack": 48,
+        "Defense": 45,
+        "Speed": 42
+    },
+    {
+        "S.no": "#0097",
+        "Name": "Hypno",
+        "HP": 85,
+        "Attack": 73,
+        "Defense": 70,
+        "Speed": 67
+    },
+    {
+        "S.no": "#0098",
+        "Name": "Krabby",
+        "HP": 30,
+        "Attack": 105,
+        "Defense": 90,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0099",
+        "Name": "Kingler",
+        "HP": 55,
+        "Attack": 130,
+        "Defense": 115,
+        "Speed": 75
+    },
+    {
+        "S.no": "#0100",
+        "Name": "Voltorb",
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 50,
+        "Speed": 100
+    },
+    {
+        "S.no": "#0101",
+        "Name": "Electrode",
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 70,
+        "Speed": 150
+    },
+    {
+        "S.no": "#0102",
+        "Name": "Exeggcute",
+        "HP": 60,
+        "Attack": 40,
+        "Defense": 80,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0103",
+        "Name": "Exeggutor",
+        "HP": 95,
+        "Attack": 95,
+        "Defense": 85,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0104",
+        "Name": "Cubone",
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 95,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0105",
+        "Name": "Marowak",
+        "HP": 60,
+        "Attack": 80,
+        "Defense": 110,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0106",
+        "Name": "Hitmonlee",
+        "HP": 50,
+        "Attack": 120,
+        "Defense": 53,
+        "Speed": 87
+    },
+    {
+        "S.no": "#0107",
+        "Name": "Hitmonchan",
+        "HP": 50,
+        "Attack": 105,
+        "Defense": 79,
+        "Speed": 76
+    },
+    {
+        "S.no": "#0108",
+        "Name": "Lickitung",
+        "HP": 90,
+        "Attack": 55,
+        "Defense": 75,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0109",
+        "Name": "Koffing",
+        "HP": 40,
+        "Attack": 65,
+        "Defense": 95,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0110",
+        "Name": "Weezing",
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 120,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0111",
+        "Name": "Rhyhorn",
+        "HP": 80,
+        "Attack": 85,
+        "Defense": 95,
+        "Speed": 25
+    },
+    {
+        "S.no": "#0112",
+        "Name": "Rhydon",
+        "HP": 105,
+        "Attack": 130,
+        "Defense": 120,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0113",
+        "Name": "Chansey",
+        "HP": 250,
+        "Attack": 5,
+        "Defense": 5,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0114",
+        "Name": "Tangela",
+        "HP": 65,
+        "Attack": 55,
+        "Defense": 115,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0115",
+        "Name": "Kangaskhan",
+        "HP": 105,
+        "Attack": 95,
+        "Defense": 80,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0116",
+        "Name": "Horsea",
+        "HP": 30,
+        "Attack": 40,
+        "Defense": 70,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0117",
+        "Name": "Seadra",
+        "HP": 55,
+        "Attack": 65,
+        "Defense": 95,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0118",
+        "Name": "Goldeen",
+        "HP": 45,
+        "Attack": 67,
+        "Defense": 60,
+        "Speed": 63
+    },
+    {
+        "S.no": "#0119",
+        "Name": "Seaking",
+        "HP": 80,
+        "Attack": 92,
+        "Defense": 65,
+        "Speed": 68
+    },
+    {
+        "S.no": "#0120",
+        "Name": "Staryu",
+        "HP": 30,
+        "Attack": 45,
+        "Defense": 55,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0121",
+        "Name": "Starmie",
+        "HP": 60,
+        "Attack": 75,
+        "Defense": 85,
+        "Speed": 115
+    },
+    {
+        "S.no": "#0122",
+        "Name": "Mr-Mime",
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 65,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0123",
+        "Name": "Scyther",
+        "HP": 70,
+        "Attack": 110,
+        "Defense": 80,
+        "Speed": 105
+    },
+    {
+        "S.no": "#0124",
+        "Name": "Jynx",
+        "HP": 65,
+        "Attack": 50,
+        "Defense": 35,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0125",
+        "Name": "Electabuzz",
+        "HP": 65,
+        "Attack": 83,
+        "Defense": 57,
+        "Speed": 105
+    },
+    {
+        "S.no": "#0126",
+        "Name": "Magmar",
+        "HP": 65,
+        "Attack": 95,
+        "Defense": 57,
+        "Speed": 93
+    },
+    {
+        "S.no": "#0127",
+        "Name": "Pinsir",
+        "HP": 65,
+        "Attack": 125,
+        "Defense": 100,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0128",
+        "Name": "Tauros",
+        "HP": 75,
+        "Attack": 100,
+        "Defense": 95,
+        "Speed": 110
+    },
+    {
+        "S.no": "#0129",
+        "Name": "Magikarp",
+        "HP": 20,
+        "Attack": 10,
+        "Defense": 55,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0130",
+        "Name": "Gyarados",
+        "HP": 95,
+        "Attack": 125,
+        "Defense": 79,
+        "Speed": 81
+    },
+    {
+        "S.no": "#0131",
+        "Name": "Lapras",
+        "HP": 130,
+        "Attack": 85,
+        "Defense": 80,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0132",
+        "Name": "Ditto",
+        "HP": 48,
+        "Attack": 48,
+        "Defense": 48,
+        "Speed": 48
+    },
+    {
+        "S.no": "#0133",
+        "Name": "Eevee",
+        "HP": 55,
+        "Attack": 55,
+        "Defense": 50,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0134",
+        "Name": "Vaporeon",
+        "HP": 130,
+        "Attack": 65,
+        "Defense": 60,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0135",
+        "Name": "Jolteon",
+        "HP": 65,
+        "Attack": 65,
+        "Defense": 60,
+        "Speed": 130
+    },
+    {
+        "S.no": "#0136",
+        "Name": "Flareon",
+        "HP": 65,
+        "Attack": 130,
+        "Defense": 60,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0137",
+        "Name": "Porygon",
+        "HP": 65,
+        "Attack": 60,
+        "Defense": 70,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0138",
+        "Name": "Omanyte",
+        "HP": 35,
+        "Attack": 40,
+        "Defense": 100,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0139",
+        "Name": "Omastar",
+        "HP": 70,
+        "Attack": 60,
+        "Defense": 125,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0140",
+        "Name": "Kabuto",
+        "HP": 30,
+        "Attack": 80,
+        "Defense": 90,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0141",
+        "Name": "Kabutops",
+        "HP": 60,
+        "Attack": 115,
+        "Defense": 105,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0142",
+        "Name": "Aerodactyl",
+        "HP": 80,
+        "Attack": 105,
+        "Defense": 65,
+        "Speed": 130
+    },
+    {
+        "S.no": "#0143",
+        "Name": "Snorlax",
+        "HP": 160,
+        "Attack": 110,
+        "Defense": 65,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0144",
+        "Name": "Articuno",
+        "HP": 90,
+        "Attack": 85,
+        "Defense": 100,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0145",
+        "Name": "Zapdos",
+        "HP": 90,
+        "Attack": 90,
+        "Defense": 85,
+        "Speed": 100
+    },
+    {
+        "S.no": "#0146",
+        "Name": "Moltres",
+        "HP": 90,
+        "Attack": 100,
+        "Defense": 90,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0147",
+        "Name": "Dratini",
+        "HP": 41,
+        "Attack": 64,
+        "Defense": 45,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0148",
+        "Name": "Dragonair",
+        "HP": 61,
+        "Attack": 84,
+        "Defense": 65,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0149",
+        "Name": "Dragonite",
+        "HP": 91,
+        "Attack": 134,
+        "Defense": 95,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0150",
+        "Name": "Mewtwo",
+        "HP": 106,
+        "Attack": 110,
+        "Defense": 90,
+        "Speed": 130
+    },
+    {
+        "S.no": "#0151",
+        "Name": "Mew",
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 100,
+        "Speed": 100
+    },
+    {
+        "S.no": "#0152",
+        "Name": "Chikorita",
+        "HP": 45,
+        "Attack": 49,
+        "Defense": 65,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0153",
+        "Name": "Bayleef",
+        "HP": 60,
+        "Attack": 62,
+        "Defense": 80,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0154",
+        "Name": "Meganium",
+        "HP": 80,
+        "Attack": 82,
+        "Defense": 100,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0155",
+        "Name": "Cyndaquil",
+        "HP": 39,
+        "Attack": 52,
+        "Defense": 43,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0156",
+        "Name": "Quilava",
+        "HP": 58,
+        "Attack": 64,
+        "Defense": 58,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0157",
+        "Name": "Typhlosion",
+        "HP": 78,
+        "Attack": 84,
+        "Defense": 78,
+        "Speed": 100
+    },
+    {
+        "S.no": "#0158",
+        "Name": "Totodile",
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 64,
+        "Speed": 43
+    },
+    {
+        "S.no": "#0159",
+        "Name": "Croconaw",
+        "HP": 65,
+        "Attack": 80,
+        "Defense": 80,
+        "Speed": 58
+    },
+    {
+        "S.no": "#0160",
+        "Name": "Feraligatr",
+        "HP": 85,
+        "Attack": 105,
+        "Defense": 100,
+        "Speed": 78
+    },
+    {
+        "S.no": "#0161",
+        "Name": "Sentret",
+        "HP": 35,
+        "Attack": 46,
+        "Defense": 34,
+        "Speed": 20
+    },
+    {
+        "S.no": "#0162",
+        "Name": "Furret",
+        "HP": 85,
+        "Attack": 76,
+        "Defense": 64,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0163",
+        "Name": "Hoothoot",
+        "HP": 60,
+        "Attack": 30,
+        "Defense": 30,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0164",
+        "Name": "Noctowl",
+        "HP": 100,
+        "Attack": 50,
+        "Defense": 50,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0165",
+        "Name": "Ledyba",
+        "HP": 40,
+        "Attack": 20,
+        "Defense": 30,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0166",
+        "Name": "Ledian",
+        "HP": 55,
+        "Attack": 35,
+        "Defense": 50,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0167",
+        "Name": "Spinarak",
+        "HP": 40,
+        "Attack": 60,
+        "Defense": 40,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0168",
+        "Name": "Ariados",
+        "HP": 70,
+        "Attack": 90,
+        "Defense": 70,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0169",
+        "Name": "Crobat",
+        "HP": 85,
+        "Attack": 90,
+        "Defense": 80,
+        "Speed": 130
+    },
+    {
+        "S.no": "#0170",
+        "Name": "Chinchou",
+        "HP": 75,
+        "Attack": 38,
+        "Defense": 38,
+        "Speed": 67
+    },
+    {
+        "S.no": "#0171",
+        "Name": "Lanturn",
+        "HP": 125,
+        "Attack": 58,
+        "Defense": 58,
+        "Speed": 67
+    },
+    {
+        "S.no": "#0172",
+        "Name": "Pichu",
+        "HP": 20,
+        "Attack": 40,
+        "Defense": 15,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0173",
+        "Name": "Cleffa",
+        "HP": 50,
+        "Attack": 25,
+        "Defense": 28,
+        "Speed": 15
+    },
+    {
+        "S.no": "#0174",
+        "Name": "Igglybuff",
+        "HP": 90,
+        "Attack": 30,
+        "Defense": 15,
+        "Speed": 15
+    },
+    {
+        "S.no": "#0175",
+        "Name": "Togepi",
+        "HP": 35,
+        "Attack": 20,
+        "Defense": 65,
+        "Speed": 20
+    },
+    {
+        "S.no": "#0176",
+        "Name": "Togetic",
+        "HP": 55,
+        "Attack": 40,
+        "Defense": 85,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0177",
+        "Name": "Natu",
+        "HP": 40,
+        "Attack": 50,
+        "Defense": 45,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0178",
+        "Name": "Xatu",
+        "HP": 65,
+        "Attack": 75,
+        "Defense": 70,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0179",
+        "Name": "Mareep",
+        "HP": 55,
+        "Attack": 40,
+        "Defense": 40,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0180",
+        "Name": "Flaaffy",
+        "HP": 70,
+        "Attack": 55,
+        "Defense": 55,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0181",
+        "Name": "Ampharos",
+        "HP": 90,
+        "Attack": 75,
+        "Defense": 85,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0182",
+        "Name": "Bellossom",
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 95,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0183",
+        "Name": "Marill",
+        "HP": 70,
+        "Attack": 20,
+        "Defense": 50,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0184",
+        "Name": "Azumarill",
+        "HP": 100,
+        "Attack": 50,
+        "Defense": 80,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0185",
+        "Name": "Sudowoodo",
+        "HP": 70,
+        "Attack": 100,
+        "Defense": 115,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0186",
+        "Name": "Politoed",
+        "HP": 90,
+        "Attack": 75,
+        "Defense": 75,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0187",
+        "Name": "Hoppip",
+        "HP": 35,
+        "Attack": 35,
+        "Defense": 40,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0188",
+        "Name": "Skiploom",
+        "HP": 55,
+        "Attack": 45,
+        "Defense": 50,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0189",
+        "Name": "Jumpluff",
+        "HP": 75,
+        "Attack": 55,
+        "Defense": 70,
+        "Speed": 110
+    },
+    {
+        "S.no": "#0190",
+        "Name": "Aipom",
+        "HP": 55,
+        "Attack": 70,
+        "Defense": 55,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0191",
+        "Name": "Sunkern",
+        "HP": 30,
+        "Attack": 30,
+        "Defense": 30,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0192",
+        "Name": "Sunflora",
+        "HP": 75,
+        "Attack": 75,
+        "Defense": 55,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0193",
+        "Name": "Yanma",
+        "HP": 65,
+        "Attack": 65,
+        "Defense": 45,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0194",
+        "Name": "Wooper",
+        "HP": 55,
+        "Attack": 45,
+        "Defense": 45,
+        "Speed": 15
+    },
+    {
+        "S.no": "#0195",
+        "Name": "Quagsire",
+        "HP": 95,
+        "Attack": 85,
+        "Defense": 85,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0196",
+        "Name": "Espeon",
+        "HP": 65,
+        "Attack": 65,
+        "Defense": 60,
+        "Speed": 110
+    },
+    {
+        "S.no": "#0197",
+        "Name": "Umbreon",
+        "HP": 95,
+        "Attack": 65,
+        "Defense": 110,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0198",
+        "Name": "Murkrow",
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 42,
+        "Speed": 91
+    },
+    {
+        "S.no": "#0199",
+        "Name": "Slowking",
+        "HP": 95,
+        "Attack": 75,
+        "Defense": 80,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0200",
+        "Name": "Misdreavus",
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 60,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0201",
+        "Name": "Unown",
+        "HP": 48,
+        "Attack": 72,
+        "Defense": 48,
+        "Speed": 48
+    },
+    {
+        "S.no": "#0202",
+        "Name": "Wobbuffet",
+        "HP": 190,
+        "Attack": 33,
+        "Defense": 58,
+        "Speed": 33
+    },
+    {
+        "S.no": "#0203",
+        "Name": "Girafarig",
+        "HP": 70,
+        "Attack": 80,
+        "Defense": 65,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0204",
+        "Name": "Pineco",
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 90,
+        "Speed": 15
+    },
+    {
+        "S.no": "#0205",
+        "Name": "Forretress",
+        "HP": 75,
+        "Attack": 90,
+        "Defense": 140,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0206",
+        "Name": "Dunsparce",
+        "HP": 100,
+        "Attack": 70,
+        "Defense": 70,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0207",
+        "Name": "Gligar",
+        "HP": 65,
+        "Attack": 75,
+        "Defense": 105,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0208",
+        "Name": "Steelix",
+        "HP": 75,
+        "Attack": 85,
+        "Defense": 200,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0209",
+        "Name": "Snubbull",
+        "HP": 60,
+        "Attack": 80,
+        "Defense": 50,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0210",
+        "Name": "Granbull",
+        "HP": 90,
+        "Attack": 120,
+        "Defense": 75,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0211",
+        "Name": "Qwilfish",
+        "HP": 65,
+        "Attack": 95,
+        "Defense": 85,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0212",
+        "Name": "Scizor",
+        "HP": 70,
+        "Attack": 130,
+        "Defense": 100,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0213",
+        "Name": "Shuckle",
+        "HP": 20,
+        "Attack": 10,
+        "Defense": 230,
+        "Speed": 5
+    },
+    {
+        "S.no": "#0214",
+        "Name": "Heracross",
+        "HP": 80,
+        "Attack": 125,
+        "Defense": 75,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0215",
+        "Name": "Sneasel",
+        "HP": 55,
+        "Attack": 95,
+        "Defense": 55,
+        "Speed": 115
+    },
+    {
+        "S.no": "#0216",
+        "Name": "Teddiursa",
+        "HP": 60,
+        "Attack": 80,
+        "Defense": 50,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0217",
+        "Name": "Ursaring",
+        "HP": 90,
+        "Attack": 130,
+        "Defense": 75,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0218",
+        "Name": "Slugma",
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 40,
+        "Speed": 20
+    },
+    {
+        "S.no": "#0219",
+        "Name": "Magcargo",
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 120,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0220",
+        "Name": "Swinub",
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 40,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0221",
+        "Name": "Piloswine",
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 80,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0222",
+        "Name": "Corsola",
+        "HP": 65,
+        "Attack": 55,
+        "Defense": 95,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0223",
+        "Name": "Remoraid",
+        "HP": 35,
+        "Attack": 65,
+        "Defense": 35,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0224",
+        "Name": "Octillery",
+        "HP": 75,
+        "Attack": 105,
+        "Defense": 75,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0225",
+        "Name": "Delibird",
+        "HP": 45,
+        "Attack": 55,
+        "Defense": 45,
+        "Speed": 75
+    },
+    {
+        "S.no": "#0226",
+        "Name": "Mantine",
+        "HP": 85,
+        "Attack": 40,
+        "Defense": 70,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0227",
+        "Name": "Skarmory",
+        "HP": 65,
+        "Attack": 80,
+        "Defense": 140,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0228",
+        "Name": "Houndour",
+        "HP": 45,
+        "Attack": 60,
+        "Defense": 30,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0229",
+        "Name": "Houndoom",
+        "HP": 75,
+        "Attack": 90,
+        "Defense": 50,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0230",
+        "Name": "Kingdra",
+        "HP": 75,
+        "Attack": 95,
+        "Defense": 95,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0231",
+        "Name": "Phanpy",
+        "HP": 90,
+        "Attack": 60,
+        "Defense": 60,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0232",
+        "Name": "Donphan",
+        "HP": 90,
+        "Attack": 120,
+        "Defense": 120,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0233",
+        "Name": "Porygon2",
+        "HP": 85,
+        "Attack": 80,
+        "Defense": 90,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0234",
+        "Name": "Stantler",
+        "HP": 73,
+        "Attack": 95,
+        "Defense": 62,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0235",
+        "Name": "Smeargle",
+        "HP": 55,
+        "Attack": 20,
+        "Defense": 35,
+        "Speed": 75
+    },
+    {
+        "S.no": "#0236",
+        "Name": "Tyrogue",
+        "HP": 35,
+        "Attack": 35,
+        "Defense": 35,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0237",
+        "Name": "Hitmontop",
+        "HP": 50,
+        "Attack": 95,
+        "Defense": 95,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0238",
+        "Name": "Smoochum",
+        "HP": 45,
+        "Attack": 30,
+        "Defense": 15,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0239",
+        "Name": "Elekid",
+        "HP": 45,
+        "Attack": 63,
+        "Defense": 37,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0240",
+        "Name": "Magby",
+        "HP": 45,
+        "Attack": 75,
+        "Defense": 37,
+        "Speed": 83
+    },
+    {
+        "S.no": "#0241",
+        "Name": "Miltank",
+        "HP": 95,
+        "Attack": 80,
+        "Defense": 105,
+        "Speed": 100
+    },
+    {
+        "S.no": "#0242",
+        "Name": "Blissey",
+        "HP": 255,
+        "Attack": 10,
+        "Defense": 10,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0243",
+        "Name": "Raikou",
+        "HP": 90,
+        "Attack": 85,
+        "Defense": 75,
+        "Speed": 115
+    },
+    {
+        "S.no": "#0244",
+        "Name": "Entei",
+        "HP": 115,
+        "Attack": 115,
+        "Defense": 85,
+        "Speed": 100
+    },
+    {
+        "S.no": "#0245",
+        "Name": "Suicune",
+        "HP": 100,
+        "Attack": 75,
+        "Defense": 115,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0246",
+        "Name": "Larvitar",
+        "HP": 50,
+        "Attack": 64,
+        "Defense": 50,
+        "Speed": 41
+    },
+    {
+        "S.no": "#0247",
+        "Name": "Pupitar",
+        "HP": 70,
+        "Attack": 84,
+        "Defense": 70,
+        "Speed": 51
+    },
+    {
+        "S.no": "#0248",
+        "Name": "Tyranitar",
+        "HP": 100,
+        "Attack": 134,
+        "Defense": 110,
+        "Speed": 61
+    },
+    {
+        "S.no": "#0249",
+        "Name": "Lugia",
+        "HP": 106,
+        "Attack": 90,
+        "Defense": 130,
+        "Speed": 110
+    },
+    {
+        "S.no": "#0250",
+        "Name": "Ho-Oh",
+        "HP": 106,
+        "Attack": 130,
+        "Defense": 90,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0251",
+        "Name": "Celebi",
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 100,
+        "Speed": 100
+    },
+    {
+        "S.no": "#0252",
+        "Name": "Treecko",
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 35,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0253",
+        "Name": "Grovyle",
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 45,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0254",
+        "Name": "Sceptile",
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 65,
+        "Speed": 120
+    },
+    {
+        "S.no": "#0255",
+        "Name": "Torchic",
+        "HP": 45,
+        "Attack": 60,
+        "Defense": 40,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0256",
+        "Name": "Combusken",
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 60,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0257",
+        "Name": "Blaziken",
+        "HP": 80,
+        "Attack": 120,
+        "Defense": 70,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0258",
+        "Name": "Mudkip",
+        "HP": 50,
+        "Attack": 70,
+        "Defense": 50,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0259",
+        "Name": "Marshtomp",
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 70,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0260",
+        "Name": "Swampert",
+        "HP": 100,
+        "Attack": 110,
+        "Defense": 90,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0261",
+        "Name": "Poochyena",
+        "HP": 35,
+        "Attack": 55,
+        "Defense": 35,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0262",
+        "Name": "Mightyena",
+        "HP": 70,
+        "Attack": 90,
+        "Defense": 70,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0263",
+        "Name": "Zigzagoon",
+        "HP": 38,
+        "Attack": 30,
+        "Defense": 41,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0264",
+        "Name": "Linoone",
+        "HP": 78,
+        "Attack": 70,
+        "Defense": 61,
+        "Speed": 100
+    },
+    {
+        "S.no": "#0265",
+        "Name": "Wurmple",
+        "HP": 45,
+        "Attack": 45,
+        "Defense": 35,
+        "Speed": 20
+    },
+    {
+        "S.no": "#0266",
+        "Name": "Silcoon",
+        "HP": 50,
+        "Attack": 35,
+        "Defense": 55,
+        "Speed": 15
+    },
+    {
+        "S.no": "#0267",
+        "Name": "Beautifly",
+        "HP": 60,
+        "Attack": 70,
+        "Defense": 50,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0268",
+        "Name": "Cascoon",
+        "HP": 50,
+        "Attack": 35,
+        "Defense": 55,
+        "Speed": 15
+    },
+    {
+        "S.no": "#0269",
+        "Name": "Dustox",
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 70,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0270",
+        "Name": "Lotad",
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 30,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0271",
+        "Name": "Lombre",
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 50,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0272",
+        "Name": "Ludicolo",
+        "HP": 80,
+        "Attack": 70,
+        "Defense": 70,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0273",
+        "Name": "Seedot",
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 50,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0274",
+        "Name": "Nuzleaf",
+        "HP": 70,
+        "Attack": 70,
+        "Defense": 40,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0275",
+        "Name": "Shiftry",
+        "HP": 90,
+        "Attack": 100,
+        "Defense": 60,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0276",
+        "Name": "Taillow",
+        "HP": 40,
+        "Attack": 55,
+        "Defense": 30,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0277",
+        "Name": "Swellow",
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 60,
+        "Speed": 125
+    },
+    {
+        "S.no": "#0278",
+        "Name": "Wingull",
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 30,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0279",
+        "Name": "Pelipper",
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 100,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0280",
+        "Name": "Ralts",
+        "HP": 28,
+        "Attack": 25,
+        "Defense": 25,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0281",
+        "Name": "Kirlia",
+        "HP": 38,
+        "Attack": 35,
+        "Defense": 35,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0282",
+        "Name": "Gardevoir",
+        "HP": 68,
+        "Attack": 65,
+        "Defense": 65,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0283",
+        "Name": "Surskit",
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 32,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0284",
+        "Name": "Masquerain",
+        "HP": 70,
+        "Attack": 60,
+        "Defense": 62,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0285",
+        "Name": "Shroomish",
+        "HP": 60,
+        "Attack": 40,
+        "Defense": 60,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0286",
+        "Name": "Breloom",
+        "HP": 60,
+        "Attack": 130,
+        "Defense": 80,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0287",
+        "Name": "Slakoth",
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 60,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0288",
+        "Name": "Vigoroth",
+        "HP": 80,
+        "Attack": 80,
+        "Defense": 80,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0289",
+        "Name": "Slaking",
+        "HP": 150,
+        "Attack": 160,
+        "Defense": 100,
+        "Speed": 100
+    },
+    {
+        "S.no": "#0290",
+        "Name": "Nincada",
+        "HP": 31,
+        "Attack": 45,
+        "Defense": 90,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0291",
+        "Name": "Ninjask",
+        "HP": 61,
+        "Attack": 90,
+        "Defense": 45,
+        "Speed": 160
+    },
+    {
+        "S.no": "#0292",
+        "Name": "Shedinja",
+        "HP": 1,
+        "Attack": 90,
+        "Defense": 45,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0293",
+        "Name": "Whismur",
+        "HP": 64,
+        "Attack": 51,
+        "Defense": 23,
+        "Speed": 28
+    },
+    {
+        "S.no": "#0294",
+        "Name": "Loudred",
+        "HP": 84,
+        "Attack": 71,
+        "Defense": 43,
+        "Speed": 48
+    },
+    {
+        "S.no": "#0295",
+        "Name": "Exploud",
+        "HP": 104,
+        "Attack": 91,
+        "Defense": 63,
+        "Speed": 68
+    },
+    {
+        "S.no": "#0296",
+        "Name": "Makuhita",
+        "HP": 72,
+        "Attack": 60,
+        "Defense": 30,
+        "Speed": 25
+    },
+    {
+        "S.no": "#0297",
+        "Name": "Hariyama",
+        "HP": 144,
+        "Attack": 120,
+        "Defense": 60,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0298",
+        "Name": "Azurill",
+        "HP": 50,
+        "Attack": 20,
+        "Defense": 40,
+        "Speed": 20
+    },
+    {
+        "S.no": "#0299",
+        "Name": "Nosepass",
+        "HP": 30,
+        "Attack": 45,
+        "Defense": 135,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0300",
+        "Name": "Skitty",
+        "HP": 50,
+        "Attack": 45,
+        "Defense": 45,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0301",
+        "Name": "Delcatty",
+        "HP": 70,
+        "Attack": 65,
+        "Defense": 65,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0302",
+        "Name": "Sableye",
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 75,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0303",
+        "Name": "Mawile",
+        "HP": 50,
+        "Attack": 85,
+        "Defense": 85,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0304",
+        "Name": "Aron",
+        "HP": 50,
+        "Attack": 70,
+        "Defense": 100,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0305",
+        "Name": "Lairon",
+        "HP": 60,
+        "Attack": 90,
+        "Defense": 140,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0306",
+        "Name": "Aggron",
+        "HP": 70,
+        "Attack": 110,
+        "Defense": 180,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0307",
+        "Name": "Meditite",
+        "HP": 30,
+        "Attack": 40,
+        "Defense": 55,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0308",
+        "Name": "Medicham",
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 75,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0309",
+        "Name": "Electrike",
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 40,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0310",
+        "Name": "Manectric",
+        "HP": 70,
+        "Attack": 75,
+        "Defense": 60,
+        "Speed": 105
+    },
+    {
+        "S.no": "#0311",
+        "Name": "Plusle",
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 40,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0312",
+        "Name": "Minun",
+        "HP": 60,
+        "Attack": 40,
+        "Defense": 50,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0313",
+        "Name": "Volbeat",
+        "HP": 65,
+        "Attack": 73,
+        "Defense": 75,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0314",
+        "Name": "Illumise",
+        "HP": 65,
+        "Attack": 47,
+        "Defense": 75,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0315",
+        "Name": "Roselia",
+        "HP": 50,
+        "Attack": 60,
+        "Defense": 45,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0316",
+        "Name": "Gulpin",
+        "HP": 70,
+        "Attack": 43,
+        "Defense": 53,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0317",
+        "Name": "Swalot",
+        "HP": 100,
+        "Attack": 73,
+        "Defense": 83,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0318",
+        "Name": "Carvanha",
+        "HP": 45,
+        "Attack": 90,
+        "Defense": 20,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0319",
+        "Name": "Sharpedo",
+        "HP": 70,
+        "Attack": 120,
+        "Defense": 40,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0320",
+        "Name": "Wailmer",
+        "HP": 130,
+        "Attack": 70,
+        "Defense": 35,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0321",
+        "Name": "Wailord",
+        "HP": 170,
+        "Attack": 90,
+        "Defense": 45,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0322",
+        "Name": "Numel",
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 40,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0323",
+        "Name": "Camerupt",
+        "HP": 70,
+        "Attack": 100,
+        "Defense": 70,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0324",
+        "Name": "Torkoal",
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 140,
+        "Speed": 20
+    },
+    {
+        "S.no": "#0325",
+        "Name": "Spoink",
+        "HP": 60,
+        "Attack": 25,
+        "Defense": 35,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0326",
+        "Name": "Grumpig",
+        "HP": 80,
+        "Attack": 45,
+        "Defense": 65,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0327",
+        "Name": "Spinda",
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 60,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0328",
+        "Name": "Trapinch",
+        "HP": 45,
+        "Attack": 100,
+        "Defense": 45,
+        "Speed": 10
+    },
+    {
+        "S.no": "#0329",
+        "Name": "Vibrava",
+        "HP": 50,
+        "Attack": 70,
+        "Defense": 50,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0330",
+        "Name": "Flygon",
+        "HP": 80,
+        "Attack": 100,
+        "Defense": 80,
+        "Speed": 100
+    },
+    {
+        "S.no": "#0331",
+        "Name": "Cacnea",
+        "HP": 50,
+        "Attack": 85,
+        "Defense": 40,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0332",
+        "Name": "Cacturne",
+        "HP": 70,
+        "Attack": 115,
+        "Defense": 60,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0333",
+        "Name": "Swablu",
+        "HP": 45,
+        "Attack": 40,
+        "Defense": 60,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0334",
+        "Name": "Altaria",
+        "HP": 75,
+        "Attack": 70,
+        "Defense": 90,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0335",
+        "Name": "Zangoose",
+        "HP": 73,
+        "Attack": 115,
+        "Defense": 60,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0336",
+        "Name": "Seviper",
+        "HP": 73,
+        "Attack": 100,
+        "Defense": 60,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0337",
+        "Name": "Lunatone",
+        "HP": 90,
+        "Attack": 55,
+        "Defense": 65,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0338",
+        "Name": "Solrock",
+        "HP": 90,
+        "Attack": 95,
+        "Defense": 85,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0339",
+        "Name": "Barboach",
+        "HP": 50,
+        "Attack": 48,
+        "Defense": 43,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0340",
+        "Name": "Whiscash",
+        "HP": 110,
+        "Attack": 78,
+        "Defense": 73,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0341",
+        "Name": "Corphish",
+        "HP": 43,
+        "Attack": 80,
+        "Defense": 65,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0342",
+        "Name": "Crawdaunt",
+        "HP": 63,
+        "Attack": 120,
+        "Defense": 85,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0343",
+        "Name": "Baltoy",
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 55,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0344",
+        "Name": "Claydol",
+        "HP": 60,
+        "Attack": 70,
+        "Defense": 105,
+        "Speed": 75
+    },
+    {
+        "S.no": "#0345",
+        "Name": "Lileep",
+        "HP": 66,
+        "Attack": 41,
+        "Defense": 77,
+        "Speed": 23
+    },
+    {
+        "S.no": "#0346",
+        "Name": "Cradily",
+        "HP": 86,
+        "Attack": 81,
+        "Defense": 97,
+        "Speed": 43
+    },
+    {
+        "S.no": "#0347",
+        "Name": "Anorith",
+        "HP": 45,
+        "Attack": 95,
+        "Defense": 50,
+        "Speed": 75
+    },
+    {
+        "S.no": "#0348",
+        "Name": "Armaldo",
+        "HP": 75,
+        "Attack": 125,
+        "Defense": 100,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0349",
+        "Name": "Feebas",
+        "HP": 20,
+        "Attack": 15,
+        "Defense": 20,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0350",
+        "Name": "Milotic",
+        "HP": 95,
+        "Attack": 60,
+        "Defense": 79,
+        "Speed": 81
+    },
+    {
+        "S.no": "#0351",
+        "Name": "Castform",
+        "HP": 70,
+        "Attack": 70,
+        "Defense": 70,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0352",
+        "Name": "Kecleon",
+        "HP": 60,
+        "Attack": 90,
+        "Defense": 70,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0353",
+        "Name": "Shuppet",
+        "HP": 44,
+        "Attack": 75,
+        "Defense": 35,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0354",
+        "Name": "Banette",
+        "HP": 64,
+        "Attack": 115,
+        "Defense": 65,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0355",
+        "Name": "Duskull",
+        "HP": 20,
+        "Attack": 40,
+        "Defense": 90,
+        "Speed": 25
+    },
+    {
+        "S.no": "#0356",
+        "Name": "Dusclops",
+        "HP": 40,
+        "Attack": 70,
+        "Defense": 130,
+        "Speed": 25
+    },
+    {
+        "S.no": "#0357",
+        "Name": "Tropius",
+        "HP": 99,
+        "Attack": 68,
+        "Defense": 83,
+        "Speed": 51
+    },
+    {
+        "S.no": "#0358",
+        "Name": "Chimecho",
+        "HP": 75,
+        "Attack": 50,
+        "Defense": 80,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0359",
+        "Name": "Absol",
+        "HP": 65,
+        "Attack": 130,
+        "Defense": 60,
+        "Speed": 75
+    },
+    {
+        "S.no": "#0360",
+        "Name": "Wynaut",
+        "HP": 95,
+        "Attack": 23,
+        "Defense": 48,
+        "Speed": 23
+    },
+    {
+        "S.no": "#0361",
+        "Name": "Snorunt",
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 50,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0362",
+        "Name": "Glalie",
+        "HP": 80,
+        "Attack": 80,
+        "Defense": 80,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0363",
+        "Name": "Spheal",
+        "HP": 70,
+        "Attack": 40,
+        "Defense": 50,
+        "Speed": 25
+    },
+    {
+        "S.no": "#0364",
+        "Name": "Sealeo",
+        "HP": 90,
+        "Attack": 60,
+        "Defense": 70,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0365",
+        "Name": "Walrein",
+        "HP": 110,
+        "Attack": 80,
+        "Defense": 90,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0366",
+        "Name": "Clamperl",
+        "HP": 35,
+        "Attack": 64,
+        "Defense": 85,
+        "Speed": 32
+    },
+    {
+        "S.no": "#0367",
+        "Name": "Huntail",
+        "HP": 55,
+        "Attack": 104,
+        "Defense": 105,
+        "Speed": 52
+    },
+    {
+        "S.no": "#0368",
+        "Name": "Gorebyss",
+        "HP": 55,
+        "Attack": 84,
+        "Defense": 105,
+        "Speed": 52
+    },
+    {
+        "S.no": "#0369",
+        "Name": "Relicanth",
+        "HP": 100,
+        "Attack": 90,
+        "Defense": 130,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0370",
+        "Name": "Luvdisc",
+        "HP": 43,
+        "Attack": 30,
+        "Defense": 55,
+        "Speed": 97
+    },
+    {
+        "S.no": "#0371",
+        "Name": "Bagon",
+        "HP": 45,
+        "Attack": 75,
+        "Defense": 60,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0372",
+        "Name": "Shelgon",
+        "HP": 65,
+        "Attack": 95,
+        "Defense": 100,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0373",
+        "Name": "Salamence",
+        "HP": 95,
+        "Attack": 135,
+        "Defense": 80,
+        "Speed": 100
+    },
+    {
+        "S.no": "#0374",
+        "Name": "Beldum",
+        "HP": 40,
+        "Attack": 55,
+        "Defense": 80,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0375",
+        "Name": "Metang",
+        "HP": 60,
+        "Attack": 75,
+        "Defense": 100,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0376",
+        "Name": "Metagross",
+        "HP": 80,
+        "Attack": 135,
+        "Defense": 130,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0377",
+        "Name": "Regirock",
+        "HP": 80,
+        "Attack": 100,
+        "Defense": 200,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0378",
+        "Name": "Regice",
+        "HP": 80,
+        "Attack": 50,
+        "Defense": 100,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0379",
+        "Name": "Registeel",
+        "HP": 80,
+        "Attack": 75,
+        "Defense": 150,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0380",
+        "Name": "Latias",
+        "HP": 80,
+        "Attack": 80,
+        "Defense": 90,
+        "Speed": 110
+    },
+    {
+        "S.no": "#0381",
+        "Name": "Latios",
+        "HP": 80,
+        "Attack": 90,
+        "Defense": 80,
+        "Speed": 110
+    },
+    {
+        "S.no": "#0382",
+        "Name": "Kyogre",
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 90,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0383",
+        "Name": "Groudon",
+        "HP": 100,
+        "Attack": 150,
+        "Defense": 140,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0384",
+        "Name": "Rayquaza",
+        "HP": 105,
+        "Attack": 150,
+        "Defense": 90,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0385",
+        "Name": "Jirachi",
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 100,
+        "Speed": 100
+    },
+    {
+        "S.no": "#0386",
+        "Name": "Deoxys-Normal",
+        "HP": 50,
+        "Attack": 150,
+        "Defense": 50,
+        "Speed": 150
+    },
+    {
+        "S.no": "#0387",
+        "Name": "Turtwig",
+        "HP": 55,
+        "Attack": 68,
+        "Defense": 64,
+        "Speed": 31
+    },
+    {
+        "S.no": "#0388",
+        "Name": "Grotle",
+        "HP": 75,
+        "Attack": 89,
+        "Defense": 85,
+        "Speed": 36
+    },
+    {
+        "S.no": "#0389",
+        "Name": "Torterra",
+        "HP": 95,
+        "Attack": 109,
+        "Defense": 105,
+        "Speed": 56
+    },
+    {
+        "S.no": "#0390",
+        "Name": "Chimchar",
+        "HP": 44,
+        "Attack": 58,
+        "Defense": 44,
+        "Speed": 61
+    },
+    {
+        "S.no": "#0391",
+        "Name": "Monferno",
+        "HP": 64,
+        "Attack": 78,
+        "Defense": 52,
+        "Speed": 81
+    },
+    {
+        "S.no": "#0392",
+        "Name": "Infernape",
+        "HP": 76,
+        "Attack": 104,
+        "Defense": 71,
+        "Speed": 108
+    },
+    {
+        "S.no": "#0393",
+        "Name": "Piplup",
+        "HP": 53,
+        "Attack": 51,
+        "Defense": 53,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0394",
+        "Name": "Prinplup",
+        "HP": 64,
+        "Attack": 66,
+        "Defense": 68,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0395",
+        "Name": "Empoleon",
+        "HP": 84,
+        "Attack": 86,
+        "Defense": 88,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0396",
+        "Name": "Starly",
+        "HP": 40,
+        "Attack": 55,
+        "Defense": 30,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0397",
+        "Name": "Staravia",
+        "HP": 55,
+        "Attack": 75,
+        "Defense": 50,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0398",
+        "Name": "Staraptor",
+        "HP": 85,
+        "Attack": 120,
+        "Defense": 70,
+        "Speed": 100
+    },
+    {
+        "S.no": "#0399",
+        "Name": "Bidoof",
+        "HP": 59,
+        "Attack": 45,
+        "Defense": 40,
+        "Speed": 31
+    },
+    {
+        "S.no": "#0400",
+        "Name": "Bibarel",
+        "HP": 79,
+        "Attack": 85,
+        "Defense": 60,
+        "Speed": 71
+    },
+    {
+        "S.no": "#0401",
+        "Name": "Kricketot",
+        "HP": 37,
+        "Attack": 25,
+        "Defense": 41,
+        "Speed": 25
+    },
+    {
+        "S.no": "#0402",
+        "Name": "Kricketune",
+        "HP": 77,
+        "Attack": 85,
+        "Defense": 51,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0403",
+        "Name": "Shinx",
+        "HP": 45,
+        "Attack": 65,
+        "Defense": 34,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0404",
+        "Name": "Luxio",
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 49,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0405",
+        "Name": "Luxray",
+        "HP": 80,
+        "Attack": 120,
+        "Defense": 79,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0406",
+        "Name": "Budew",
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 35,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0407",
+        "Name": "Roserade",
+        "HP": 60,
+        "Attack": 70,
+        "Defense": 65,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0408",
+        "Name": "Cranidos",
+        "HP": 67,
+        "Attack": 125,
+        "Defense": 40,
+        "Speed": 58
+    },
+    {
+        "S.no": "#0409",
+        "Name": "Rampardos",
+        "HP": 97,
+        "Attack": 165,
+        "Defense": 60,
+        "Speed": 58
+    },
+    {
+        "S.no": "#0410",
+        "Name": "Shieldon",
+        "HP": 30,
+        "Attack": 42,
+        "Defense": 118,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0411",
+        "Name": "Bastiodon",
+        "HP": 60,
+        "Attack": 52,
+        "Defense": 168,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0412",
+        "Name": "Burmy",
+        "HP": 40,
+        "Attack": 29,
+        "Defense": 45,
+        "Speed": 36
+    },
+    {
+        "S.no": "#0413",
+        "Name": "Wormadam-Plant",
+        "HP": 60,
+        "Attack": 59,
+        "Defense": 85,
+        "Speed": 36
+    },
+    {
+        "S.no": "#0414",
+        "Name": "Mothim",
+        "HP": 70,
+        "Attack": 94,
+        "Defense": 50,
+        "Speed": 66
+    },
+    {
+        "S.no": "#0415",
+        "Name": "Combee",
+        "HP": 30,
+        "Attack": 30,
+        "Defense": 42,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0416",
+        "Name": "Vespiquen",
+        "HP": 70,
+        "Attack": 80,
+        "Defense": 102,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0417",
+        "Name": "Pachirisu",
+        "HP": 60,
+        "Attack": 45,
+        "Defense": 70,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0418",
+        "Name": "Buizel",
+        "HP": 55,
+        "Attack": 65,
+        "Defense": 35,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0419",
+        "Name": "Floatzel",
+        "HP": 85,
+        "Attack": 105,
+        "Defense": 55,
+        "Speed": 115
+    },
+    {
+        "S.no": "#0420",
+        "Name": "Cherubi",
+        "HP": 45,
+        "Attack": 35,
+        "Defense": 45,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0421",
+        "Name": "Cherrim",
+        "HP": 70,
+        "Attack": 60,
+        "Defense": 70,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0422",
+        "Name": "Shellos",
+        "HP": 76,
+        "Attack": 48,
+        "Defense": 48,
+        "Speed": 34
+    },
+    {
+        "S.no": "#0423",
+        "Name": "Gastrodon",
+        "HP": 111,
+        "Attack": 83,
+        "Defense": 68,
+        "Speed": 39
+    },
+    {
+        "S.no": "#0424",
+        "Name": "Ambipom",
+        "HP": 75,
+        "Attack": 100,
+        "Defense": 66,
+        "Speed": 115
+    },
+    {
+        "S.no": "#0425",
+        "Name": "Drifloon",
+        "HP": 90,
+        "Attack": 50,
+        "Defense": 34,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0426",
+        "Name": "Drifblim",
+        "HP": 150,
+        "Attack": 80,
+        "Defense": 44,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0427",
+        "Name": "Buneary",
+        "HP": 55,
+        "Attack": 66,
+        "Defense": 44,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0428",
+        "Name": "Lopunny",
+        "HP": 65,
+        "Attack": 76,
+        "Defense": 84,
+        "Speed": 105
+    },
+    {
+        "S.no": "#0429",
+        "Name": "Mismagius",
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 60,
+        "Speed": 105
+    },
+    {
+        "S.no": "#0430",
+        "Name": "Honchkrow",
+        "HP": 100,
+        "Attack": 125,
+        "Defense": 52,
+        "Speed": 71
+    },
+    {
+        "S.no": "#0431",
+        "Name": "Glameow",
+        "HP": 49,
+        "Attack": 55,
+        "Defense": 42,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0432",
+        "Name": "Purugly",
+        "HP": 71,
+        "Attack": 82,
+        "Defense": 64,
+        "Speed": 112
+    },
+    {
+        "S.no": "#0433",
+        "Name": "Chingling",
+        "HP": 45,
+        "Attack": 30,
+        "Defense": 50,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0434",
+        "Name": "Stunky",
+        "HP": 63,
+        "Attack": 63,
+        "Defense": 47,
+        "Speed": 74
+    },
+    {
+        "S.no": "#0435",
+        "Name": "Skuntank",
+        "HP": 103,
+        "Attack": 93,
+        "Defense": 67,
+        "Speed": 84
+    },
+    {
+        "S.no": "#0436",
+        "Name": "Bronzor",
+        "HP": 57,
+        "Attack": 24,
+        "Defense": 86,
+        "Speed": 23
+    },
+    {
+        "S.no": "#0437",
+        "Name": "Bronzong",
+        "HP": 67,
+        "Attack": 89,
+        "Defense": 116,
+        "Speed": 33
+    },
+    {
+        "S.no": "#0438",
+        "Name": "Bonsly",
+        "HP": 50,
+        "Attack": 80,
+        "Defense": 95,
+        "Speed": 10
+    },
+    {
+        "S.no": "#0439",
+        "Name": "Mime-Jr",
+        "HP": 20,
+        "Attack": 25,
+        "Defense": 45,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0440",
+        "Name": "Happiny",
+        "HP": 100,
+        "Attack": 5,
+        "Defense": 5,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0441",
+        "Name": "Chatot",
+        "HP": 76,
+        "Attack": 65,
+        "Defense": 45,
+        "Speed": 91
+    },
+    {
+        "S.no": "#0442",
+        "Name": "Spiritomb",
+        "HP": 50,
+        "Attack": 92,
+        "Defense": 108,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0443",
+        "Name": "Gible",
+        "HP": 58,
+        "Attack": 70,
+        "Defense": 45,
+        "Speed": 42
+    },
+    {
+        "S.no": "#0444",
+        "Name": "Gabite",
+        "HP": 68,
+        "Attack": 90,
+        "Defense": 65,
+        "Speed": 82
+    },
+    {
+        "S.no": "#0445",
+        "Name": "Garchomp",
+        "HP": 108,
+        "Attack": 130,
+        "Defense": 95,
+        "Speed": 102
+    },
+    {
+        "S.no": "#0446",
+        "Name": "Munchlax",
+        "HP": 135,
+        "Attack": 85,
+        "Defense": 40,
+        "Speed": 5
+    },
+    {
+        "S.no": "#0447",
+        "Name": "Riolu",
+        "HP": 40,
+        "Attack": 70,
+        "Defense": 40,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0448",
+        "Name": "Lucario",
+        "HP": 70,
+        "Attack": 110,
+        "Defense": 70,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0449",
+        "Name": "Hippopotas",
+        "HP": 68,
+        "Attack": 72,
+        "Defense": 78,
+        "Speed": 32
+    },
+    {
+        "S.no": "#0450",
+        "Name": "Hippowdon",
+        "HP": 108,
+        "Attack": 112,
+        "Defense": 118,
+        "Speed": 47
+    },
+    {
+        "S.no": "#0451",
+        "Name": "Skorupi",
+        "HP": 40,
+        "Attack": 50,
+        "Defense": 90,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0452",
+        "Name": "Drapion",
+        "HP": 70,
+        "Attack": 90,
+        "Defense": 110,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0453",
+        "Name": "Croagunk",
+        "HP": 48,
+        "Attack": 61,
+        "Defense": 40,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0454",
+        "Name": "Toxicroak",
+        "HP": 83,
+        "Attack": 106,
+        "Defense": 65,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0455",
+        "Name": "Carnivine",
+        "HP": 74,
+        "Attack": 100,
+        "Defense": 72,
+        "Speed": 46
+    },
+    {
+        "S.no": "#0456",
+        "Name": "Finneon",
+        "HP": 49,
+        "Attack": 49,
+        "Defense": 56,
+        "Speed": 66
+    },
+    {
+        "S.no": "#0457",
+        "Name": "Lumineon",
+        "HP": 69,
+        "Attack": 69,
+        "Defense": 76,
+        "Speed": 91
+    },
+    {
+        "S.no": "#0458",
+        "Name": "Mantyke",
+        "HP": 45,
+        "Attack": 20,
+        "Defense": 50,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0459",
+        "Name": "Snover",
+        "HP": 60,
+        "Attack": 62,
+        "Defense": 50,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0460",
+        "Name": "Abomasnow",
+        "HP": 90,
+        "Attack": 92,
+        "Defense": 75,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0461",
+        "Name": "Weavile",
+        "HP": 70,
+        "Attack": 120,
+        "Defense": 65,
+        "Speed": 125
+    },
+    {
+        "S.no": "#0462",
+        "Name": "Magnezone",
+        "HP": 70,
+        "Attack": 70,
+        "Defense": 115,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0463",
+        "Name": "Lickilicky",
+        "HP": 110,
+        "Attack": 85,
+        "Defense": 95,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0464",
+        "Name": "Rhyperior",
+        "HP": 115,
+        "Attack": 140,
+        "Defense": 130,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0465",
+        "Name": "Tangrowth",
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 125,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0466",
+        "Name": "Electivire",
+        "HP": 75,
+        "Attack": 123,
+        "Defense": 67,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0467",
+        "Name": "Magmortar",
+        "HP": 75,
+        "Attack": 95,
+        "Defense": 67,
+        "Speed": 83
+    },
+    {
+        "S.no": "#0468",
+        "Name": "Togekiss",
+        "HP": 85,
+        "Attack": 50,
+        "Defense": 95,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0469",
+        "Name": "Yanmega",
+        "HP": 86,
+        "Attack": 76,
+        "Defense": 86,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0470",
+        "Name": "Leafeon",
+        "HP": 65,
+        "Attack": 110,
+        "Defense": 130,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0471",
+        "Name": "Glaceon",
+        "HP": 65,
+        "Attack": 60,
+        "Defense": 110,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0472",
+        "Name": "Gliscor",
+        "HP": 75,
+        "Attack": 95,
+        "Defense": 125,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0473",
+        "Name": "Mamoswine",
+        "HP": 110,
+        "Attack": 130,
+        "Defense": 80,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0474",
+        "Name": "Porygon-Z",
+        "HP": 85,
+        "Attack": 80,
+        "Defense": 70,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0475",
+        "Name": "Gallade",
+        "HP": 68,
+        "Attack": 125,
+        "Defense": 65,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0476",
+        "Name": "Probopass",
+        "HP": 60,
+        "Attack": 55,
+        "Defense": 145,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0477",
+        "Name": "Dusknoir",
+        "HP": 45,
+        "Attack": 100,
+        "Defense": 135,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0478",
+        "Name": "Froslass",
+        "HP": 70,
+        "Attack": 80,
+        "Defense": 70,
+        "Speed": 110
+    },
+    {
+        "S.no": "#0479",
+        "Name": "Rotom",
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 77,
+        "Speed": 91
+    },
+    {
+        "S.no": "#0480",
+        "Name": "Uxie",
+        "HP": 75,
+        "Attack": 75,
+        "Defense": 130,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0481",
+        "Name": "Mesprit",
+        "HP": 80,
+        "Attack": 105,
+        "Defense": 105,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0482",
+        "Name": "Azelf",
+        "HP": 75,
+        "Attack": 125,
+        "Defense": 70,
+        "Speed": 115
+    },
+    {
+        "S.no": "#0483",
+        "Name": "Dialga",
+        "HP": 100,
+        "Attack": 120,
+        "Defense": 120,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0484",
+        "Name": "Palkia",
+        "HP": 90,
+        "Attack": 120,
+        "Defense": 100,
+        "Speed": 100
+    },
+    {
+        "S.no": "#0485",
+        "Name": "Heatran",
+        "HP": 91,
+        "Attack": 90,
+        "Defense": 106,
+        "Speed": 77
+    },
+    {
+        "S.no": "#0486",
+        "Name": "Regigigas",
+        "HP": 110,
+        "Attack": 160,
+        "Defense": 110,
+        "Speed": 100
+    },
+    {
+        "S.no": "#0487",
+        "Name": "Giratina-Altered",
+        "HP": 150,
+        "Attack": 100,
+        "Defense": 120,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0488",
+        "Name": "Cresselia",
+        "HP": 120,
+        "Attack": 70,
+        "Defense": 110,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0489",
+        "Name": "Phione",
+        "HP": 80,
+        "Attack": 80,
+        "Defense": 80,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0490",
+        "Name": "Manaphy",
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 100,
+        "Speed": 100
+    },
+    {
+        "S.no": "#0491",
+        "Name": "Darkrai",
+        "HP": 70,
+        "Attack": 90,
+        "Defense": 90,
+        "Speed": 125
+    },
+    {
+        "S.no": "#0492",
+        "Name": "Shaymin-Land",
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 100,
+        "Speed": 100
+    },
+    {
+        "S.no": "#0493",
+        "Name": "Arceus",
+        "HP": 120,
+        "Attack": 120,
+        "Defense": 120,
+        "Speed": 120
+    },
+    {
+        "S.no": "#0494",
+        "Name": "Victini",
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 100,
+        "Speed": 100
+    },
+    {
+        "S.no": "#0495",
+        "Name": "Snivy",
+        "HP": 45,
+        "Attack": 45,
+        "Defense": 55,
+        "Speed": 63
+    },
+    {
+        "S.no": "#0496",
+        "Name": "Servine",
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 75,
+        "Speed": 83
+    },
+    {
+        "S.no": "#0497",
+        "Name": "Serperior",
+        "HP": 75,
+        "Attack": 75,
+        "Defense": 95,
+        "Speed": 113
+    },
+    {
+        "S.no": "#0498",
+        "Name": "Tepig",
+        "HP": 65,
+        "Attack": 63,
+        "Defense": 45,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0499",
+        "Name": "Pignite",
+        "HP": 90,
+        "Attack": 93,
+        "Defense": 55,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0500",
+        "Name": "Emboar",
+        "HP": 110,
+        "Attack": 123,
+        "Defense": 65,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0501",
+        "Name": "Oshawott",
+        "HP": 55,
+        "Attack": 55,
+        "Defense": 45,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0502",
+        "Name": "Dewott",
+        "HP": 75,
+        "Attack": 75,
+        "Defense": 60,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0503",
+        "Name": "Samurott",
+        "HP": 95,
+        "Attack": 100,
+        "Defense": 85,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0504",
+        "Name": "Patrat",
+        "HP": 45,
+        "Attack": 55,
+        "Defense": 39,
+        "Speed": 42
+    },
+    {
+        "S.no": "#0505",
+        "Name": "Watchog",
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 69,
+        "Speed": 77
+    },
+    {
+        "S.no": "#0506",
+        "Name": "Lillipup",
+        "HP": 45,
+        "Attack": 60,
+        "Defense": 45,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0507",
+        "Name": "Herdier",
+        "HP": 65,
+        "Attack": 80,
+        "Defense": 65,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0508",
+        "Name": "Stoutland",
+        "HP": 85,
+        "Attack": 110,
+        "Defense": 90,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0509",
+        "Name": "Purrloin",
+        "HP": 41,
+        "Attack": 50,
+        "Defense": 37,
+        "Speed": 66
+    },
+    {
+        "S.no": "#0510",
+        "Name": "Liepard",
+        "HP": 64,
+        "Attack": 88,
+        "Defense": 50,
+        "Speed": 106
+    },
+    {
+        "S.no": "#0511",
+        "Name": "Pansage",
+        "HP": 50,
+        "Attack": 53,
+        "Defense": 48,
+        "Speed": 64
+    },
+    {
+        "S.no": "#0512",
+        "Name": "Simisage",
+        "HP": 75,
+        "Attack": 98,
+        "Defense": 63,
+        "Speed": 101
+    },
+    {
+        "S.no": "#0513",
+        "Name": "Pansear",
+        "HP": 50,
+        "Attack": 53,
+        "Defense": 48,
+        "Speed": 64
+    },
+    {
+        "S.no": "#0514",
+        "Name": "Simisear",
+        "HP": 75,
+        "Attack": 98,
+        "Defense": 63,
+        "Speed": 101
+    },
+    {
+        "S.no": "#0515",
+        "Name": "Panpour",
+        "HP": 50,
+        "Attack": 53,
+        "Defense": 48,
+        "Speed": 64
+    },
+    {
+        "S.no": "#0516",
+        "Name": "Simipour",
+        "HP": 75,
+        "Attack": 98,
+        "Defense": 63,
+        "Speed": 101
+    },
+    {
+        "S.no": "#0517",
+        "Name": "Munna",
+        "HP": 76,
+        "Attack": 25,
+        "Defense": 45,
+        "Speed": 24
+    },
+    {
+        "S.no": "#0518",
+        "Name": "Musharna",
+        "HP": 116,
+        "Attack": 55,
+        "Defense": 85,
+        "Speed": 29
+    },
+    {
+        "S.no": "#0519",
+        "Name": "Pidove",
+        "HP": 50,
+        "Attack": 55,
+        "Defense": 50,
+        "Speed": 43
+    },
+    {
+        "S.no": "#0520",
+        "Name": "Tranquill",
+        "HP": 62,
+        "Attack": 77,
+        "Defense": 62,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0521",
+        "Name": "Unfezant",
+        "HP": 80,
+        "Attack": 115,
+        "Defense": 80,
+        "Speed": 93
+    },
+    {
+        "S.no": "#0522",
+        "Name": "Blitzle",
+        "HP": 45,
+        "Attack": 60,
+        "Defense": 32,
+        "Speed": 76
+    },
+    {
+        "S.no": "#0523",
+        "Name": "Zebstrika",
+        "HP": 75,
+        "Attack": 100,
+        "Defense": 63,
+        "Speed": 116
+    },
+    {
+        "S.no": "#0524",
+        "Name": "Roggenrola",
+        "HP": 55,
+        "Attack": 75,
+        "Defense": 85,
+        "Speed": 15
+    },
+    {
+        "S.no": "#0525",
+        "Name": "Boldore",
+        "HP": 70,
+        "Attack": 105,
+        "Defense": 105,
+        "Speed": 20
+    },
+    {
+        "S.no": "#0526",
+        "Name": "Gigalith",
+        "HP": 85,
+        "Attack": 135,
+        "Defense": 130,
+        "Speed": 25
+    },
+    {
+        "S.no": "#0527",
+        "Name": "Woobat",
+        "HP": 65,
+        "Attack": 45,
+        "Defense": 43,
+        "Speed": 72
+    },
+    {
+        "S.no": "#0528",
+        "Name": "Swoobat",
+        "HP": 67,
+        "Attack": 57,
+        "Defense": 55,
+        "Speed": 114
+    },
+    {
+        "S.no": "#0529",
+        "Name": "Drilbur",
+        "HP": 60,
+        "Attack": 85,
+        "Defense": 40,
+        "Speed": 68
+    },
+    {
+        "S.no": "#0530",
+        "Name": "Excadrill",
+        "HP": 110,
+        "Attack": 135,
+        "Defense": 60,
+        "Speed": 88
+    },
+    {
+        "S.no": "#0531",
+        "Name": "Audino",
+        "HP": 103,
+        "Attack": 60,
+        "Defense": 86,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0532",
+        "Name": "Timburr",
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 55,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0533",
+        "Name": "Gurdurr",
+        "HP": 85,
+        "Attack": 105,
+        "Defense": 85,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0534",
+        "Name": "Conkeldurr",
+        "HP": 105,
+        "Attack": 140,
+        "Defense": 95,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0535",
+        "Name": "Tympole",
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 40,
+        "Speed": 64
+    },
+    {
+        "S.no": "#0536",
+        "Name": "Palpitoad",
+        "HP": 75,
+        "Attack": 65,
+        "Defense": 55,
+        "Speed": 69
+    },
+    {
+        "S.no": "#0537",
+        "Name": "Seismitoad",
+        "HP": 105,
+        "Attack": 95,
+        "Defense": 75,
+        "Speed": 74
+    },
+    {
+        "S.no": "#0538",
+        "Name": "Throh",
+        "HP": 120,
+        "Attack": 100,
+        "Defense": 85,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0539",
+        "Name": "Sawk",
+        "HP": 75,
+        "Attack": 125,
+        "Defense": 75,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0540",
+        "Name": "Sewaddle",
+        "HP": 45,
+        "Attack": 53,
+        "Defense": 70,
+        "Speed": 42
+    },
+    {
+        "S.no": "#0541",
+        "Name": "Swadloon",
+        "HP": 55,
+        "Attack": 63,
+        "Defense": 90,
+        "Speed": 42
+    },
+    {
+        "S.no": "#0542",
+        "Name": "Leavanny",
+        "HP": 75,
+        "Attack": 103,
+        "Defense": 80,
+        "Speed": 92
+    },
+    {
+        "S.no": "#0543",
+        "Name": "Venipede",
+        "HP": 30,
+        "Attack": 45,
+        "Defense": 59,
+        "Speed": 57
+    },
+    {
+        "S.no": "#0544",
+        "Name": "Whirlipede",
+        "HP": 40,
+        "Attack": 55,
+        "Defense": 99,
+        "Speed": 47
+    },
+    {
+        "S.no": "#0545",
+        "Name": "Scolipede",
+        "HP": 60,
+        "Attack": 100,
+        "Defense": 89,
+        "Speed": 112
+    },
+    {
+        "S.no": "#0546",
+        "Name": "Cottonee",
+        "HP": 40,
+        "Attack": 27,
+        "Defense": 60,
+        "Speed": 66
+    },
+    {
+        "S.no": "#0547",
+        "Name": "Whimsicott",
+        "HP": 60,
+        "Attack": 67,
+        "Defense": 85,
+        "Speed": 116
+    },
+    {
+        "S.no": "#0548",
+        "Name": "Petilil",
+        "HP": 45,
+        "Attack": 35,
+        "Defense": 50,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0549",
+        "Name": "Lilligant",
+        "HP": 70,
+        "Attack": 60,
+        "Defense": 75,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0550",
+        "Name": "Basculin-Red-Striped",
+        "HP": 70,
+        "Attack": 92,
+        "Defense": 65,
+        "Speed": 98
+    },
+    {
+        "S.no": "#0551",
+        "Name": "Sandile",
+        "HP": 50,
+        "Attack": 72,
+        "Defense": 35,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0552",
+        "Name": "Krokorok",
+        "HP": 60,
+        "Attack": 82,
+        "Defense": 45,
+        "Speed": 74
+    },
+    {
+        "S.no": "#0553",
+        "Name": "Krookodile",
+        "HP": 95,
+        "Attack": 117,
+        "Defense": 80,
+        "Speed": 92
+    },
+    {
+        "S.no": "#0554",
+        "Name": "Darumaka",
+        "HP": 70,
+        "Attack": 90,
+        "Defense": 45,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0555",
+        "Name": "Darmanitan-Standard",
+        "HP": 105,
+        "Attack": 140,
+        "Defense": 55,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0556",
+        "Name": "Maractus",
+        "HP": 75,
+        "Attack": 86,
+        "Defense": 67,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0557",
+        "Name": "Dwebble",
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 85,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0558",
+        "Name": "Crustle",
+        "HP": 70,
+        "Attack": 105,
+        "Defense": 125,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0559",
+        "Name": "Scraggy",
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 70,
+        "Speed": 48
+    },
+    {
+        "S.no": "#0560",
+        "Name": "Scrafty",
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 115,
+        "Speed": 58
+    },
+    {
+        "S.no": "#0561",
+        "Name": "Sigilyph",
+        "HP": 72,
+        "Attack": 58,
+        "Defense": 80,
+        "Speed": 97
+    },
+    {
+        "S.no": "#0562",
+        "Name": "Yamask",
+        "HP": 38,
+        "Attack": 30,
+        "Defense": 85,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0563",
+        "Name": "Cofagrigus",
+        "HP": 58,
+        "Attack": 50,
+        "Defense": 145,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0564",
+        "Name": "Tirtouga",
+        "HP": 54,
+        "Attack": 78,
+        "Defense": 103,
+        "Speed": 22
+    },
+    {
+        "S.no": "#0565",
+        "Name": "Carracosta",
+        "HP": 74,
+        "Attack": 108,
+        "Defense": 133,
+        "Speed": 32
+    },
+    {
+        "S.no": "#0566",
+        "Name": "Archen",
+        "HP": 55,
+        "Attack": 112,
+        "Defense": 45,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0567",
+        "Name": "Archeops",
+        "HP": 75,
+        "Attack": 140,
+        "Defense": 65,
+        "Speed": 110
+    },
+    {
+        "S.no": "#0568",
+        "Name": "Trubbish",
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 62,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0569",
+        "Name": "Garbodor",
+        "HP": 80,
+        "Attack": 95,
+        "Defense": 82,
+        "Speed": 75
+    },
+    {
+        "S.no": "#0570",
+        "Name": "Zorua",
+        "HP": 40,
+        "Attack": 65,
+        "Defense": 40,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0571",
+        "Name": "Zoroark",
+        "HP": 60,
+        "Attack": 105,
+        "Defense": 60,
+        "Speed": 105
+    },
+    {
+        "S.no": "#0572",
+        "Name": "Minccino",
+        "HP": 55,
+        "Attack": 50,
+        "Defense": 40,
+        "Speed": 75
+    },
+    {
+        "S.no": "#0573",
+        "Name": "Cinccino",
+        "HP": 75,
+        "Attack": 95,
+        "Defense": 60,
+        "Speed": 115
+    },
+    {
+        "S.no": "#0574",
+        "Name": "Gothita",
+        "HP": 45,
+        "Attack": 30,
+        "Defense": 50,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0575",
+        "Name": "Gothorita",
+        "HP": 60,
+        "Attack": 45,
+        "Defense": 70,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0576",
+        "Name": "Gothitelle",
+        "HP": 70,
+        "Attack": 55,
+        "Defense": 95,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0577",
+        "Name": "Solosis",
+        "HP": 45,
+        "Attack": 30,
+        "Defense": 40,
+        "Speed": 20
+    },
+    {
+        "S.no": "#0578",
+        "Name": "Duosion",
+        "HP": 65,
+        "Attack": 40,
+        "Defense": 50,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0579",
+        "Name": "Reuniclus",
+        "HP": 110,
+        "Attack": 65,
+        "Defense": 75,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0580",
+        "Name": "Ducklett",
+        "HP": 62,
+        "Attack": 44,
+        "Defense": 50,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0581",
+        "Name": "Swanna",
+        "HP": 75,
+        "Attack": 87,
+        "Defense": 63,
+        "Speed": 98
+    },
+    {
+        "S.no": "#0582",
+        "Name": "Vanillite",
+        "HP": 36,
+        "Attack": 50,
+        "Defense": 50,
+        "Speed": 44
+    },
+    {
+        "S.no": "#0583",
+        "Name": "Vanillish",
+        "HP": 51,
+        "Attack": 65,
+        "Defense": 65,
+        "Speed": 59
+    },
+    {
+        "S.no": "#0584",
+        "Name": "Vanilluxe",
+        "HP": 71,
+        "Attack": 95,
+        "Defense": 85,
+        "Speed": 79
+    },
+    {
+        "S.no": "#0585",
+        "Name": "Deerling",
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 50,
+        "Speed": 75
+    },
+    {
+        "S.no": "#0586",
+        "Name": "Sawsbuck",
+        "HP": 80,
+        "Attack": 100,
+        "Defense": 70,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0587",
+        "Name": "Emolga",
+        "HP": 55,
+        "Attack": 75,
+        "Defense": 60,
+        "Speed": 103
+    },
+    {
+        "S.no": "#0588",
+        "Name": "Karrablast",
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 45,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0589",
+        "Name": "Escavalier",
+        "HP": 70,
+        "Attack": 135,
+        "Defense": 105,
+        "Speed": 20
+    },
+    {
+        "S.no": "#0590",
+        "Name": "Foongus",
+        "HP": 69,
+        "Attack": 55,
+        "Defense": 45,
+        "Speed": 15
+    },
+    {
+        "S.no": "#0591",
+        "Name": "Amoonguss",
+        "HP": 114,
+        "Attack": 85,
+        "Defense": 70,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0592",
+        "Name": "Frillish-Male",
+        "HP": 55,
+        "Attack": 40,
+        "Defense": 50,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0593",
+        "Name": "Jellicent-Male",
+        "HP": 100,
+        "Attack": 60,
+        "Defense": 70,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0594",
+        "Name": "Alomomola",
+        "HP": 165,
+        "Attack": 75,
+        "Defense": 80,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0595",
+        "Name": "Joltik",
+        "HP": 50,
+        "Attack": 47,
+        "Defense": 50,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0596",
+        "Name": "Galvantula",
+        "HP": 70,
+        "Attack": 77,
+        "Defense": 60,
+        "Speed": 108
+    },
+    {
+        "S.no": "#0597",
+        "Name": "Ferroseed",
+        "HP": 44,
+        "Attack": 50,
+        "Defense": 91,
+        "Speed": 10
+    },
+    {
+        "S.no": "#0598",
+        "Name": "Ferrothorn",
+        "HP": 74,
+        "Attack": 94,
+        "Defense": 131,
+        "Speed": 20
+    },
+    {
+        "S.no": "#0599",
+        "Name": "Klink",
+        "HP": 40,
+        "Attack": 55,
+        "Defense": 70,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0600",
+        "Name": "Klang",
+        "HP": 60,
+        "Attack": 80,
+        "Defense": 95,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0601",
+        "Name": "Klinklang",
+        "HP": 60,
+        "Attack": 100,
+        "Defense": 115,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0602",
+        "Name": "Tynamo",
+        "HP": 35,
+        "Attack": 55,
+        "Defense": 40,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0603",
+        "Name": "Eelektrik",
+        "HP": 65,
+        "Attack": 85,
+        "Defense": 70,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0604",
+        "Name": "Eelektross",
+        "HP": 85,
+        "Attack": 115,
+        "Defense": 80,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0605",
+        "Name": "Elgyem",
+        "HP": 55,
+        "Attack": 55,
+        "Defense": 55,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0606",
+        "Name": "Beheeyem",
+        "HP": 75,
+        "Attack": 75,
+        "Defense": 75,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0607",
+        "Name": "Litwick",
+        "HP": 50,
+        "Attack": 30,
+        "Defense": 55,
+        "Speed": 20
+    },
+    {
+        "S.no": "#0608",
+        "Name": "Lampent",
+        "HP": 60,
+        "Attack": 40,
+        "Defense": 60,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0609",
+        "Name": "Chandelure",
+        "HP": 60,
+        "Attack": 55,
+        "Defense": 90,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0610",
+        "Name": "Axew",
+        "HP": 46,
+        "Attack": 87,
+        "Defense": 60,
+        "Speed": 57
+    },
+    {
+        "S.no": "#0611",
+        "Name": "Fraxure",
+        "HP": 66,
+        "Attack": 117,
+        "Defense": 70,
+        "Speed": 67
+    },
+    {
+        "S.no": "#0612",
+        "Name": "Haxorus",
+        "HP": 76,
+        "Attack": 147,
+        "Defense": 90,
+        "Speed": 97
+    },
+    {
+        "S.no": "#0613",
+        "Name": "Cubchoo",
+        "HP": 55,
+        "Attack": 70,
+        "Defense": 40,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0614",
+        "Name": "Beartic",
+        "HP": 95,
+        "Attack": 130,
+        "Defense": 80,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0615",
+        "Name": "Cryogonal",
+        "HP": 80,
+        "Attack": 50,
+        "Defense": 50,
+        "Speed": 105
+    },
+    {
+        "S.no": "#0616",
+        "Name": "Shelmet",
+        "HP": 50,
+        "Attack": 40,
+        "Defense": 85,
+        "Speed": 25
+    },
+    {
+        "S.no": "#0617",
+        "Name": "Accelgor",
+        "HP": 80,
+        "Attack": 70,
+        "Defense": 40,
+        "Speed": 145
+    },
+    {
+        "S.no": "#0618",
+        "Name": "Stunfisk",
+        "HP": 109,
+        "Attack": 66,
+        "Defense": 84,
+        "Speed": 32
+    },
+    {
+        "S.no": "#0619",
+        "Name": "Mienfoo",
+        "HP": 45,
+        "Attack": 85,
+        "Defense": 50,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0620",
+        "Name": "Mienshao",
+        "HP": 65,
+        "Attack": 125,
+        "Defense": 60,
+        "Speed": 105
+    },
+    {
+        "S.no": "#0621",
+        "Name": "Druddigon",
+        "HP": 77,
+        "Attack": 120,
+        "Defense": 90,
+        "Speed": 48
+    },
+    {
+        "S.no": "#0622",
+        "Name": "Golett",
+        "HP": 59,
+        "Attack": 74,
+        "Defense": 50,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0623",
+        "Name": "Golurk",
+        "HP": 89,
+        "Attack": 124,
+        "Defense": 80,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0624",
+        "Name": "Pawniard",
+        "HP": 45,
+        "Attack": 85,
+        "Defense": 70,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0625",
+        "Name": "Bisharp",
+        "HP": 65,
+        "Attack": 125,
+        "Defense": 100,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0626",
+        "Name": "Bouffalant",
+        "HP": 95,
+        "Attack": 110,
+        "Defense": 95,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0627",
+        "Name": "Rufflet",
+        "HP": 70,
+        "Attack": 83,
+        "Defense": 50,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0628",
+        "Name": "Braviary",
+        "HP": 100,
+        "Attack": 123,
+        "Defense": 75,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0629",
+        "Name": "Vullaby",
+        "HP": 70,
+        "Attack": 55,
+        "Defense": 75,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0630",
+        "Name": "Mandibuzz",
+        "HP": 110,
+        "Attack": 65,
+        "Defense": 105,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0631",
+        "Name": "Heatmor",
+        "HP": 85,
+        "Attack": 97,
+        "Defense": 66,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0632",
+        "Name": "Durant",
+        "HP": 58,
+        "Attack": 109,
+        "Defense": 112,
+        "Speed": 109
+    },
+    {
+        "S.no": "#0633",
+        "Name": "Deino",
+        "HP": 52,
+        "Attack": 65,
+        "Defense": 50,
+        "Speed": 38
+    },
+    {
+        "S.no": "#0634",
+        "Name": "Zweilous",
+        "HP": 72,
+        "Attack": 85,
+        "Defense": 70,
+        "Speed": 58
+    },
+    {
+        "S.no": "#0635",
+        "Name": "Hydreigon",
+        "HP": 92,
+        "Attack": 105,
+        "Defense": 90,
+        "Speed": 98
+    },
+    {
+        "S.no": "#0636",
+        "Name": "Larvesta",
+        "HP": 55,
+        "Attack": 85,
+        "Defense": 55,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0637",
+        "Name": "Volcarona",
+        "HP": 85,
+        "Attack": 60,
+        "Defense": 65,
+        "Speed": 100
+    },
+    {
+        "S.no": "#0638",
+        "Name": "Cobalion",
+        "HP": 91,
+        "Attack": 90,
+        "Defense": 129,
+        "Speed": 108
+    },
+    {
+        "S.no": "#0639",
+        "Name": "Terrakion",
+        "HP": 91,
+        "Attack": 129,
+        "Defense": 90,
+        "Speed": 108
+    },
+    {
+        "S.no": "#0640",
+        "Name": "Virizion",
+        "HP": 91,
+        "Attack": 90,
+        "Defense": 72,
+        "Speed": 108
+    },
+    {
+        "S.no": "#0641",
+        "Name": "Tornadus-Incarnate",
+        "HP": 79,
+        "Attack": 115,
+        "Defense": 70,
+        "Speed": 111
+    },
+    {
+        "S.no": "#0642",
+        "Name": "Thundurus-Incarnate",
+        "HP": 79,
+        "Attack": 115,
+        "Defense": 70,
+        "Speed": 111
+    },
+    {
+        "S.no": "#0643",
+        "Name": "Reshiram",
+        "HP": 100,
+        "Attack": 120,
+        "Defense": 100,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0644",
+        "Name": "Zekrom",
+        "HP": 100,
+        "Attack": 150,
+        "Defense": 120,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0645",
+        "Name": "Landorus-Incarnate",
+        "HP": 89,
+        "Attack": 125,
+        "Defense": 90,
+        "Speed": 101
+    },
+    {
+        "S.no": "#0646",
+        "Name": "Kyurem",
+        "HP": 125,
+        "Attack": 130,
+        "Defense": 90,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0647",
+        "Name": "Keldeo-Ordinary",
+        "HP": 91,
+        "Attack": 72,
+        "Defense": 90,
+        "Speed": 108
+    },
+    {
+        "S.no": "#0648",
+        "Name": "Meloetta-Aria",
+        "HP": 100,
+        "Attack": 77,
+        "Defense": 77,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0649",
+        "Name": "Genesect",
+        "HP": 71,
+        "Attack": 120,
+        "Defense": 95,
+        "Speed": 99
+    },
+    {
+        "S.no": "#0650",
+        "Name": "Chespin",
+        "HP": 56,
+        "Attack": 61,
+        "Defense": 65,
+        "Speed": 38
+    },
+    {
+        "S.no": "#0651",
+        "Name": "Quilladin",
+        "HP": 61,
+        "Attack": 78,
+        "Defense": 95,
+        "Speed": 57
+    },
+    {
+        "S.no": "#0652",
+        "Name": "Chesnaught",
+        "HP": 88,
+        "Attack": 107,
+        "Defense": 122,
+        "Speed": 64
+    },
+    {
+        "S.no": "#0653",
+        "Name": "Fennekin",
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 40,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0654",
+        "Name": "Braixen",
+        "HP": 59,
+        "Attack": 59,
+        "Defense": 58,
+        "Speed": 73
+    },
+    {
+        "S.no": "#0655",
+        "Name": "Delphox",
+        "HP": 75,
+        "Attack": 69,
+        "Defense": 72,
+        "Speed": 104
+    },
+    {
+        "S.no": "#0656",
+        "Name": "Froakie",
+        "HP": 41,
+        "Attack": 56,
+        "Defense": 40,
+        "Speed": 71
+    },
+    {
+        "S.no": "#0657",
+        "Name": "Frogadier",
+        "HP": 54,
+        "Attack": 63,
+        "Defense": 52,
+        "Speed": 97
+    },
+    {
+        "S.no": "#0658",
+        "Name": "Greninja",
+        "HP": 72,
+        "Attack": 95,
+        "Defense": 67,
+        "Speed": 122
+    },
+    {
+        "S.no": "#0659",
+        "Name": "Bunnelby",
+        "HP": 38,
+        "Attack": 36,
+        "Defense": 38,
+        "Speed": 57
+    },
+    {
+        "S.no": "#0660",
+        "Name": "Diggersby",
+        "HP": 85,
+        "Attack": 56,
+        "Defense": 77,
+        "Speed": 78
+    },
+    {
+        "S.no": "#0661",
+        "Name": "Fletchling",
+        "HP": 45,
+        "Attack": 50,
+        "Defense": 43,
+        "Speed": 62
+    },
+    {
+        "S.no": "#0662",
+        "Name": "Fletchinder",
+        "HP": 62,
+        "Attack": 73,
+        "Defense": 55,
+        "Speed": 84
+    },
+    {
+        "S.no": "#0663",
+        "Name": "Talonflame",
+        "HP": 78,
+        "Attack": 81,
+        "Defense": 71,
+        "Speed": 126
+    },
+    {
+        "S.no": "#0664",
+        "Name": "Scatterbug",
+        "HP": 38,
+        "Attack": 35,
+        "Defense": 40,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0665",
+        "Name": "Spewpa",
+        "HP": 45,
+        "Attack": 22,
+        "Defense": 60,
+        "Speed": 29
+    },
+    {
+        "S.no": "#0666",
+        "Name": "Vivillon",
+        "HP": 80,
+        "Attack": 52,
+        "Defense": 50,
+        "Speed": 89
+    },
+    {
+        "S.no": "#0667",
+        "Name": "Litleo",
+        "HP": 62,
+        "Attack": 50,
+        "Defense": 58,
+        "Speed": 72
+    },
+    {
+        "S.no": "#0668",
+        "Name": "Pyroar-Male",
+        "HP": 86,
+        "Attack": 68,
+        "Defense": 72,
+        "Speed": 106
+    },
+    {
+        "S.no": "#0669",
+        "Name": "Flabebe",
+        "HP": 44,
+        "Attack": 38,
+        "Defense": 39,
+        "Speed": 42
+    },
+    {
+        "S.no": "#0670",
+        "Name": "Floette",
+        "HP": 54,
+        "Attack": 45,
+        "Defense": 47,
+        "Speed": 52
+    },
+    {
+        "S.no": "#0671",
+        "Name": "Florges",
+        "HP": 78,
+        "Attack": 65,
+        "Defense": 68,
+        "Speed": 75
+    },
+    {
+        "S.no": "#0672",
+        "Name": "Skiddo",
+        "HP": 66,
+        "Attack": 65,
+        "Defense": 48,
+        "Speed": 52
+    },
+    {
+        "S.no": "#0673",
+        "Name": "Gogoat",
+        "HP": 123,
+        "Attack": 100,
+        "Defense": 62,
+        "Speed": 68
+    },
+    {
+        "S.no": "#0674",
+        "Name": "Pancham",
+        "HP": 67,
+        "Attack": 82,
+        "Defense": 62,
+        "Speed": 43
+    },
+    {
+        "S.no": "#0675",
+        "Name": "Pangoro",
+        "HP": 95,
+        "Attack": 124,
+        "Defense": 78,
+        "Speed": 58
+    },
+    {
+        "S.no": "#0676",
+        "Name": "Furfrou",
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 60,
+        "Speed": 102
+    },
+    {
+        "S.no": "#0677",
+        "Name": "Espurr",
+        "HP": 62,
+        "Attack": 48,
+        "Defense": 54,
+        "Speed": 68
+    },
+    {
+        "S.no": "#0678",
+        "Name": "Meowstic-Male",
+        "HP": 74,
+        "Attack": 48,
+        "Defense": 76,
+        "Speed": 104
+    },
+    {
+        "S.no": "#0679",
+        "Name": "Honedge",
+        "HP": 45,
+        "Attack": 80,
+        "Defense": 100,
+        "Speed": 28
+    },
+    {
+        "S.no": "#0680",
+        "Name": "Doublade",
+        "HP": 59,
+        "Attack": 110,
+        "Defense": 150,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0681",
+        "Name": "Aegislash-Shield",
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 140,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0682",
+        "Name": "Spritzee",
+        "HP": 78,
+        "Attack": 52,
+        "Defense": 60,
+        "Speed": 23
+    },
+    {
+        "S.no": "#0683",
+        "Name": "Aromatisse",
+        "HP": 101,
+        "Attack": 72,
+        "Defense": 72,
+        "Speed": 29
+    },
+    {
+        "S.no": "#0684",
+        "Name": "Swirlix",
+        "HP": 62,
+        "Attack": 48,
+        "Defense": 66,
+        "Speed": 49
+    },
+    {
+        "S.no": "#0685",
+        "Name": "Slurpuff",
+        "HP": 82,
+        "Attack": 80,
+        "Defense": 86,
+        "Speed": 72
+    },
+    {
+        "S.no": "#0686",
+        "Name": "Inkay",
+        "HP": 53,
+        "Attack": 54,
+        "Defense": 53,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0687",
+        "Name": "Malamar",
+        "HP": 86,
+        "Attack": 92,
+        "Defense": 88,
+        "Speed": 73
+    },
+    {
+        "S.no": "#0688",
+        "Name": "Binacle",
+        "HP": 42,
+        "Attack": 52,
+        "Defense": 67,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0689",
+        "Name": "Barbaracle",
+        "HP": 72,
+        "Attack": 105,
+        "Defense": 115,
+        "Speed": 68
+    },
+    {
+        "S.no": "#0690",
+        "Name": "Skrelp",
+        "HP": 50,
+        "Attack": 60,
+        "Defense": 60,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0691",
+        "Name": "Dragalge",
+        "HP": 65,
+        "Attack": 75,
+        "Defense": 90,
+        "Speed": 44
+    },
+    {
+        "S.no": "#0692",
+        "Name": "Clauncher",
+        "HP": 50,
+        "Attack": 53,
+        "Defense": 62,
+        "Speed": 44
+    },
+    {
+        "S.no": "#0693",
+        "Name": "Clawitzer",
+        "HP": 71,
+        "Attack": 73,
+        "Defense": 88,
+        "Speed": 59
+    },
+    {
+        "S.no": "#0694",
+        "Name": "Helioptile",
+        "HP": 44,
+        "Attack": 38,
+        "Defense": 33,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0695",
+        "Name": "Heliolisk",
+        "HP": 62,
+        "Attack": 55,
+        "Defense": 52,
+        "Speed": 109
+    },
+    {
+        "S.no": "#0696",
+        "Name": "Tyrunt",
+        "HP": 58,
+        "Attack": 89,
+        "Defense": 77,
+        "Speed": 48
+    },
+    {
+        "S.no": "#0697",
+        "Name": "Tyrantrum",
+        "HP": 82,
+        "Attack": 121,
+        "Defense": 119,
+        "Speed": 71
+    },
+    {
+        "S.no": "#0698",
+        "Name": "Amaura",
+        "HP": 77,
+        "Attack": 59,
+        "Defense": 50,
+        "Speed": 46
+    },
+    {
+        "S.no": "#0699",
+        "Name": "Aurorus",
+        "HP": 123,
+        "Attack": 77,
+        "Defense": 72,
+        "Speed": 58
+    },
+    {
+        "S.no": "#0700",
+        "Name": "Sylveon",
+        "HP": 95,
+        "Attack": 65,
+        "Defense": 65,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0701",
+        "Name": "Hawlucha",
+        "HP": 78,
+        "Attack": 92,
+        "Defense": 75,
+        "Speed": 118
+    },
+    {
+        "S.no": "#0702",
+        "Name": "Dedenne",
+        "HP": 67,
+        "Attack": 58,
+        "Defense": 57,
+        "Speed": 101
+    },
+    {
+        "S.no": "#0703",
+        "Name": "Carbink",
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 150,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0704",
+        "Name": "Goomy",
+        "HP": 45,
+        "Attack": 50,
+        "Defense": 35,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0705",
+        "Name": "Sliggoo",
+        "HP": 68,
+        "Attack": 75,
+        "Defense": 53,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0706",
+        "Name": "Goodra",
+        "HP": 90,
+        "Attack": 100,
+        "Defense": 70,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0707",
+        "Name": "Klefki",
+        "HP": 57,
+        "Attack": 80,
+        "Defense": 91,
+        "Speed": 75
+    },
+    {
+        "S.no": "#0708",
+        "Name": "Phantump",
+        "HP": 43,
+        "Attack": 70,
+        "Defense": 48,
+        "Speed": 38
+    },
+    {
+        "S.no": "#0709",
+        "Name": "Trevenant",
+        "HP": 85,
+        "Attack": 110,
+        "Defense": 76,
+        "Speed": 56
+    },
+    {
+        "S.no": "#0710",
+        "Name": "Pumpkaboo-Average",
+        "HP": 49,
+        "Attack": 66,
+        "Defense": 70,
+        "Speed": 51
+    },
+    {
+        "S.no": "#0711",
+        "Name": "Gourgeist-Average",
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 122,
+        "Speed": 84
+    },
+    {
+        "S.no": "#0712",
+        "Name": "Bergmite",
+        "HP": 55,
+        "Attack": 69,
+        "Defense": 85,
+        "Speed": 28
+    },
+    {
+        "S.no": "#0713",
+        "Name": "Avalugg",
+        "HP": 95,
+        "Attack": 117,
+        "Defense": 184,
+        "Speed": 28
+    },
+    {
+        "S.no": "#0714",
+        "Name": "Noibat",
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 35,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0715",
+        "Name": "Noivern",
+        "HP": 85,
+        "Attack": 70,
+        "Defense": 80,
+        "Speed": 123
+    },
+    {
+        "S.no": "#0716",
+        "Name": "Xerneas",
+        "HP": 126,
+        "Attack": 131,
+        "Defense": 95,
+        "Speed": 99
+    },
+    {
+        "S.no": "#0717",
+        "Name": "Yveltal",
+        "HP": 126,
+        "Attack": 131,
+        "Defense": 95,
+        "Speed": 99
+    },
+    {
+        "S.no": "#0718",
+        "Name": "Zygarde-50",
+        "HP": 108,
+        "Attack": 100,
+        "Defense": 121,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0719",
+        "Name": "Diancie",
+        "HP": 50,
+        "Attack": 100,
+        "Defense": 150,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0720",
+        "Name": "Hoopa",
+        "HP": 80,
+        "Attack": 110,
+        "Defense": 60,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0721",
+        "Name": "Volcanion",
+        "HP": 80,
+        "Attack": 110,
+        "Defense": 120,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0722",
+        "Name": "Rowlet",
+        "HP": 68,
+        "Attack": 55,
+        "Defense": 55,
+        "Speed": 42
+    },
+    {
+        "S.no": "#0723",
+        "Name": "Dartrix",
+        "HP": 78,
+        "Attack": 75,
+        "Defense": 75,
+        "Speed": 52
+    },
+    {
+        "S.no": "#0724",
+        "Name": "Decidueye",
+        "HP": 78,
+        "Attack": 107,
+        "Defense": 75,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0725",
+        "Name": "Litten",
+        "HP": 45,
+        "Attack": 65,
+        "Defense": 40,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0726",
+        "Name": "Torracat",
+        "HP": 65,
+        "Attack": 85,
+        "Defense": 50,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0727",
+        "Name": "Incineroar",
+        "HP": 95,
+        "Attack": 115,
+        "Defense": 90,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0728",
+        "Name": "Popplio",
+        "HP": 50,
+        "Attack": 54,
+        "Defense": 54,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0729",
+        "Name": "Brionne",
+        "HP": 60,
+        "Attack": 69,
+        "Defense": 69,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0730",
+        "Name": "Primarina",
+        "HP": 80,
+        "Attack": 74,
+        "Defense": 74,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0731",
+        "Name": "Pikipek",
+        "HP": 35,
+        "Attack": 75,
+        "Defense": 30,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0732",
+        "Name": "Trumbeak",
+        "HP": 55,
+        "Attack": 85,
+        "Defense": 50,
+        "Speed": 75
+    },
+    {
+        "S.no": "#0733",
+        "Name": "Toucannon",
+        "HP": 80,
+        "Attack": 120,
+        "Defense": 75,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0734",
+        "Name": "Yungoos",
+        "HP": 48,
+        "Attack": 70,
+        "Defense": 30,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0735",
+        "Name": "Gumshoos",
+        "HP": 88,
+        "Attack": 110,
+        "Defense": 60,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0736",
+        "Name": "Grubbin",
+        "HP": 47,
+        "Attack": 62,
+        "Defense": 45,
+        "Speed": 46
+    },
+    {
+        "S.no": "#0737",
+        "Name": "Charjabug",
+        "HP": 57,
+        "Attack": 82,
+        "Defense": 95,
+        "Speed": 36
+    },
+    {
+        "S.no": "#0738",
+        "Name": "Vikavolt",
+        "HP": 77,
+        "Attack": 70,
+        "Defense": 90,
+        "Speed": 43
+    },
+    {
+        "S.no": "#0739",
+        "Name": "Crabrawler",
+        "HP": 47,
+        "Attack": 82,
+        "Defense": 57,
+        "Speed": 63
+    },
+    {
+        "S.no": "#0740",
+        "Name": "Crabominable",
+        "HP": 97,
+        "Attack": 132,
+        "Defense": 77,
+        "Speed": 43
+    },
+    {
+        "S.no": "#0741",
+        "Name": "Oricorio-Baile",
+        "HP": 75,
+        "Attack": 70,
+        "Defense": 70,
+        "Speed": 93
+    },
+    {
+        "S.no": "#0742",
+        "Name": "Cutiefly",
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 40,
+        "Speed": 84
+    },
+    {
+        "S.no": "#0743",
+        "Name": "Ribombee",
+        "HP": 60,
+        "Attack": 55,
+        "Defense": 60,
+        "Speed": 124
+    },
+    {
+        "S.no": "#0744",
+        "Name": "Rockruff",
+        "HP": 45,
+        "Attack": 65,
+        "Defense": 40,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0745",
+        "Name": "Lycanroc-Midday",
+        "HP": 75,
+        "Attack": 115,
+        "Defense": 65,
+        "Speed": 112
+    },
+    {
+        "S.no": "#0746",
+        "Name": "Wishiwashi-Solo",
+        "HP": 45,
+        "Attack": 20,
+        "Defense": 20,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0747",
+        "Name": "Mareanie",
+        "HP": 50,
+        "Attack": 53,
+        "Defense": 62,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0748",
+        "Name": "Toxapex",
+        "HP": 50,
+        "Attack": 63,
+        "Defense": 152,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0749",
+        "Name": "Mudbray",
+        "HP": 70,
+        "Attack": 100,
+        "Defense": 70,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0750",
+        "Name": "Mudsdale",
+        "HP": 100,
+        "Attack": 125,
+        "Defense": 100,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0751",
+        "Name": "Dewpider",
+        "HP": 38,
+        "Attack": 40,
+        "Defense": 52,
+        "Speed": 27
+    },
+    {
+        "S.no": "#0752",
+        "Name": "Araquanid",
+        "HP": 68,
+        "Attack": 70,
+        "Defense": 92,
+        "Speed": 42
+    },
+    {
+        "S.no": "#0753",
+        "Name": "Fomantis",
+        "HP": 40,
+        "Attack": 55,
+        "Defense": 35,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0754",
+        "Name": "Lurantis",
+        "HP": 70,
+        "Attack": 105,
+        "Defense": 90,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0755",
+        "Name": "Morelull",
+        "HP": 40,
+        "Attack": 35,
+        "Defense": 55,
+        "Speed": 15
+    },
+    {
+        "S.no": "#0756",
+        "Name": "Shiinotic",
+        "HP": 60,
+        "Attack": 45,
+        "Defense": 80,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0757",
+        "Name": "Salandit",
+        "HP": 48,
+        "Attack": 44,
+        "Defense": 40,
+        "Speed": 77
+    },
+    {
+        "S.no": "#0758",
+        "Name": "Salazzle",
+        "HP": 68,
+        "Attack": 64,
+        "Defense": 60,
+        "Speed": 117
+    },
+    {
+        "S.no": "#0759",
+        "Name": "Stufful",
+        "HP": 70,
+        "Attack": 75,
+        "Defense": 50,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0760",
+        "Name": "Bewear",
+        "HP": 120,
+        "Attack": 125,
+        "Defense": 80,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0761",
+        "Name": "Bounsweet",
+        "HP": 42,
+        "Attack": 30,
+        "Defense": 38,
+        "Speed": 32
+    },
+    {
+        "S.no": "#0762",
+        "Name": "Steenee",
+        "HP": 52,
+        "Attack": 40,
+        "Defense": 48,
+        "Speed": 62
+    },
+    {
+        "S.no": "#0763",
+        "Name": "Tsareena",
+        "HP": 72,
+        "Attack": 120,
+        "Defense": 98,
+        "Speed": 72
+    },
+    {
+        "S.no": "#0764",
+        "Name": "Comfey",
+        "HP": 51,
+        "Attack": 52,
+        "Defense": 90,
+        "Speed": 100
+    },
+    {
+        "S.no": "#0765",
+        "Name": "Oranguru",
+        "HP": 90,
+        "Attack": 60,
+        "Defense": 80,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0766",
+        "Name": "Passimian",
+        "HP": 100,
+        "Attack": 120,
+        "Defense": 90,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0767",
+        "Name": "Wimpod",
+        "HP": 25,
+        "Attack": 35,
+        "Defense": 40,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0768",
+        "Name": "Golisopod",
+        "HP": 75,
+        "Attack": 125,
+        "Defense": 140,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0769",
+        "Name": "Sandygast",
+        "HP": 55,
+        "Attack": 55,
+        "Defense": 80,
+        "Speed": 15
+    },
+    {
+        "S.no": "#0770",
+        "Name": "Palossand",
+        "HP": 85,
+        "Attack": 75,
+        "Defense": 110,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0771",
+        "Name": "Pyukumuku",
+        "HP": 55,
+        "Attack": 60,
+        "Defense": 130,
+        "Speed": 5
+    },
+    {
+        "S.no": "#0772",
+        "Name": "Type-Null",
+        "HP": 95,
+        "Attack": 95,
+        "Defense": 95,
+        "Speed": 59
+    },
+    {
+        "S.no": "#0773",
+        "Name": "Silvally",
+        "HP": 95,
+        "Attack": 95,
+        "Defense": 95,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0774",
+        "Name": "Minior-Red-Meteor",
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 100,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0775",
+        "Name": "Komala",
+        "HP": 65,
+        "Attack": 115,
+        "Defense": 65,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0776",
+        "Name": "Turtonator",
+        "HP": 60,
+        "Attack": 78,
+        "Defense": 135,
+        "Speed": 36
+    },
+    {
+        "S.no": "#0777",
+        "Name": "Togedemaru",
+        "HP": 65,
+        "Attack": 98,
+        "Defense": 63,
+        "Speed": 96
+    },
+    {
+        "S.no": "#0778",
+        "Name": "Mimikyu-Disguised",
+        "HP": 55,
+        "Attack": 90,
+        "Defense": 80,
+        "Speed": 96
+    },
+    {
+        "S.no": "#0779",
+        "Name": "Bruxish",
+        "HP": 68,
+        "Attack": 105,
+        "Defense": 70,
+        "Speed": 92
+    },
+    {
+        "S.no": "#0780",
+        "Name": "Drampa",
+        "HP": 78,
+        "Attack": 60,
+        "Defense": 85,
+        "Speed": 36
+    },
+    {
+        "S.no": "#0781",
+        "Name": "Dhelmise",
+        "HP": 70,
+        "Attack": 131,
+        "Defense": 100,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0782",
+        "Name": "Jangmo-O",
+        "HP": 45,
+        "Attack": 55,
+        "Defense": 65,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0783",
+        "Name": "Hakamo-O",
+        "HP": 55,
+        "Attack": 75,
+        "Defense": 90,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0784",
+        "Name": "Kommo-O",
+        "HP": 75,
+        "Attack": 110,
+        "Defense": 125,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0785",
+        "Name": "Tapu-Koko",
+        "HP": 70,
+        "Attack": 115,
+        "Defense": 85,
+        "Speed": 130
+    },
+    {
+        "S.no": "#0786",
+        "Name": "Tapu-Lele",
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 75,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0787",
+        "Name": "Tapu-Bulu",
+        "HP": 70,
+        "Attack": 130,
+        "Defense": 115,
+        "Speed": 75
+    },
+    {
+        "S.no": "#0788",
+        "Name": "Tapu-Fini",
+        "HP": 70,
+        "Attack": 75,
+        "Defense": 115,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0789",
+        "Name": "Cosmog",
+        "HP": 43,
+        "Attack": 29,
+        "Defense": 31,
+        "Speed": 37
+    },
+    {
+        "S.no": "#0790",
+        "Name": "Cosmoem",
+        "HP": 43,
+        "Attack": 29,
+        "Defense": 131,
+        "Speed": 37
+    },
+    {
+        "S.no": "#0791",
+        "Name": "Solgaleo",
+        "HP": 137,
+        "Attack": 137,
+        "Defense": 107,
+        "Speed": 97
+    },
+    {
+        "S.no": "#0792",
+        "Name": "Lunala",
+        "HP": 137,
+        "Attack": 113,
+        "Defense": 89,
+        "Speed": 97
+    },
+    {
+        "S.no": "#0793",
+        "Name": "Nihilego",
+        "HP": 109,
+        "Attack": 53,
+        "Defense": 47,
+        "Speed": 103
+    },
+    {
+        "S.no": "#0794",
+        "Name": "Buzzwole",
+        "HP": 107,
+        "Attack": 139,
+        "Defense": 139,
+        "Speed": 79
+    },
+    {
+        "S.no": "#0795",
+        "Name": "Pheromosa",
+        "HP": 71,
+        "Attack": 137,
+        "Defense": 37,
+        "Speed": 151
+    },
+    {
+        "S.no": "#0796",
+        "Name": "Xurkitree",
+        "HP": 83,
+        "Attack": 89,
+        "Defense": 71,
+        "Speed": 83
+    },
+    {
+        "S.no": "#0797",
+        "Name": "Celesteela",
+        "HP": 97,
+        "Attack": 101,
+        "Defense": 103,
+        "Speed": 61
+    },
+    {
+        "S.no": "#0798",
+        "Name": "Kartana",
+        "HP": 59,
+        "Attack": 181,
+        "Defense": 131,
+        "Speed": 109
+    },
+    {
+        "S.no": "#0799",
+        "Name": "Guzzlord",
+        "HP": 223,
+        "Attack": 101,
+        "Defense": 53,
+        "Speed": 43
+    },
+    {
+        "S.no": "#0800",
+        "Name": "Necrozma",
+        "HP": 97,
+        "Attack": 107,
+        "Defense": 101,
+        "Speed": 79
+    },
+    {
+        "S.no": "#0801",
+        "Name": "Magearna",
+        "HP": 80,
+        "Attack": 95,
+        "Defense": 115,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0802",
+        "Name": "Marshadow",
+        "HP": 90,
+        "Attack": 125,
+        "Defense": 80,
+        "Speed": 125
+    },
+    {
+        "S.no": "#0803",
+        "Name": "Poipole",
+        "HP": 67,
+        "Attack": 73,
+        "Defense": 67,
+        "Speed": 73
+    },
+    {
+        "S.no": "#0804",
+        "Name": "Naganadel",
+        "HP": 73,
+        "Attack": 73,
+        "Defense": 73,
+        "Speed": 121
+    },
+    {
+        "S.no": "#0805",
+        "Name": "Stakataka",
+        "HP": 61,
+        "Attack": 131,
+        "Defense": 211,
+        "Speed": 13
+    },
+    {
+        "S.no": "#0806",
+        "Name": "Blacephalon",
+        "HP": 53,
+        "Attack": 127,
+        "Defense": 53,
+        "Speed": 107
+    },
+    {
+        "S.no": "#0807",
+        "Name": "Zeraora",
+        "HP": 88,
+        "Attack": 112,
+        "Defense": 75,
+        "Speed": 143
+    },
+    {
+        "S.no": "#0808",
+        "Name": "Meltan",
+        "HP": 46,
+        "Attack": 65,
+        "Defense": 65,
+        "Speed": 34
+    },
+    {
+        "S.no": "#0809",
+        "Name": "Melmetal",
+        "HP": 135,
+        "Attack": 143,
+        "Defense": 143,
+        "Speed": 34
+    },
+    {
+        "S.no": "#0810",
+        "Name": "Grookey",
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 50,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0811",
+        "Name": "Thwackey",
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 70,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0812",
+        "Name": "Rillaboom",
+        "HP": 100,
+        "Attack": 125,
+        "Defense": 90,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0813",
+        "Name": "Scorbunny",
+        "HP": 50,
+        "Attack": 71,
+        "Defense": 40,
+        "Speed": 69
+    },
+    {
+        "S.no": "#0814",
+        "Name": "Raboot",
+        "HP": 65,
+        "Attack": 86,
+        "Defense": 60,
+        "Speed": 94
+    },
+    {
+        "S.no": "#0815",
+        "Name": "Cinderace",
+        "HP": 80,
+        "Attack": 116,
+        "Defense": 75,
+        "Speed": 119
+    },
+    {
+        "S.no": "#0816",
+        "Name": "Sobble",
+        "HP": 50,
+        "Attack": 40,
+        "Defense": 40,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0817",
+        "Name": "Drizzile",
+        "HP": 65,
+        "Attack": 60,
+        "Defense": 55,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0818",
+        "Name": "Inteleon",
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 65,
+        "Speed": 120
+    },
+    {
+        "S.no": "#0819",
+        "Name": "Skwovet",
+        "HP": 70,
+        "Attack": 55,
+        "Defense": 55,
+        "Speed": 25
+    },
+    {
+        "S.no": "#0820",
+        "Name": "Greedent",
+        "HP": 120,
+        "Attack": 95,
+        "Defense": 95,
+        "Speed": 20
+    },
+    {
+        "S.no": "#0821",
+        "Name": "Rookidee",
+        "HP": 38,
+        "Attack": 47,
+        "Defense": 35,
+        "Speed": 57
+    },
+    {
+        "S.no": "#0822",
+        "Name": "Corvisquire",
+        "HP": 68,
+        "Attack": 67,
+        "Defense": 55,
+        "Speed": 77
+    },
+    {
+        "S.no": "#0823",
+        "Name": "Corviknight",
+        "HP": 98,
+        "Attack": 87,
+        "Defense": 105,
+        "Speed": 67
+    },
+    {
+        "S.no": "#0824",
+        "Name": "Blipbug",
+        "HP": 25,
+        "Attack": 20,
+        "Defense": 20,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0825",
+        "Name": "Dottler",
+        "HP": 50,
+        "Attack": 35,
+        "Defense": 80,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0826",
+        "Name": "Orbeetle",
+        "HP": 60,
+        "Attack": 45,
+        "Defense": 110,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0827",
+        "Name": "Nickit",
+        "HP": 40,
+        "Attack": 28,
+        "Defense": 28,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0828",
+        "Name": "Thievul",
+        "HP": 70,
+        "Attack": 58,
+        "Defense": 58,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0829",
+        "Name": "Gossifleur",
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 60,
+        "Speed": 10
+    },
+    {
+        "S.no": "#0830",
+        "Name": "Eldegoss",
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 90,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0831",
+        "Name": "Wooloo",
+        "HP": 42,
+        "Attack": 40,
+        "Defense": 55,
+        "Speed": 48
+    },
+    {
+        "S.no": "#0832",
+        "Name": "Dubwool",
+        "HP": 72,
+        "Attack": 80,
+        "Defense": 100,
+        "Speed": 88
+    },
+    {
+        "S.no": "#0833",
+        "Name": "Chewtle",
+        "HP": 50,
+        "Attack": 64,
+        "Defense": 50,
+        "Speed": 44
+    },
+    {
+        "S.no": "#0834",
+        "Name": "Drednaw",
+        "HP": 90,
+        "Attack": 115,
+        "Defense": 90,
+        "Speed": 74
+    },
+    {
+        "S.no": "#0835",
+        "Name": "Yamper",
+        "HP": 59,
+        "Attack": 45,
+        "Defense": 50,
+        "Speed": 26
+    },
+    {
+        "S.no": "#0836",
+        "Name": "Boltund",
+        "HP": 69,
+        "Attack": 90,
+        "Defense": 60,
+        "Speed": 121
+    },
+    {
+        "S.no": "#0837",
+        "Name": "Rolycoly",
+        "HP": 30,
+        "Attack": 40,
+        "Defense": 50,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0838",
+        "Name": "Carkol",
+        "HP": 80,
+        "Attack": 60,
+        "Defense": 90,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0839",
+        "Name": "Coalossal",
+        "HP": 110,
+        "Attack": 80,
+        "Defense": 120,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0840",
+        "Name": "Applin",
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 80,
+        "Speed": 20
+    },
+    {
+        "S.no": "#0841",
+        "Name": "Flapple",
+        "HP": 70,
+        "Attack": 110,
+        "Defense": 80,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0842",
+        "Name": "Appletun",
+        "HP": 110,
+        "Attack": 85,
+        "Defense": 80,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0843",
+        "Name": "Silicobra",
+        "HP": 52,
+        "Attack": 57,
+        "Defense": 75,
+        "Speed": 46
+    },
+    {
+        "S.no": "#0844",
+        "Name": "Sandaconda",
+        "HP": 72,
+        "Attack": 107,
+        "Defense": 125,
+        "Speed": 71
+    },
+    {
+        "S.no": "#0845",
+        "Name": "Cramorant",
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 55,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0846",
+        "Name": "Arrokuda",
+        "HP": 41,
+        "Attack": 63,
+        "Defense": 40,
+        "Speed": 66
+    },
+    {
+        "S.no": "#0847",
+        "Name": "Barraskewda",
+        "HP": 61,
+        "Attack": 123,
+        "Defense": 60,
+        "Speed": 136
+    },
+    {
+        "S.no": "#0848",
+        "Name": "Toxel",
+        "HP": 40,
+        "Attack": 38,
+        "Defense": 35,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0849",
+        "Name": "Toxtricity-Amped",
+        "HP": 75,
+        "Attack": 98,
+        "Defense": 70,
+        "Speed": 75
+    },
+    {
+        "S.no": "#0850",
+        "Name": "Sizzlipede",
+        "HP": 50,
+        "Attack": 65,
+        "Defense": 45,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0851",
+        "Name": "Centiskorch",
+        "HP": 100,
+        "Attack": 115,
+        "Defense": 65,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0852",
+        "Name": "Clobbopus",
+        "HP": 50,
+        "Attack": 68,
+        "Defense": 60,
+        "Speed": 32
+    },
+    {
+        "S.no": "#0853",
+        "Name": "Grapploct",
+        "HP": 80,
+        "Attack": 118,
+        "Defense": 90,
+        "Speed": 42
+    },
+    {
+        "S.no": "#0854",
+        "Name": "Sinistea",
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 45,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0855",
+        "Name": "Polteageist",
+        "HP": 60,
+        "Attack": 65,
+        "Defense": 65,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0856",
+        "Name": "Hatenna",
+        "HP": 42,
+        "Attack": 30,
+        "Defense": 45,
+        "Speed": 39
+    },
+    {
+        "S.no": "#0857",
+        "Name": "Hattrem",
+        "HP": 57,
+        "Attack": 40,
+        "Defense": 65,
+        "Speed": 49
+    },
+    {
+        "S.no": "#0858",
+        "Name": "Hatterene",
+        "HP": 57,
+        "Attack": 90,
+        "Defense": 95,
+        "Speed": 29
+    },
+    {
+        "S.no": "#0859",
+        "Name": "Impidimp",
+        "HP": 45,
+        "Attack": 45,
+        "Defense": 30,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0860",
+        "Name": "Morgrem",
+        "HP": 65,
+        "Attack": 60,
+        "Defense": 45,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0861",
+        "Name": "Grimmsnarl",
+        "HP": 95,
+        "Attack": 120,
+        "Defense": 65,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0862",
+        "Name": "Obstagoon",
+        "HP": 93,
+        "Attack": 90,
+        "Defense": 101,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0863",
+        "Name": "Perrserker",
+        "HP": 70,
+        "Attack": 110,
+        "Defense": 100,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0864",
+        "Name": "Cursola",
+        "HP": 60,
+        "Attack": 95,
+        "Defense": 50,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0865",
+        "Name": "Sirfetchd",
+        "HP": 62,
+        "Attack": 135,
+        "Defense": 95,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0866",
+        "Name": "Mr-Rime",
+        "HP": 80,
+        "Attack": 85,
+        "Defense": 75,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0867",
+        "Name": "Runerigus",
+        "HP": 58,
+        "Attack": 95,
+        "Defense": 145,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0868",
+        "Name": "Milcery",
+        "HP": 45,
+        "Attack": 40,
+        "Defense": 40,
+        "Speed": 34
+    },
+    {
+        "S.no": "#0869",
+        "Name": "Alcremie",
+        "HP": 65,
+        "Attack": 60,
+        "Defense": 75,
+        "Speed": 64
+    },
+    {
+        "S.no": "#0870",
+        "Name": "Falinks",
+        "HP": 65,
+        "Attack": 100,
+        "Defense": 100,
+        "Speed": 75
+    },
+    {
+        "S.no": "#0871",
+        "Name": "Pincurchin",
+        "HP": 48,
+        "Attack": 101,
+        "Defense": 95,
+        "Speed": 15
+    },
+    {
+        "S.no": "#0872",
+        "Name": "Snom",
+        "HP": 30,
+        "Attack": 25,
+        "Defense": 35,
+        "Speed": 20
+    },
+    {
+        "S.no": "#0873",
+        "Name": "Frosmoth",
+        "HP": 70,
+        "Attack": 65,
+        "Defense": 60,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0874",
+        "Name": "Stonjourner",
+        "HP": 100,
+        "Attack": 125,
+        "Defense": 135,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0875",
+        "Name": "Eiscue-Ice",
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 110,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0876",
+        "Name": "Indeedee-Male",
+        "HP": 60,
+        "Attack": 65,
+        "Defense": 55,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0877",
+        "Name": "Morpeko-Full-Belly",
+        "HP": 58,
+        "Attack": 95,
+        "Defense": 58,
+        "Speed": 97
+    },
+    {
+        "S.no": "#0878",
+        "Name": "Cufant",
+        "HP": 72,
+        "Attack": 80,
+        "Defense": 49,
+        "Speed": 40
+    },
+    {
+        "S.no": "#0879",
+        "Name": "Copperajah",
+        "HP": 122,
+        "Attack": 130,
+        "Defense": 69,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0880",
+        "Name": "Dracozolt",
+        "HP": 90,
+        "Attack": 100,
+        "Defense": 90,
+        "Speed": 75
+    },
+    {
+        "S.no": "#0881",
+        "Name": "Arctozolt",
+        "HP": 90,
+        "Attack": 100,
+        "Defense": 90,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0882",
+        "Name": "Dracovish",
+        "HP": 90,
+        "Attack": 90,
+        "Defense": 100,
+        "Speed": 75
+    },
+    {
+        "S.no": "#0883",
+        "Name": "Arctovish",
+        "HP": 90,
+        "Attack": 90,
+        "Defense": 100,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0884",
+        "Name": "Duraludon",
+        "HP": 70,
+        "Attack": 95,
+        "Defense": 115,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0885",
+        "Name": "Dreepy",
+        "HP": 28,
+        "Attack": 60,
+        "Defense": 30,
+        "Speed": 82
+    },
+    {
+        "S.no": "#0886",
+        "Name": "Drakloak",
+        "HP": 68,
+        "Attack": 80,
+        "Defense": 50,
+        "Speed": 102
+    },
+    {
+        "S.no": "#0887",
+        "Name": "Dragapult",
+        "HP": 88,
+        "Attack": 120,
+        "Defense": 75,
+        "Speed": 142
+    },
+    {
+        "S.no": "#0888",
+        "Name": "Zacian",
+        "HP": 92,
+        "Attack": 120,
+        "Defense": 115,
+        "Speed": 138
+    },
+    {
+        "S.no": "#0889",
+        "Name": "Zamazenta",
+        "HP": 92,
+        "Attack": 120,
+        "Defense": 115,
+        "Speed": 138
+    },
+    {
+        "S.no": "#0890",
+        "Name": "Eternatus",
+        "HP": 140,
+        "Attack": 85,
+        "Defense": 95,
+        "Speed": 130
+    },
+    {
+        "S.no": "#0891",
+        "Name": "Kubfu",
+        "HP": 60,
+        "Attack": 90,
+        "Defense": 60,
+        "Speed": 72
+    },
+    {
+        "S.no": "#0892",
+        "Name": "Urshifu-Single-Strike",
+        "HP": 100,
+        "Attack": 130,
+        "Defense": 100,
+        "Speed": 97
+    },
+    {
+        "S.no": "#0893",
+        "Name": "Zarude",
+        "HP": 105,
+        "Attack": 120,
+        "Defense": 105,
+        "Speed": 105
+    },
+    {
+        "S.no": "#0894",
+        "Name": "Regieleki",
+        "HP": 80,
+        "Attack": 100,
+        "Defense": 50,
+        "Speed": 200
+    },
+    {
+        "S.no": "#0895",
+        "Name": "Regidrago",
+        "HP": 200,
+        "Attack": 100,
+        "Defense": 50,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0896",
+        "Name": "Glastrier",
+        "HP": 100,
+        "Attack": 145,
+        "Defense": 130,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0897",
+        "Name": "Spectrier",
+        "HP": 100,
+        "Attack": 65,
+        "Defense": 60,
+        "Speed": 130
+    },
+    {
+        "S.no": "#0898",
+        "Name": "Calyrex",
+        "HP": 100,
+        "Attack": 80,
+        "Defense": 80,
+        "Speed": 80
+    },
+    {
+        "S.no": "#0899",
+        "Name": "Wyrdeer",
+        "HP": 103,
+        "Attack": 105,
+        "Defense": 72,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0900",
+        "Name": "Kleavor",
+        "HP": 70,
+        "Attack": 135,
+        "Defense": 95,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0901",
+        "Name": "Ursaluna",
+        "HP": 130,
+        "Attack": 140,
+        "Defense": 105,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0902",
+        "Name": "Basculegion-Male",
+        "HP": 120,
+        "Attack": 112,
+        "Defense": 65,
+        "Speed": 78
+    },
+    {
+        "S.no": "#0903",
+        "Name": "Sneasler",
+        "HP": 80,
+        "Attack": 130,
+        "Defense": 60,
+        "Speed": 120
+    },
+    {
+        "S.no": "#0904",
+        "Name": "Overqwil",
+        "HP": 85,
+        "Attack": 115,
+        "Defense": 95,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0905",
+        "Name": "Enamorus-Incarnate",
+        "HP": 74,
+        "Attack": 115,
+        "Defense": 70,
+        "Speed": 106
+    },
+    {
+        "S.no": "#0906",
+        "Name": "Sprigatito",
+        "HP": 40,
+        "Attack": 61,
+        "Defense": 54,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0907",
+        "Name": "Floragato",
+        "HP": 61,
+        "Attack": 80,
+        "Defense": 63,
+        "Speed": 83
+    },
+    {
+        "S.no": "#0908",
+        "Name": "Meowscarada",
+        "HP": 76,
+        "Attack": 110,
+        "Defense": 70,
+        "Speed": 123
+    },
+    {
+        "S.no": "#0909",
+        "Name": "Fuecoco",
+        "HP": 67,
+        "Attack": 45,
+        "Defense": 59,
+        "Speed": 36
+    },
+    {
+        "S.no": "#0910",
+        "Name": "Crocalor",
+        "HP": 81,
+        "Attack": 55,
+        "Defense": 78,
+        "Speed": 49
+    },
+    {
+        "S.no": "#0911",
+        "Name": "Skeledirge",
+        "HP": 104,
+        "Attack": 75,
+        "Defense": 100,
+        "Speed": 66
+    },
+    {
+        "S.no": "#0912",
+        "Name": "Quaxly",
+        "HP": 55,
+        "Attack": 65,
+        "Defense": 45,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0913",
+        "Name": "Quaxwell",
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 65,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0914",
+        "Name": "Quaquaval",
+        "HP": 85,
+        "Attack": 120,
+        "Defense": 80,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0915",
+        "Name": "Lechonk",
+        "HP": 54,
+        "Attack": 45,
+        "Defense": 40,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0916",
+        "Name": "Oinkologne-Male",
+        "HP": 110,
+        "Attack": 100,
+        "Defense": 75,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0917",
+        "Name": "Tarountula",
+        "HP": 35,
+        "Attack": 41,
+        "Defense": 45,
+        "Speed": 20
+    },
+    {
+        "S.no": "#0918",
+        "Name": "Spidops",
+        "HP": 60,
+        "Attack": 79,
+        "Defense": 92,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0919",
+        "Name": "Nymble",
+        "HP": 33,
+        "Attack": 46,
+        "Defense": 40,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0920",
+        "Name": "Lokix",
+        "HP": 71,
+        "Attack": 102,
+        "Defense": 78,
+        "Speed": 92
+    },
+    {
+        "S.no": "#0921",
+        "Name": "Pawmi",
+        "HP": 45,
+        "Attack": 50,
+        "Defense": 20,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0922",
+        "Name": "Pawmo",
+        "HP": 60,
+        "Attack": 75,
+        "Defense": 40,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0923",
+        "Name": "Pawmot",
+        "HP": 70,
+        "Attack": 115,
+        "Defense": 70,
+        "Speed": 105
+    },
+    {
+        "S.no": "#0924",
+        "Name": "Tandemaus",
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 45,
+        "Speed": 75
+    },
+    {
+        "S.no": "#0925",
+        "Name": "Maushold-Family-Of-Four",
+        "HP": 74,
+        "Attack": 75,
+        "Defense": 70,
+        "Speed": 111
+    },
+    {
+        "S.no": "#0926",
+        "Name": "Fidough",
+        "HP": 37,
+        "Attack": 55,
+        "Defense": 70,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0927",
+        "Name": "Dachsbun",
+        "HP": 57,
+        "Attack": 80,
+        "Defense": 115,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0928",
+        "Name": "Smoliv",
+        "HP": 41,
+        "Attack": 35,
+        "Defense": 45,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0929",
+        "Name": "Dolliv",
+        "HP": 52,
+        "Attack": 53,
+        "Defense": 60,
+        "Speed": 33
+    },
+    {
+        "S.no": "#0930",
+        "Name": "Arboliva",
+        "HP": 78,
+        "Attack": 69,
+        "Defense": 90,
+        "Speed": 39
+    },
+    {
+        "S.no": "#0931",
+        "Name": "Squawkabilly-Green-Plumage",
+        "HP": 82,
+        "Attack": 96,
+        "Defense": 51,
+        "Speed": 92
+    },
+    {
+        "S.no": "#0932",
+        "Name": "Nacli",
+        "HP": 55,
+        "Attack": 55,
+        "Defense": 75,
+        "Speed": 25
+    },
+    {
+        "S.no": "#0933",
+        "Name": "Naclstack",
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 100,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0934",
+        "Name": "Garganacl",
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 130,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0935",
+        "Name": "Charcadet",
+        "HP": 40,
+        "Attack": 50,
+        "Defense": 40,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0936",
+        "Name": "Armarouge",
+        "HP": 85,
+        "Attack": 60,
+        "Defense": 100,
+        "Speed": 75
+    },
+    {
+        "S.no": "#0937",
+        "Name": "Ceruledge",
+        "HP": 75,
+        "Attack": 125,
+        "Defense": 80,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0938",
+        "Name": "Tadbulb",
+        "HP": 61,
+        "Attack": 31,
+        "Defense": 41,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0939",
+        "Name": "Bellibolt",
+        "HP": 109,
+        "Attack": 64,
+        "Defense": 91,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0940",
+        "Name": "Wattrel",
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 35,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0941",
+        "Name": "Kilowattrel",
+        "HP": 70,
+        "Attack": 70,
+        "Defense": 60,
+        "Speed": 125
+    },
+    {
+        "S.no": "#0942",
+        "Name": "Maschiff",
+        "HP": 60,
+        "Attack": 78,
+        "Defense": 60,
+        "Speed": 51
+    },
+    {
+        "S.no": "#0943",
+        "Name": "Mabosstiff",
+        "HP": 80,
+        "Attack": 120,
+        "Defense": 90,
+        "Speed": 85
+    },
+    {
+        "S.no": "#0944",
+        "Name": "Shroodle",
+        "HP": 40,
+        "Attack": 65,
+        "Defense": 35,
+        "Speed": 75
+    },
+    {
+        "S.no": "#0945",
+        "Name": "Grafaiai",
+        "HP": 63,
+        "Attack": 95,
+        "Defense": 65,
+        "Speed": 110
+    },
+    {
+        "S.no": "#0946",
+        "Name": "Bramblin",
+        "HP": 40,
+        "Attack": 65,
+        "Defense": 30,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0947",
+        "Name": "Brambleghast",
+        "HP": 55,
+        "Attack": 115,
+        "Defense": 70,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0948",
+        "Name": "Toedscool",
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 35,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0949",
+        "Name": "Toedscruel",
+        "HP": 80,
+        "Attack": 70,
+        "Defense": 65,
+        "Speed": 100
+    },
+    {
+        "S.no": "#0950",
+        "Name": "Klawf",
+        "HP": 70,
+        "Attack": 100,
+        "Defense": 115,
+        "Speed": 75
+    },
+    {
+        "S.no": "#0951",
+        "Name": "Capsakid",
+        "HP": 50,
+        "Attack": 62,
+        "Defense": 40,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0952",
+        "Name": "Scovillain",
+        "HP": 65,
+        "Attack": 108,
+        "Defense": 65,
+        "Speed": 75
+    },
+    {
+        "S.no": "#0953",
+        "Name": "Rellor",
+        "HP": 41,
+        "Attack": 50,
+        "Defense": 60,
+        "Speed": 30
+    },
+    {
+        "S.no": "#0954",
+        "Name": "Rabsca",
+        "HP": 75,
+        "Attack": 50,
+        "Defense": 85,
+        "Speed": 45
+    },
+    {
+        "S.no": "#0955",
+        "Name": "Flittle",
+        "HP": 30,
+        "Attack": 35,
+        "Defense": 30,
+        "Speed": 75
+    },
+    {
+        "S.no": "#0956",
+        "Name": "Espathra",
+        "HP": 95,
+        "Attack": 60,
+        "Defense": 60,
+        "Speed": 105
+    },
+    {
+        "S.no": "#0957",
+        "Name": "Tinkatink",
+        "HP": 50,
+        "Attack": 45,
+        "Defense": 45,
+        "Speed": 58
+    },
+    {
+        "S.no": "#0958",
+        "Name": "Tinkatuff",
+        "HP": 65,
+        "Attack": 55,
+        "Defense": 55,
+        "Speed": 78
+    },
+    {
+        "S.no": "#0959",
+        "Name": "Tinkaton",
+        "HP": 85,
+        "Attack": 75,
+        "Defense": 77,
+        "Speed": 94
+    },
+    {
+        "S.no": "#0960",
+        "Name": "Wiglett",
+        "HP": 10,
+        "Attack": 55,
+        "Defense": 25,
+        "Speed": 95
+    },
+    {
+        "S.no": "#0961",
+        "Name": "Wugtrio",
+        "HP": 35,
+        "Attack": 100,
+        "Defense": 50,
+        "Speed": 120
+    },
+    {
+        "S.no": "#0962",
+        "Name": "Bombirdier",
+        "HP": 70,
+        "Attack": 103,
+        "Defense": 85,
+        "Speed": 82
+    },
+    {
+        "S.no": "#0963",
+        "Name": "Finizen",
+        "HP": 70,
+        "Attack": 45,
+        "Defense": 40,
+        "Speed": 75
+    },
+    {
+        "S.no": "#0964",
+        "Name": "Palafin-Zero",
+        "HP": 100,
+        "Attack": 70,
+        "Defense": 72,
+        "Speed": 100
+    },
+    {
+        "S.no": "#0965",
+        "Name": "Varoom",
+        "HP": 45,
+        "Attack": 70,
+        "Defense": 63,
+        "Speed": 47
+    },
+    {
+        "S.no": "#0966",
+        "Name": "Revavroom",
+        "HP": 80,
+        "Attack": 119,
+        "Defense": 90,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0967",
+        "Name": "Cyclizar",
+        "HP": 70,
+        "Attack": 95,
+        "Defense": 65,
+        "Speed": 121
+    },
+    {
+        "S.no": "#0968",
+        "Name": "Orthworm",
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 145,
+        "Speed": 65
+    },
+    {
+        "S.no": "#0969",
+        "Name": "Glimmet",
+        "HP": 48,
+        "Attack": 35,
+        "Defense": 42,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0970",
+        "Name": "Glimmora",
+        "HP": 83,
+        "Attack": 55,
+        "Defense": 90,
+        "Speed": 86
+    },
+    {
+        "S.no": "#0971",
+        "Name": "Greavard",
+        "HP": 50,
+        "Attack": 61,
+        "Defense": 60,
+        "Speed": 34
+    },
+    {
+        "S.no": "#0972",
+        "Name": "Houndstone",
+        "HP": 72,
+        "Attack": 101,
+        "Defense": 100,
+        "Speed": 68
+    },
+    {
+        "S.no": "#0973",
+        "Name": "Flamigo",
+        "HP": 82,
+        "Attack": 115,
+        "Defense": 74,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0974",
+        "Name": "Cetoddle",
+        "HP": 108,
+        "Attack": 68,
+        "Defense": 45,
+        "Speed": 43
+    },
+    {
+        "S.no": "#0975",
+        "Name": "Cetitan",
+        "HP": 170,
+        "Attack": 113,
+        "Defense": 65,
+        "Speed": 73
+    },
+    {
+        "S.no": "#0976",
+        "Name": "Veluza",
+        "HP": 90,
+        "Attack": 102,
+        "Defense": 73,
+        "Speed": 70
+    },
+    {
+        "S.no": "#0977",
+        "Name": "Dondozo",
+        "HP": 150,
+        "Attack": 100,
+        "Defense": 115,
+        "Speed": 35
+    },
+    {
+        "S.no": "#0978",
+        "Name": "Tatsugiri-Curly",
+        "HP": 68,
+        "Attack": 50,
+        "Defense": 60,
+        "Speed": 82
+    },
+    {
+        "S.no": "#0979",
+        "Name": "Annihilape",
+        "HP": 110,
+        "Attack": 115,
+        "Defense": 80,
+        "Speed": 90
+    },
+    {
+        "S.no": "#0980",
+        "Name": "Clodsire",
+        "HP": 130,
+        "Attack": 75,
+        "Defense": 60,
+        "Speed": 20
+    },
+    {
+        "S.no": "#0981",
+        "Name": "Farigiraf",
+        "HP": 120,
+        "Attack": 90,
+        "Defense": 70,
+        "Speed": 60
+    },
+    {
+        "S.no": "#0982",
+        "Name": "Dudunsparce-Two-Segment",
+        "HP": 125,
+        "Attack": 100,
+        "Defense": 80,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0983",
+        "Name": "Kingambit",
+        "HP": 100,
+        "Attack": 135,
+        "Defense": 120,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0984",
+        "Name": "Great-Tusk",
+        "HP": 115,
+        "Attack": 131,
+        "Defense": 131,
+        "Speed": 87
+    },
+    {
+        "S.no": "#0985",
+        "Name": "Scream-Tail",
+        "HP": 115,
+        "Attack": 65,
+        "Defense": 99,
+        "Speed": 111
+    },
+    {
+        "S.no": "#0986",
+        "Name": "Brute-Bonnet",
+        "HP": 111,
+        "Attack": 127,
+        "Defense": 99,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0987",
+        "Name": "Flutter-Mane",
+        "HP": 55,
+        "Attack": 55,
+        "Defense": 55,
+        "Speed": 135
+    },
+    {
+        "S.no": "#0988",
+        "Name": "Slither-Wing",
+        "HP": 85,
+        "Attack": 135,
+        "Defense": 79,
+        "Speed": 81
+    },
+    {
+        "S.no": "#0989",
+        "Name": "Sandy-Shocks",
+        "HP": 85,
+        "Attack": 81,
+        "Defense": 97,
+        "Speed": 101
+    },
+    {
+        "S.no": "#0990",
+        "Name": "Iron-Treads",
+        "HP": 90,
+        "Attack": 112,
+        "Defense": 120,
+        "Speed": 106
+    },
+    {
+        "S.no": "#0991",
+        "Name": "Iron-Bundle",
+        "HP": 56,
+        "Attack": 80,
+        "Defense": 114,
+        "Speed": 136
+    },
+    {
+        "S.no": "#0992",
+        "Name": "Iron-Hands",
+        "HP": 154,
+        "Attack": 140,
+        "Defense": 108,
+        "Speed": 50
+    },
+    {
+        "S.no": "#0993",
+        "Name": "Iron-Jugulis",
+        "HP": 94,
+        "Attack": 80,
+        "Defense": 86,
+        "Speed": 108
+    },
+    {
+        "S.no": "#0994",
+        "Name": "Iron-Moth",
+        "HP": 80,
+        "Attack": 70,
+        "Defense": 60,
+        "Speed": 110
+    },
+    {
+        "S.no": "#0995",
+        "Name": "Iron-Thorns",
+        "HP": 100,
+        "Attack": 134,
+        "Defense": 110,
+        "Speed": 72
+    },
+    {
+        "S.no": "#0996",
+        "Name": "Frigibax",
+        "HP": 65,
+        "Attack": 75,
+        "Defense": 45,
+        "Speed": 55
+    },
+    {
+        "S.no": "#0997",
+        "Name": "Arctibax",
+        "HP": 90,
+        "Attack": 95,
+        "Defense": 66,
+        "Speed": 62
+    },
+    {
+        "S.no": "#0998",
+        "Name": "Baxcalibur",
+        "HP": 115,
+        "Attack": 145,
+        "Defense": 92,
+        "Speed": 87
+    },
+    {
+        "S.no": "#0999",
+        "Name": "Gimmighoul",
+        "HP": 45,
+        "Attack": 30,
+        "Defense": 70,
+        "Speed": 10
+    },
+    {
+        "S.no": "#1000",
+        "Name": "Gholdengo",
+        "HP": 87,
+        "Attack": 60,
+        "Defense": 95,
+        "Speed": 84
+    },
+    {
+        "S.no": "#1001",
+        "Name": "Wo-Chien",
+        "HP": 85,
+        "Attack": 85,
+        "Defense": 100,
+        "Speed": 70
+    },
+    {
+        "S.no": "#1002",
+        "Name": "Chien-Pao",
+        "HP": 80,
+        "Attack": 120,
+        "Defense": 80,
+        "Speed": 135
+    },
+    {
+        "S.no": "#1003",
+        "Name": "Ting-Lu",
+        "HP": 155,
+        "Attack": 110,
+        "Defense": 125,
+        "Speed": 45
+    },
+    {
+        "S.no": "#1004",
+        "Name": "Chi-Yu",
+        "HP": 55,
+        "Attack": 80,
+        "Defense": 80,
+        "Speed": 100
+    },
+    {
+        "S.no": "#1005",
+        "Name": "Roaring-Moon",
+        "HP": 105,
+        "Attack": 139,
+        "Defense": 71,
+        "Speed": 119
+    },
+    {
+        "S.no": "#1006",
+        "Name": "Iron-Valiant",
+        "HP": 74,
+        "Attack": 130,
+        "Defense": 90,
+        "Speed": 116
+    },
+    {
+        "S.no": "#1007",
+        "Name": "Koraidon",
+        "HP": 100,
+        "Attack": 135,
+        "Defense": 115,
+        "Speed": 135
+    },
+    {
+        "S.no": "#1008",
+        "Name": "Miraidon",
+        "HP": 100,
+        "Attack": 85,
+        "Defense": 100,
+        "Speed": 135
+    },
+    {
+        "S.no": "#1009",
+        "Name": "Walking-Wake",
+        "HP": 99,
+        "Attack": 83,
+        "Defense": 91,
+        "Speed": 109
+    },
+    {
+        "S.no": "#1010",
+        "Name": "Iron-Leaves",
+        "HP": 90,
+        "Attack": 130,
+        "Defense": 88,
+        "Speed": 104
+    },
+    {
+        "S.no": "#1011",
+        "Name": "Dipplin",
+        "HP": 80,
+        "Attack": 80,
+        "Defense": 110,
+        "Speed": 40
+    },
+    {
+        "S.no": "#1012",
+        "Name": "Poltchageist",
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 45,
+        "Speed": 50
+    },
+    {
+        "S.no": "#1013",
+        "Name": "Sinistcha",
+        "HP": 71,
+        "Attack": 60,
+        "Defense": 106,
+        "Speed": 70
+    },
+    {
+        "S.no": "#1014",
+        "Name": "Okidogi",
+        "HP": 88,
+        "Attack": 128,
+        "Defense": 115,
+        "Speed": 80
+    },
+    {
+        "S.no": "#1015",
+        "Name": "Munkidori",
+        "HP": 88,
+        "Attack": 75,
+        "Defense": 66,
+        "Speed": 106
+    },
+    {
+        "S.no": "#1016",
+        "Name": "Fezandipiti",
+        "HP": 88,
+        "Attack": 91,
+        "Defense": 82,
+        "Speed": 99
+    },
+    {
+        "S.no": "#1017",
+        "Name": "Ogerpon",
+        "HP": 80,
+        "Attack": 120,
+        "Defense": 84,
+        "Speed": 110
+    },
+    {
+        "S.no": "#1018",
+        "Name": "Archaludon",
+        "HP": 90,
+        "Attack": 105,
+        "Defense": 130,
+        "Speed": 85
+    },
+    {
+        "S.no": "#1019",
+        "Name": "Hydrapple",
+        "HP": 106,
+        "Attack": 80,
+        "Defense": 110,
+        "Speed": 44
+    },
+    {
+        "S.no": "#1020",
+        "Name": "Gouging-Fire",
+        "HP": 105,
+        "Attack": 115,
+        "Defense": 121,
+        "Speed": 91
+    },
+    {
+        "S.no": "#1021",
+        "Name": "Raging-Bolt",
+        "HP": 125,
+        "Attack": 73,
+        "Defense": 91,
+        "Speed": 75
+    },
+    {
+        "S.no": "#1022",
+        "Name": "Iron-Boulder",
+        "HP": 90,
+        "Attack": 120,
+        "Defense": 80,
+        "Speed": 124
+    },
+    {
+        "S.no": "#1023",
+        "Name": "Iron-Crown",
+        "HP": 90,
+        "Attack": 72,
+        "Defense": 100,
+        "Speed": 98
+    },
+    {
+        "S.no": "#1024",
+        "Name": "Terapagos",
+        "HP": 90,
+        "Attack": 65,
+        "Defense": 85,
+        "Speed": 60
+    },
+    {
+        "S.no": "#1025",
+        "Name": "Pecharunt",
+        "HP": 88,
+        "Attack": 88,
+        "Defense": 160,
+        "Speed": 88
+    }
+]

@@ -1,0 +1,598 @@
+/* ========================================
+   RESET
+======================================== */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* ========================================
+   HTML / BODY
+======================================== */
+
+html,
+body {
+    min-height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    min-height: 100vh;
+
+    background: linear-gradient(
+        135deg,
+        #e53935 0%,
+        #ff6f61 45%,
+        #ffd54f 100%
+    );
+
+    background-attachment: fixed;
+
+    transition:
+        background 0.5s ease,
+        color 0.5s ease;
+}
+
+
+/* ========================================
+   HEADER
+======================================== */
+
+header {
+    width: 100%;
+    padding: 20px 50px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav img {
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+}
+
+nav h1 {
+    color: white;
+    font-size: 36px;
+    font-weight: 800;
+}
+
+nav button {
+    padding: 11px 20px;
+
+    border: none;
+    border-radius: 25px;
+
+    background: white;
+    color: #222;
+
+    font-size: 14px;
+    font-weight: bold;
+
+    cursor: pointer;
+
+    transition:
+        transform 0.3s ease,
+        background 0.3s ease;
+}
+
+nav button:hover {
+    transform: scale(1.05);
+}
+
+
+/* ========================================
+   MAIN
+======================================== */
+
+main {
+    width: 90%;
+    max-width: 1100px;
+
+    margin: 30px auto 60px;
+}
+
+
+/* ========================================
+   SEARCH
+======================================== */
+
+.search-section {
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.search-section label {
+    display: block;
+
+    margin-bottom: 12px;
+
+    color: white;
+
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.search-box {
+    display: flex;
+
+    justify-content: center;
+    align-items: flex-start;
+
+    gap: 10px;
+}
+
+
+/* ========================================
+   SEARCH INPUT
+======================================== */
+
+.search-input-wrapper {
+    position: relative;
+    width: 320px;
+}
+
+.search-input-wrapper input {
+    width: 100%;
+
+    padding: 13px 16px;
+
+    border: none;
+    border-radius: 10px;
+
+    outline: none;
+
+    font-size: 16px;
+
+    transition: box-shadow 0.3s ease;
+}
+
+.search-input-wrapper input:focus {
+    box-shadow:
+        0 0 0 3px
+        rgba(255, 255, 255, 0.35);
+}
+
+
+/* ========================================
+   SEARCH BUTTON
+======================================== */
+
+.search-box button {
+    padding: 13px 25px;
+
+    border: none;
+    border-radius: 10px;
+
+    background: #222;
+    color: white;
+
+    font-size: 16px;
+    font-weight: bold;
+
+    cursor: pointer;
+
+    transition:
+        background 0.3s ease,
+        transform 0.3s ease;
+}
+
+.search-box button:hover {
+    background: #000;
+    transform: translateY(-2px);
+}
+
+
+/* ========================================
+   SEARCH SUGGESTIONS
+======================================== */
+
+.suggestions {
+    position: absolute;
+
+    top: calc(100% + 5px);
+    left: 0;
+
+    width: 100%;
+    max-height: 250px;
+
+    overflow-y: auto;
+
+    background: white;
+
+    border-radius: 10px;
+
+    box-shadow:
+        0 10px 25px
+        rgba(0, 0, 0, 0.2);
+
+    z-index: 1000;
+
+    display: none;
+
+    text-align: left;
+}
+
+.suggestion-item {
+    padding: 12px 16px;
+
+    color: #222;
+
+    font-size: 15px;
+    font-weight: bold;
+
+    cursor: pointer;
+
+    transition:
+        background 0.2s ease;
+}
+
+.suggestion-item:hover {
+    background: #f1f1f1;
+}
+
+
+/* ========================================
+   POKÉMON CARD
+======================================== */
+
+.pokemon-card {
+    display: grid;
+
+    grid-template-columns: 40% 60%;
+
+    min-height: 400px;
+
+    padding: 30px;
+
+    background: rgba(255, 255, 255, 0.92);
+
+    border-radius: 25px;
+
+    box-shadow:
+        0 15px 40px
+        rgba(0, 0, 0, 0.2);
+
+    transition:
+        background 0.5s ease;
+}
+
+
+/* ========================================
+   POKÉMON IMAGE
+======================================== */
+
+.pokemon-image {
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+
+    min-height: 330px;
+}
+
+.pokemon-image img {
+    width: 280px;
+    height: 280px;
+
+    object-fit: contain;
+
+    transition:
+        transform 0.3s ease;
+}
+
+.pokemon-image img:hover {
+    transform: scale(1.08);
+}
+
+
+/* ========================================
+   POKÉMON INFORMATION
+======================================== */
+
+.pokemon-info {
+    padding: 20px;
+}
+
+.pokemon-info h2 {
+    margin-bottom: 25px;
+
+    color: #222;
+
+    font-size: 32px;
+}
+
+.info-grid {
+    display: grid;
+
+    grid-template-columns:
+        repeat(2, 1fr);
+
+    gap: 15px;
+}
+
+.info-item {
+    padding: 16px;
+
+    border-radius: 12px;
+
+    background: #f4f4f4;
+
+    transition:
+        transform 0.2s ease,
+        background 0.3s ease;
+}
+
+.info-item:hover {
+    transform: translateY(-3px);
+}
+
+.info-item span {
+    display: block;
+
+    margin-bottom: 7px;
+
+    color: #777;
+
+    font-size: 13px;
+    font-weight: bold;
+
+    text-transform: uppercase;
+}
+
+.info-item p {
+    color: #222;
+
+    font-size: 17px;
+    font-weight: bold;
+}
+
+
+/* ========================================
+   STATS SECTION
+======================================== */
+
+.stats-section {
+    margin-top: 30px;
+
+    padding: 30px;
+
+    background: rgba(255, 255, 255, 0.92);
+
+    border-radius: 25px;
+
+    box-shadow:
+        0 15px 40px
+        rgba(0, 0, 0, 0.2);
+
+    transition:
+        background 0.5s ease;
+}
+
+
+/* ========================================
+   STATS HEADER
+======================================== */
+
+.stats-header {
+    display: flex;
+
+    justify-content: space-between;
+    align-items: center;
+
+    margin-bottom: 25px;
+}
+
+.stats-header h2 {
+    color: #222;
+
+    font-size: 28px;
+}
+
+#statsStatus {
+    padding: 8px 14px;
+
+    border-radius: 20px;
+
+    background: #f1f1f1;
+
+    color: #555;
+
+    font-size: 14px;
+    font-weight: bold;
+}
+
+
+/* ========================================
+   MATPLOTLIB CHART
+======================================== */
+
+.stats-chart {
+    width: 100%;
+
+    min-height: 300px;
+
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+
+    overflow: hidden;
+
+    border-radius: 15px;
+}
+
+.stats-chart img {
+    display: none;
+
+    width: 100%;
+    max-width: 800px;
+
+    height: auto;
+
+    border-radius: 15px;
+}
+
+#statsPlaceholder {
+    color: #777;
+
+    font-size: 16px;
+
+    text-align: center;
+}
+
+
+/* ========================================
+   NIGHT MODE
+======================================== */
+
+body.night {
+    background: linear-gradient(
+        135deg,
+        #0f172a 0%,
+        #1e293b 50%,
+        #334155 100%
+    );
+}
+
+body.night .pokemon-card,
+body.night .stats-section {
+    background: rgba(30, 41, 59, 0.95);
+}
+
+body.night .pokemon-info h2,
+body.night .stats-header h2 {
+    color: white;
+}
+
+body.night .info-item {
+    background: #334155;
+}
+
+body.night .info-item span {
+    color: #cbd5e1;
+}
+
+body.night .info-item p {
+    color: white;
+}
+
+body.night #statsStatus {
+    background: #334155;
+    color: #e2e8f0;
+}
+
+body.night #statsPlaceholder {
+    color: #cbd5e1;
+}
+
+
+/* ========================================
+   NIGHT MODE SUGGESTIONS
+======================================== */
+
+body.night .suggestions {
+    background: #1e293b;
+}
+
+body.night .suggestion-item {
+    color: white;
+}
+
+body.night .suggestion-item:hover {
+    background: #334155;
+}
+
+
+/* ========================================
+   RESPONSIVE
+======================================== */
+
+@media (max-width: 768px) {
+
+    header {
+        padding: 20px;
+    }
+
+    nav h1 {
+        font-size: 28px;
+    }
+
+    nav img {
+        width: 40px;
+        height: 40px;
+    }
+
+    .pokemon-card {
+        grid-template-columns: 1fr;
+    }
+
+    .pokemon-image {
+        min-height: 250px;
+    }
+
+    .pokemon-image img {
+        width: 220px;
+        height: 220px;
+    }
+
+    .pokemon-info {
+        padding: 10px;
+    }
+
+    .info-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .search-box {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .search-input-wrapper {
+        width: 100%;
+        max-width: 400px;
+    }
+
+    .search-box button {
+        width: 100%;
+        max-width: 400px;
+    }
+
+    .stats-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+}
+
+
+@media (max-width: 450px) {
+
+    nav h1 {
+        font-size: 24px;
+    }
+
+    nav button {
+        padding: 9px 14px;
+    }
+
+    .pokemon-card {
+        padding: 20px;
+    }
+
+    .stats-section {
+        padding: 20px;
+    }
+
+    .pokemon-info h2 {
+        font-size: 26px;
+    }
+}

@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="icon"
+          type="image/x-icon"
+          href="./assets/media/icon/favicon.ico">
+
+    <link rel="stylesheet"
+          href="./assets/css/style.css">
+
+    <title>Pokédex</title>
+</head>
+
+<body>
+
+<header>
+    <nav>
+        <img
+            src="./assets/media/icon/favicon.ico"
+            alt="Pokédex Logo"
+        >
+
+        <h1>Pokédex</h1>
+
+        <button id="themeBtn">
+            🌙 Night
+        </button>
+    </nav>
+</header>
+
+
+<main>
+
+    <!-- ================= SEARCH ================= -->
+
+    <section class="search-section">
+
+        <label for="pokemonInput">
+            Enter Pokémon Name
+        </label>
+
+        <div class="search-box">
+
+            <div class="search-input-wrapper">
+
+                <input
+                    type="text"
+                    id="pokemonInput"
+                    placeholder="Enter Pokémon name..."
+                    autocomplete="off"
+                >
+
+                <div
+                    id="suggestions"
+                    class="suggestions"
+                ></div>
+
+            </div>
+
+            <button id="searchBtn">
+                Search
+            </button>
+
+        </div>
+
+    </section>
+
+
+    <!-- ================= POKÉMON CARD ================= -->
+
+    <section class="pokemon-card">
+
+        <div class="pokemon-image">
+
+            <img
+                id="pokemonImage"
+                src=""
+                alt="Pokémon"
+            >
+
+        </div>
+
+
+        <div class="pokemon-info">
+
+            <h2 id="pokemonName">
+                Pokémon Name
+            </h2>
+
+            <div class="info-grid">
+
+                <div class="info-item">
+                    <span>Type</span>
+                    <p id="type">---</p>
+                </div>
+
+                <div class="info-item">
+                    <span>Category</span>
+                    <p id="category">---</p>
+                </div>
+
+                <div class="info-item">
+                    <span>Weaknesses</span>
+                    <p id="weaknesses">---</p>
+                </div>
+
+                <div class="info-item">
+                    <span>Gender</span>
+                    <p id="gender">---</p>
+                </div>
+
+                <div class="info-item">
+                    <span>Height</span>
+                    <p id="height">---</p>
+                </div>
+
+                <div class="info-item">
+                    <span>Weight</span>
+                    <p id="weight">---</p>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- ================= MATPLOTLIB STATS ================= -->
+
+    <section class="stats-section">
+
+        <div class="stats-header">
+
+            <h2>Base Stats</h2>
+
+            <span id="statsStatus">
+                Search a Pokémon
+            </span>
+
+        </div>
+
+        <div class="stats-chart">
+
+            <img
+                id="statsImage"
+                src=""
+                alt="Pokémon Base Stats"
+            >
+
+            <p id="statsPlaceholder">
+                Search a Pokémon to view its
+                Matplotlib statistics chart.
+            </p>
+
+        </div>
+
+    </section>
+
+</main>
+
+
+<script src="./assets/js/script.js"></script>
+
+</body>
+</html>
