@@ -5,15 +5,12 @@
 const themeBtn = document.getElementById("themeBtn");
 
 themeBtn.addEventListener("click", () => {
-
     document.body.classList.toggle("night");
 
-    if (document.body.classList.contains("night")) {
-        themeBtn.textContent = "☀️ Day";
-    } else {
-        themeBtn.textContent = "🌙 Night";
-    }
-
+    themeBtn.textContent =
+        document.body.classList.contains("night")
+            ? "☀️ Day"
+            : "🌙 Night";
 });
 
 
@@ -22,29 +19,32 @@ themeBtn.addEventListener("click", () => {
 ======================================== */
 
 let pokemonData = [];
+let evolutionData = [];
 
 
 /* ========================================
    ELEMENTS
 ======================================== */
 
-const searchBtn =
-    document.getElementById("searchBtn");
+const searchBtn = document.getElementById("searchBtn");
+const pokemonInput = document.getElementById("pokemonInput");
+const suggestions = document.getElementById("suggestions");
 
-const pokemonInput =
-    document.getElementById("pokemonInput");
+const statsImage = document.getElementById("statsImage");
+const statsPlaceholder = document.getElementById("statsPlaceholder");
+const statsStatus = document.getElementById("statsStatus");
 
-const suggestions =
-    document.getElementById("suggestions");
+const evolutionSection =
+    document.getElementById("evolutionSection");
 
-const statsImage =
-    document.getElementById("statsImage");
+const evolutionChain =
+    document.getElementById("evolutionChain");
 
-const statsPlaceholder =
-    document.getElementById("statsPlaceholder");
+const evolutionStatus =
+    document.getElementById("evolutionStatus");
 
-const statsStatus =
-    document.getElementById("statsStatus");
+const evolutionPlaceholder =
+    document.getElementById("evolutionPlaceholder");
 
 
 /* ========================================
@@ -52,22 +52,21 @@ const statsStatus =
 ======================================== */
 
 fetch("./assets/Data/json/pokemon_data.json")
-
     .then(response => {
 
         if (!response.ok) {
-            throw new Error(
-                "pokemon_data.json not found"
-            );
+            throw new Error("pokemon_data.json not found");
         }
 
         return response.json();
 
     })
-
     .then(data => {
 
-        pokemonData = data;
+        pokemonData =
+            Array.isArray(data)
+                ? data
+                : [];
 
         console.log(
             "Pokémon data loaded:",
@@ -75,11 +74,49 @@ fetch("./assets/Data/json/pokemon_data.json")
         );
 
     })
-
     .catch(error => {
 
         console.error(
             "Error loading Pokémon data:",
+            error
+        );
+
+    });
+
+
+/* ========================================
+   LOAD EVOLUTION DATA
+======================================== */
+
+fetch("./assets/Data/json/pokemon_evolution.json")
+    .then(response => {
+
+        if (!response.ok) {
+            throw new Error(
+                "pokemon_evolution.json not found"
+            );
+        }
+
+        return response.json();
+
+    })
+    .then(data => {
+
+        evolutionData =
+            Array.isArray(data)
+                ? data
+                : [];
+
+        console.log(
+            "Evolution data loaded:",
+            evolutionData.length
+        );
+
+    })
+    .catch(error => {
+
+        console.error(
+            "Error loading pokemon_evolution.json:",
             error
         );
 
@@ -127,6 +164,63 @@ function getPokemonNumber(pokemon) {
 
 
 /* ========================================
+   NORMALIZE NAME
+======================================== */
+
+function normalizeText(value) {
+
+    return String(value || "")
+        .trim()
+        .toLowerCase()
+        .replace(/♀/g, "")
+        .replace(/♂/g, "")
+        .replace(/[’']/g, "")
+        .replace(/[^a-z0-9]/g, "");
+
+}
+
+
+/* ========================================
+   FIND POKÉMON
+======================================== */
+
+function findPokemonByName(name) {
+
+    const normalizedName =
+        normalizeText(name);
+
+    return pokemonData.find(pokemon => {
+
+        return normalizeText(
+            getPokemonName(pokemon)
+        ) === normalizedName;
+
+    });
+
+}
+
+
+/* ========================================
+   FIND EVOLUTION RECORD
+======================================== */
+
+function findEvolutionRecord(name) {
+
+    const normalizedName =
+        normalizeText(name);
+
+    return evolutionData.find(pokemon => {
+
+        return normalizeText(
+            pokemon.Name
+        ) === normalizedName;
+
+    });
+
+}
+
+
+/* ========================================
    SEARCH SUGGESTIONS
 ======================================== */
 
@@ -145,16 +239,15 @@ function showSuggestions() {
 
     suggestions.innerHTML = "";
 
-
     if (
         searchText === "" ||
         pokemonData.length === 0
     ) {
 
-        suggestions.style.display = "none";
+        suggestions.style.display =
+            "none";
 
         return;
-
     }
 
 
@@ -166,7 +259,9 @@ function showSuggestions() {
                     getPokemonName(pokemon)
                         .toLowerCase();
 
-                return name.startsWith(searchText);
+                return name.startsWith(
+                    searchText
+                );
 
             })
             .slice(0, 8);
@@ -174,10 +269,10 @@ function showSuggestions() {
 
     if (matches.length === 0) {
 
-        suggestions.style.display = "none";
+        suggestions.style.display =
+            "none";
 
         return;
-
     }
 
 
@@ -200,7 +295,8 @@ function showSuggestions() {
             "click",
             () => {
 
-                pokemonInput.value = name;
+                pokemonInput.value =
+                    name;
 
                 suggestions.style.display =
                     "none";
@@ -216,7 +312,8 @@ function showSuggestions() {
     });
 
 
-    suggestions.style.display = "block";
+    suggestions.style.display =
+        "block";
 
 }
 
@@ -283,11 +380,8 @@ function searchPokemon() {
 
     const searchName =
         pokemonInput.value
-            .trim()
-            .toLowerCase();
+            .trim();
 
-
-    /* Empty search */
 
     if (searchName === "") {
 
@@ -296,11 +390,8 @@ function searchPokemon() {
         );
 
         return;
-
     }
 
-
-    /* Data loading */
 
     if (pokemonData.length === 0) {
 
@@ -309,22 +400,14 @@ function searchPokemon() {
         );
 
         return;
-
     }
 
 
-    /* Find Pokémon */
-
     const pokemon =
-        pokemonData.find(pokemon => {
+        findPokemonByName(
+            searchName
+        );
 
-            return getPokemonName(pokemon)
-                .toLowerCase() === searchName;
-
-        });
-
-
-    /* Not found */
 
     if (!pokemon) {
 
@@ -333,7 +416,6 @@ function searchPokemon() {
         );
 
         return;
-
     }
 
 
@@ -350,7 +432,8 @@ function searchPokemon() {
     document.getElementById(
         "pokemonName"
     ).textContent =
-        getPokemonName(pokemon) || "---";
+        getPokemonName(pokemon) ||
+        "---";
 
 
     document.getElementById(
@@ -397,15 +480,45 @@ function searchPokemon() {
         getPokemonNumber(pokemon);
 
 
-    console.log(
-        "Pokémon Number:",
+    /* ========================================
+       POKÉMON IMAGE
+    ======================================== */
+
+    loadPokemonImage(
+        pokemon,
         pokemonNumber
     );
 
 
     /* ========================================
-       POKÉMON IMAGE
+       MATPLOTLIB CHART
     ======================================== */
+
+    loadStatsChart(
+        pokemon,
+        pokemonNumber
+    );
+
+
+    /* ========================================
+       EVOLUTION
+    ======================================== */
+
+    loadEvolutionChain(
+        pokemon
+    );
+
+}
+
+
+/* ========================================
+   LOAD POKÉMON IMAGE
+======================================== */
+
+function loadPokemonImage(
+    pokemon,
+    pokemonNumber
+) {
 
     const pokemonImage =
         document.getElementById(
@@ -437,16 +550,6 @@ function searchPokemon() {
 
     };
 
-
-    /* ========================================
-       LOAD MATPLOTLIB CHART
-    ======================================== */
-
-    loadStatsChart(
-        pokemon,
-        pokemonNumber
-    );
-
 }
 
 
@@ -475,22 +578,9 @@ function loadStatsChart(
         "Loading chart...";
 
 
-    /*
-       Python-generated chart location:
-
-       assets/media/pokemon_charts/0001.png
-       assets/media/pokemon_charts/0002.png
-       assets/media/pokemon_charts/0003.png
-       ...
-    */
-
     const chartPath =
         `./assets/media/pokemon_charts/${pokemonNumber}.png`;
 
-
-    /*
-       Cache-busting
-    */
 
     statsImage.src =
         `${chartPath}?v=${Date.now()}`;
@@ -499,10 +589,6 @@ function loadStatsChart(
     statsImage.alt =
         `${getPokemonName(pokemon)} Base Stats`;
 
-
-    /* ========================================
-       CHART LOADED
-    ======================================== */
 
     statsImage.onload = () => {
 
@@ -519,10 +605,6 @@ function loadStatsChart(
 
     };
 
-
-    /* ========================================
-       CHART ERROR
-    ======================================== */
 
     statsImage.onerror = () => {
 
@@ -541,12 +623,386 @@ function loadStatsChart(
         statsStatus.textContent =
             "Chart unavailable";
 
+    };
 
-        console.error(
-            "Matplotlib chart not found:",
-            chartPath
+}
+
+
+/* ========================================
+   LOAD EVOLUTION CHAIN
+======================================== */
+
+function loadEvolutionChain(pokemon) {
+
+    evolutionChain.innerHTML = "";
+
+
+    /*
+       Make sure evolution data
+       has finished loading.
+    */
+
+    if (evolutionData.length === 0) {
+
+        evolutionSection.style.display =
+            "block";
+
+        evolutionStatus.textContent =
+            "Loading evolution data";
+
+        evolutionChain.innerHTML = `
+            <p id="evolutionPlaceholder">
+                Loading evolution data...
+            </p>
+        `;
+
+        return;
+    }
+
+
+    /*
+       Build complete chain.
+    */
+
+    const chain =
+        buildEvolutionChain(
+            getPokemonName(pokemon)
         );
 
-    };
+
+    console.log(
+        "Evolution chain:",
+        chain
+    );
+
+
+    /*
+       No evolution.
+    */
+
+    if (chain.length <= 1) {
+
+        evolutionSection.style.display =
+            "block";
+
+        evolutionStatus.textContent =
+            "No evolution";
+
+
+        evolutionChain.innerHTML = `
+            <p id="evolutionPlaceholder">
+                This Pokémon does not evolve.
+            </p>
+        `;
+
+        return;
+    }
+
+
+    /*
+       Show evolution section.
+    */
+
+    evolutionSection.style.display =
+        "block";
+
+
+    evolutionStatus.textContent =
+        `${chain.length} Stages`;
+
+
+    /*
+       Create cards.
+    */
+
+    chain.forEach(
+        (pokemonName, index) => {
+
+            const evolutionPokemon =
+                findPokemonByName(
+                    pokemonName
+                );
+
+
+            if (!evolutionPokemon) {
+                return;
+            }
+
+
+            const number =
+                getPokemonNumber(
+                    evolutionPokemon
+                );
+
+
+            const name =
+                getPokemonName(
+                    evolutionPokemon
+                );
+
+
+            const card =
+                document.createElement(
+                    "div"
+                );
+
+
+            card.className =
+                "evolution-pokemon";
+
+
+            card.innerHTML = `
+
+                <img
+                    src="./assets/media/pokemon_images/${number}.png"
+                    alt="${name}"
+                    loading="lazy"
+                >
+
+                <h3>
+                    ${name}
+                </h3>
+
+                <span>
+                    #${number}
+                </span>
+
+            `;
+
+
+            /*
+               Click evolution Pokémon
+               to search it.
+            */
+
+            card.addEventListener(
+                "click",
+                () => {
+
+                    pokemonInput.value =
+                        name;
+
+                    searchPokemon();
+
+                    window.scrollTo({
+                        top: 0,
+                        behavior: "smooth"
+                    });
+
+                }
+            );
+
+
+            evolutionChain.appendChild(
+                card
+            );
+
+
+            /*
+               Arrow.
+            */
+
+            if (
+                index <
+                chain.length - 1
+            ) {
+
+                const arrow =
+                    document.createElement(
+                        "div"
+                    );
+
+
+                arrow.className =
+                    "evolution-arrow";
+
+
+                arrow.textContent =
+                    "→";
+
+
+                evolutionChain.appendChild(
+                    arrow
+                );
+
+            }
+
+        }
+    );
+
+}
+
+
+/* ========================================
+   BUILD COMPLETE EVOLUTION CHAIN
+======================================== */
+
+function buildEvolutionChain(
+    pokemonName
+) {
+
+    const chain = [];
+
+
+    /*
+       Start from searched Pokémon.
+    */
+
+    let current =
+        findEvolutionRecord(
+            pokemonName
+        );
+
+
+    if (!current) {
+
+        return [];
+
+    }
+
+
+    /*
+       Find first Pokémon in chain.
+    */
+
+    let firstName =
+        current["Name"];
+
+
+    let safety = 0;
+
+
+    while (safety < 100) {
+
+        const record =
+            findEvolutionRecord(
+                firstName
+            );
+
+
+        if (!record) {
+            break;
+        }
+
+
+        const previous =
+            String(
+                record["Evolves From"] || ""
+            ).trim();
+
+
+        if (previous === "") {
+            break;
+        }
+
+
+        const previousRecord =
+            findEvolutionRecord(
+                previous
+            );
+
+
+        if (!previousRecord) {
+            break;
+        }
+
+
+        firstName =
+            previousRecord["Name"];
+
+
+        safety++;
+
+    }
+
+
+    /*
+       Now start from the first
+       Pokémon and move forward.
+    */
+
+    let currentName =
+        firstName;
+
+
+    safety = 0;
+
+
+    while (
+        currentName &&
+        safety < 100
+    ) {
+
+        const record =
+            findEvolutionRecord(
+                currentName
+            );
+
+
+        if (!record) {
+            break;
+        }
+
+
+        /*
+           Add current Pokémon.
+        */
+
+        if (
+            !chain.some(
+                name =>
+                    normalizeText(name) ===
+                    normalizeText(currentName)
+            )
+        ) {
+
+            chain.push(
+                currentName
+            );
+
+        }
+
+
+        /*
+           Get next evolution.
+        */
+
+        const next =
+            String(
+                record["Evolves To"] || ""
+            ).trim();
+
+
+        if (next === "") {
+            break;
+        }
+
+
+        /*
+           Check that next Pokémon
+           actually exists.
+        */
+
+        const nextRecord =
+            findEvolutionRecord(
+                next
+            );
+
+
+        if (!nextRecord) {
+            break;
+        }
+
+
+        currentName =
+            nextRecord["Name"];
+
+
+        safety++;
+
+    }
+
+
+    return chain;
 
 }

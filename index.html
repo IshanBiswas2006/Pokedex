@@ -4,12 +4,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="icon"
-          type="image/x-icon"
-          href="./assets/media/icon/favicon.ico">
+    <link
+        rel="icon"
+        type="image/x-icon"
+        href="./assets/media/icon/favicon.ico"
+    >
 
-    <link rel="stylesheet"
-          href="./assets/css/style.css">
+    <link
+        rel="stylesheet"
+        href="./assets/css/style.css"
+    >
 
     <title>Pokédex</title>
 </head>
@@ -18,6 +22,7 @@
 
 <header>
     <nav>
+
         <img
             src="./assets/media/icon/favicon.ico"
             alt="Pokédex Logo"
@@ -28,6 +33,7 @@
         <button id="themeBtn">
             🌙 Night
         </button>
+
     </nav>
 </header>
 
@@ -129,13 +135,48 @@
     </section>
 
 
+    <!-- ================= EVOLUTION CHAIN ================= -->
+
+    <section
+        class="evolution-section"
+        id="evolutionSection"
+    >
+
+        <div class="evolution-header">
+
+            <h2>
+                Evolution Chain
+            </h2>
+
+            <span id="evolutionStatus">
+                No evolution data
+            </span>
+
+        </div>
+
+        <div
+            class="evolution-chain"
+            id="evolutionChain"
+        >
+
+            <p id="evolutionPlaceholder">
+                Search a Pokémon to view its evolution chain.
+            </p>
+
+        </div>
+
+    </section>
+
+
     <!-- ================= MATPLOTLIB STATS ================= -->
 
     <section class="stats-section">
 
         <div class="stats-header">
 
-            <h2>Base Stats</h2>
+            <h2>
+                Base Stats
+            </h2>
 
             <span id="statsStatus">
                 Search a Pokémon

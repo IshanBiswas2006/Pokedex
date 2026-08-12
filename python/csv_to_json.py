@@ -31,29 +31,9 @@ DATA_DIR = os.path.join(
     "Data"
 )
 
-CSV_DIR = os.path.join(
-    DATA_DIR,
-    "csv"
-)
-
 JSON_DIR = os.path.join(
     DATA_DIR,
     "json"
-)
-
-
-# ============================================================
-# FILE PATHS
-# ============================================================
-
-CSV_FILE = os.path.join(
-    CSV_DIR,
-    "pokemon_data.csv"
-)
-
-JSON_FILE = os.path.join(
-    JSON_DIR,
-    "pokemon_data.json"
 )
 
 
@@ -78,22 +58,46 @@ print("========================================")
 
 
 # ============================================================
+# USER INPUT
+# ============================================================
+
+print()
+print("Enter the CSV file path.")
+print("Example:")
+print(r"D:\Study Materials\Pokemon\assets\Data\csv\pokemon_data.csv")
+
+print()
+
+CSV_FILE = input(
+    "CSV file path: "
+).strip().strip('"')
+
+
+# ============================================================
 # CHECK CSV
 # ============================================================
 
-if not os.path.exists(CSV_FILE):
+if not os.path.isfile(CSV_FILE):
 
     print()
     print("CSV file not found:")
     print(CSV_FILE)
 
-    print()
-    print("Expected location:")
-    print(
-        "assets/Data/csv/pokemon_data.csv"
-    )
-
     raise SystemExit
+
+
+# ============================================================
+# JSON FILE NAME
+# ============================================================
+
+csv_name = os.path.splitext(
+    os.path.basename(CSV_FILE)
+)[0]
+
+JSON_FILE = os.path.join(
+    JSON_DIR,
+    csv_name + ".json"
+)
 
 
 # ============================================================
@@ -103,10 +107,20 @@ if not os.path.exists(CSV_FILE):
 print()
 print("Reading CSV...")
 
-df = pd.read_csv(
-    CSV_FILE,
-    dtype=str
-)
+try:
+
+    df = pd.read_csv(
+        CSV_FILE,
+        dtype=str
+    )
+
+except Exception as error:
+
+    print()
+    print("Could not read CSV:")
+    print(error)
+
+    raise SystemExit
 
 
 # ============================================================
@@ -117,7 +131,7 @@ df = df.fillna("")
 
 
 # ============================================================
-# CONVERT DATAFRAME TO RECORDS
+# CONVERT TO RECORDS
 # ============================================================
 
 records = df.to_dict(

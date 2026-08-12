@@ -1,0 +1,1026 @@
+S.no,Name,Evolves From,Evolves To,Evolution Method
+#0001,Bulbasaur,,Ivysaur,Level 16
+#0002,Ivysaur,Bulbasaur,Venusaur,Level 32
+#0003,Venusaur,Ivysaur,,
+#0004,Charmander,,Charmeleon,Level 16
+#0005,Charmeleon,Charmander,Charizard,Level 36
+#0006,Charizard,Charmeleon,,
+#0007,Squirtle,,Wartortle,Level 16
+#0008,Wartortle,Squirtle,Blastoise,Level 36
+#0009,Blastoise,Wartortle,,
+#0010,Caterpie,,Metapod,Level 7
+#0011,Metapod,Caterpie,Butterfree,Level 10
+#0012,Butterfree,Metapod,,
+#0013,Weedle,,Kakuna,Level 7
+#0014,Kakuna,Weedle,Beedrill,Level 10
+#0015,Beedrill,Kakuna,,
+#0016,Pidgey,,Pidgeotto,Level 18
+#0017,Pidgeotto,Pidgey,Pidgeot,Level 36
+#0018,Pidgeot,Pidgeotto,,
+#0019,Rattata,,Raticate,Level 20
+#0020,Raticate,Rattata,,
+#0021,Spearow,,Fearow,Level 20
+#0022,Fearow,Spearow,,
+#0023,Ekans,,Arbok,Level 22
+#0024,Arbok,Ekans,,
+#0025,Pikachu,Pichu,Raichu,Thunder Stone
+#0026,Raichu,Pikachu,,
+#0027,Sandshrew,,Sandslash,Level 22
+#0028,Sandslash,Sandshrew,,
+#0029,Nidoran♀,,Nidorina,Level 16
+#0030,Nidorina,Nidoran♀,Nidoqueen,Moon Stone
+#0031,Nidoqueen,Nidorina,,
+#0032,Nidoran♂,,Nidorino,Level 16
+#0033,Nidorino,Nidoran♂,Nidoking,Moon Stone
+#0034,Nidoking,Nidorino,,
+#0035,Clefairy,Cleffa,Clefable,Moon Stone
+#0036,Clefable,Clefairy,,
+#0037,Vulpix,,Ninetales,Fire Stone
+#0038,Ninetales,Vulpix,,
+#0039,Jigglypuff,Igglybuff,Wigglytuff,Moon Stone
+#0040,Wigglytuff,Jigglypuff,,
+#0041,Zubat,,Golbat,Level 22
+#0042,Golbat,Zubat,Crobat,High Friendship
+#0043,Oddish,,Gloom,Level 21
+#0044,Gloom,Oddish,Vileplume,Leaf Stone
+#0045,Vileplume,Gloom,,
+#0046,Paras,,Parasect,Level 24
+#0047,Parasect,Paras,,
+#0048,Venonat,,Venomoth,Level 31
+#0049,Venomoth,Venonat,,
+#0050,Diglett,,Dugtrio,Level 26
+#0051,Dugtrio,Diglett,,
+#0052,Meowth,,Persian,Level 28
+#0053,Persian,Meowth,,
+#0054,Psyduck,,Golduck,Level 33
+#0055,Golduck,Psyduck,,
+#0056,Mankey,,Primeape,Level 28
+#0057,Primeape,Mankey,,
+#0058,Growlithe,,Arcanine,Fire Stone
+#0059,Arcanine,Growlithe,,
+#0060,Poliwag,,Poliwhirl,Level 25
+#0061,Poliwhirl,Poliwag,Poliwrath,Water Stone
+#0062,Poliwrath,Poliwhirl,,
+#0063,Abra,,Kadabra,Level 16
+#0064,Kadabra,Abra,Alakazam,Trade
+#0065,Alakazam,Kadabra,,
+#0066,Machop,,Machoke,Level 28
+#0067,Machoke,Machop,Machamp,Trade
+#0068,Machamp,Machoke,,
+#0069,Bellsprout,,Weepinbell,Level 21
+#0070,Weepinbell,Bellsprout,Victreebel,Leaf Stone
+#0071,Victreebel,Weepinbell,,
+#0072,Tentacool,,Tentacruel,Level 30
+#0073,Tentacruel,Tentacool,,
+#0074,Geodude,,Graveler,Level 25
+#0075,Graveler,Geodude,Golem,Trade
+#0076,Golem,Graveler,,
+#0077,Ponyta,,Rapidash,Level 40
+#0078,Rapidash,Ponyta,,
+#0079,Slowpoke,,Slowbro,Level 37
+#0080,Slowbro,Slowpoke,,
+#0081,Magnemite,,Magneton,Level 30
+#0082,Magneton,Magnemite,Magnezone,Thunder Stone
+#0083,Farfetch'd,,,
+#0084,Doduo,,Dodrio,Level 31
+#0085,Dodrio,Doduo,,
+#0086,Seel,,Dewgong,Level 34
+#0087,Dewgong,Seel,,
+#0088,Grimer,,Muk,Level 38
+#0089,Muk,Grimer,,
+#0090,Shellder,,Cloyster,Water Stone
+#0091,Cloyster,Shellder,,
+#0092,Gastly,,Haunter,Level 25
+#0093,Haunter,Gastly,Gengar,Trade
+#0094,Gengar,Haunter,,
+#0095,Onix,,Steelix,Trade while holding Metal Coat
+#0096,Drowzee,,Hypno,Level 26
+#0097,Hypno,Drowzee,,
+#0098,Krabby,,Kingler,Level 28
+#0099,Kingler,Krabby,,
+#0100,Voltorb,,Electrode,Level 30
+#0101,Electrode,Voltorb,,
+#0102,Exeggcute,,Exeggutor,Leaf Stone
+#0103,Exeggutor,Exeggcute,,
+#0104,Cubone,,Marowak,Level 28
+#0105,Marowak,Cubone,,
+#0106,Hitmonlee,Tyrogue,,
+#0107,Hitmonchan,Tyrogue,,
+#0108,Lickitung,,Lickilicky,Level up while knowing Rollout
+#0109,Koffing,,Weezing,Level 35
+#0110,Weezing,Koffing,,
+#0111,Rhyhorn,,Rhydon,Level 42
+#0112,Rhydon,Rhyhorn,Rhyperior,Trade while holding Protector
+#0113,Chansey,Happiny,Blissey,High Friendship
+#0114,Tangela,,Tangrowth,Level up while knowing Ancient Power
+#0115,Kangaskhan,,,
+#0116,Horsea,,Seadra,Level 32
+#0117,Seadra,Horsea,Kingdra,Trade while holding Dragon Scale
+#0118,Goldeen,,Seaking,Level 33
+#0119,Seaking,Goldeen,,
+#0120,Staryu,,Starmie,Water Stone
+#0121,Starmie,Staryu,,
+#0122,Mr. Mime,,,
+#0123,Scyther,,Scizor,Trade while holding Metal Coat
+#0124,Jynx,Smoochum,Jynx,Level 30
+#0125,Electabuzz,Elekid,Electivire,Trade while holding Electirizer
+#0126,Magmar,Magby,Magmortar,Trade while holding Magmarizer
+#0127,Pinsir,,,
+#0128,Tauros,,,
+#0129,Magikarp,,Gyarados,Level 20
+#0130,Gyarados,Magikarp,,
+#0131,Lapras,,,
+#0132,Ditto,,,
+#0133,Eevee,,Vaporeon,Water Stone
+#0134,Vaporeon,Eevee,,
+#0135,Jolteon,Eevee,,
+#0136,Flareon,Eevee,,
+#0137,Porygon,,Porygon2,Trade while holding Upgrade
+#0138,Omanyte,,Omastar,Level 40
+#0139,Omastar,Omanyte,,
+#0140,Kabuto,,Kabutops,Level 40
+#0141,Kabutops,Kabuto,,
+#0142,Aerodactyl,,,
+#0143,Snorlax,Munchlax,Snorlax,High Friendship
+#0144,Articuno,,,
+#0145,Zapdos,,,
+#0146,Moltres,,,
+#0147,Dratini,,Dragonair,Level 30
+#0148,Dragonair,Dratini,Dragonite,Level 55
+#0149,Dragonite,Dragonair,,
+#0150,Mewtwo,,,
+#0151,Mew,,,
+#0152,Chikorita,,Bayleef,Level 16
+#0153,Bayleef,Chikorita,Meganium,Level 32
+#0154,Meganium,Bayleef,,
+#0155,Cyndaquil,,Quilava,Level 14
+#0156,Quilava,Cyndaquil,Typhlosion,Level 36
+#0157,Typhlosion,Quilava,,
+#0158,Totodile,,Croconaw,Level 18
+#0159,Croconaw,Totodile,Feraligatr,Level 30
+#0160,Feraligatr,Croconaw,,
+#0161,Sentret,,Furret,Level 15
+#0162,Furret,Sentret,,
+#0163,Hoothoot,,Noctowl,Level 20
+#0164,Noctowl,Hoothoot,,
+#0165,Ledyba,,Ledian,Level 18
+#0166,Ledian,Ledyba,,
+#0167,Spinarak,,Ariados,Level 22
+#0168,Ariados,Spinarak,,
+#0169,Crobat,Golbat,,
+#0170,Chinchou,,Lanturn,Level 27
+#0171,Lanturn,Chinchou,,
+#0172,Pichu,,Pikachu,High Friendship
+#0173,Cleffa,,Clefairy,High Friendship
+#0174,Igglybuff,,Jigglypuff,High Friendship
+#0175,Togepi,,Togetic,High Friendship
+#0176,Togetic,Togepi,Togekiss,Shiny Stone
+#0177,Natu,,Xatu,Level 25
+#0178,Xatu,Natu,,
+#0179,Mareep,,Flaaffy,Level 15
+#0180,Flaaffy,Mareep,Ampharos,Level 30
+#0181,Ampharos,Flaaffy,,
+#0182,Bellossom,Gloom,,
+#0183,Marill,Azurill,Azumarill,Level 18
+#0184,Azumarill,Marill,,
+#0185,Sudowoodo,Bonsly,,
+#0186,Politoed,Poliwhirl,,
+#0187,Hoppip,,Skiploom,Level 18
+#0188,Skiploom,Hoppip,Jumpluff,Level 27
+#0189,Jumpluff,Skiploom,,
+#0190,Aipom,,Ambipom,Level up while knowing Double Hit
+#0191,Sunkern,,Sunflora,Sun Stone
+#0192,Sunflora,Sunkern,,
+#0193,Yanma,,Yanmega,Level up while knowing Ancient Power
+#0194,Wooper,,Quagsire,Level 20
+#0195,Quagsire,Wooper,,
+#0196,Espeon,Eevee,,
+#0197,Umbreon,Eevee,,
+#0198,Murkrow,,Honchkrow,Dusk Stone
+#0199,Slowking,Slowpoke,,
+#0200,Misdreavus,,Mismagius,Dusk Stone
+#0201,Unown,,,
+#0202,Wobbuffet,Wynaut,,
+#0203,Girafarig,,Farigiraf,Level up while knowing Twin Beam
+#0204,Pineco,,Forretress,Level 31
+#0205,Forretress,Pineco,,
+#0206,Dunsparce,,Dudunsparce,Level up while knowing Hyper Drill
+#0207,Gligar,,Gliscor,Night while holding Razor Fang
+#0208,Steelix,Onix,,
+#0209,Snubbull,,Granbull,Level 23
+#0210,Granbull,Snubbull,,
+#0211,Qwilfish,,,
+#0212,Scizor,Scyther,,
+#0213,Shuckle,,,
+#0214,Heracross,,,
+#0215,Sneasel,,Weavile,Night while holding Razor Claw
+#0216,Teddiursa,,Ursaring,Level 30
+#0217,Ursaring,Teddiursa,Ursaluna,Use Peat Block during Full Moon
+#0218,Slugma,,Magcargo,Level 38
+#0219,Magcargo,Slugma,,
+#0220,Swinub,,Piloswine,Level 33
+#0221,Piloswine,Swinub,Mamoswine,Level up while knowing Ancient Power
+#0222,Corsola,,,
+#0223,Remoraid,,Octillery,Level 25
+#0224,Octillery,Remoraid,,
+#0225,Delibird,,,
+#0226,Mantine,,,
+#0227,Skarmory,,,
+#0228,Houndour,,Houndoom,Level 24
+#0229,Houndoom,Houndour,,
+#0230,Kingdra,Seadra,,
+#0231,Phanpy,,Donphan,Level 25
+#0232,Donphan,Phanpy,,
+#0233,Porygon2,Porygon,Porygon-Z,Trade while holding Dubious Disc
+#0234,Stantler,,Wyrdeer,Level up while knowing Psyshield Bash
+#0235,Smeargle,,,
+#0236,Tyrogue,,Hitmonlee,Attack > Defense
+#0237,Hitmontop,Tyrogue,Attack = Defense
+#0238,Smoochum,,Jynx,Level 30
+#0239,Elekid,,Electabuzz,Level 30
+#0240,Magby,,Magmar,Level 30
+#0241,Miltank,,,
+#0242,Blissey,Chansey,,
+#0243,Raikou,,,
+#0244,Entei,,,
+#0245,Suicune,,,
+#0246,Larvitar,,Pupitar,Level 30
+#0247,Pupitar,Larvitar,Tyranitar,Level 55
+#0248,Tyranitar,Pupitar,,
+#0249,Lugia,,,
+#0250,Ho-Oh,,,
+#0251,Celebi,,,
+#0252,Treecko,,Grovyle,Level 16
+#0253,Grovyle,Treecko,Sceptile,Level 36
+#0254,Sceptile,Grovyle,,
+#0255,Torchic,,Combusken,Level 16
+#0256,Combusken,Torchic,Blaziken,Level 36
+#0257,Blaziken,Combusken,,
+#0258,Mudkip,,Marshtomp,Level 16
+#0259,Marshtomp,Mudkip,Swampert,Level 36
+#0260,Swampert,Marshtomp,,
+#0261,Poochyena,,Mightyena,Level 18
+#0262,Mightyena,Poochyena,,
+#0263,Zigzagoon,,Linoone,Level 20
+#0264,Linoone,Zigzagoon,,
+#0265,Wurmple,,Silcoon,Level 7
+#0266,Silcoon,Wurmple,Beautifly,Level 10
+#0267,Beautifly,Silcoon,,
+#0268,Cascoon,Wurmple,Dustox,Level 10
+#0269,Dustox,Cascoon,,
+#0270,Lotad,,Lombre,Level 14
+#0271,Lombre,Lotad,Ludicolo,Water Stone
+#0272,Ludicolo,Lombre,,
+#0273,Seedot,,Nuzleaf,Level 14
+#0274,Nuzleaf,Seedot,Shiftry,Leaf Stone
+#0275,Shiftry,Nuzleaf,,
+#0276,Taillow,,Swellow,Level 22
+#0277,Swellow,Taillow,,
+#0278,Wingull,,Pelipper,Level 25
+#0279,Pelipper,Wingull,,
+#0280,Ralts,,Kirlia,Level 20
+#0281,Kirlia,Ralts,Gardevoir,Level 30
+#0282,Gardevoir,Kirlia,,
+#0283,Surskit,,Masquerain,Level 22
+#0284,Masquerain,Surskit,,
+#0285,Shroomish,,Breloom,Level 23
+#0286,Breloom,Shroomish,,
+#0287,Slakoth,,Vigoroth,Level 18
+#0288,Vigoroth,Slakoth,Slaking,Level 36
+#0289,Slaking,Vigoroth,,
+#0290,Nincada,,Ninjask,Level 20
+#0291,Ninjask,Nincada,,
+#0292,Shedinja,Nincada,,
+#0293,Whismur,,Loudred,Level 20
+#0294,Loudred,Whismur,Exploud,Level 40
+#0295,Exploud,Loudred,,
+#0296,Makuhita,,Hariyama,Level 24
+#0297,Hariyama,Makuhita,,
+#0298,Azurill,,Marill,High Friendship
+#0299,Nosepass,,Probopass,Level up in a special magnetic field
+#0300,Skitty,,Delcatty,Moon Stone
+#0301,Delcatty,Skitty,,
+#0302,Sableye,,,
+#0303,Mawile,,,
+#0304,Aron,,Lairon,Level 32
+#0305,Lairon,Aron,Aggron,Level 42
+#0306,Aggron,Lairon,,
+#0307,Meditite,,Medicham,Level 37
+#0308,Medicham,Meditite,,
+#0309,Electrike,,Manectric,Level 26
+#0310,Manectric,Electrike,,
+#0311,Plusle,,,
+#0312,Minun,,,
+#0313,Volbeat,,,
+#0314,Illumise,,,
+#0315,Roselia,Budew,Roserade,Shiny Stone
+#0316,Gulpin,,Swalot,Level 26
+#0317,Swalot,Gulpin,,
+#0318,Carvanha,,Sharpedo,Level 30
+#0319,Sharpedo,Carvanha,,
+#0320,Wailmer,,Wailord,Level 40
+#0321,Wailord,Wailmer,,
+#0322,Numel,,Camerupt,Level 33
+#0323,Camerupt,Numel,,
+#0324,Torkoal,,,
+#0325,Spoink,,Grumpig,Level 32
+#0326,Grumpig,Spoink,,
+#0327,Spinda,,,
+#0328,Trapinch,,Vibrava,Level 35
+#0329,Vibrava,Trapinch,Flygon,Level 45
+#0330,Flygon,Vibrava,,
+#0331,Cacnea,,Cacturne,Level 32
+#0332,Cacturne,Cacnea,,
+#0333,Swablu,,Altaria,Level 35
+#0334,Altaria,Swablu,,
+#0335,Zangoose,,,
+#0336,Seviper,,,
+#0337,Lunatone,,,
+#0338,Solrock,,,
+#0339,Barboach,,Whiscash,Level 30
+#0340,Whiscash,Barboach,,
+#0341,Corphish,,Crawdaunt,Level 30
+#0342,Crawdaunt,Corphish,,
+#0343,Baltoy,,Claydol,Level 36
+#0344,Claydol,Baltoy,,
+#0345,Lileep,,Cradily,Level 40
+#0346,Cradily,Lileep,,
+#0347,Anorith,,Armaldo,Level 40
+#0348,Armaldo,Anorith,,
+#0349,Feebas,,Milotic,Beauty/Trade with Prism Scale
+#0350,Milotic,Feebas,,
+#0351,Castform,,,
+#0352,Kecleon,,,
+#0353,Shuppet,,Banette,Level 37
+#0354,Banette,Shuppet,,
+#0355,Duskull,,Dusclops,Level 37
+#0356,Dusclops,Duskull,Dusknoir,Trade while holding Reaper Cloth
+#0357,Tropius,,,
+#0358,Chimecho,Chingling,,
+#0359,Absol,,,
+#0360,Wynaut,,Wobbuffet,Level 15
+#0361,Snorunt,,Glalie,Level 42
+#0362,Glalie,Snorunt,,
+#0363,Spheal,,Sealeo,Level 32
+#0364,Sealeo,Spheal,Walrein,Level 44
+#0365,Walrein,Sealeo,,
+#0366,Clamperl,,Huntail,Trade with Deep Sea Tooth
+#0367,Huntail,Clamperl,,
+#0368,Gorebyss,Clamperl,,
+#0369,Relicanth,,,
+#0370,Luvdisc,,,
+#0371,Bagon,,Shelgon,Level 30
+#0372,Shelgon,Bagon,Salamence,Level 50
+#0373,Salamence,Shelgon,,
+#0374,Beldum,,Metang,Level 20
+#0375,Metang,Beldum,Metagross,Level 45
+#0376,Metagross,Metang,,
+#0377,Regirock,,,
+#0378,Regice,,,
+#0379,Registeel,,,
+#0380,Latias,,,
+#0381,Latios,,,
+#0382,Kyogre,,,
+#0383,Groudon,,,
+#0384,Rayquaza,,,
+#0385,Jirachi,,,
+#0386,Deoxys,,,
+#0387,Turtwig,,Grotle,Level 18
+#0388,Grotle,Turtwig,Torterra,Level 32
+#0389,Torterra,Grotle,,
+#0390,Chimchar,,Monferno,Level 14
+#0391,Monferno,Chimchar,Infernape,Level 36
+#0392,Infernape,Monferno,,
+#0393,Piplup,,Prinplup,Level 16
+#0394,Prinplup,Piplup,Empoleon,Level 36
+#0395,Empoleon,Prinplup,,
+#0396,Starly,,Staravia,Level 14
+#0397,Staravia,Starly,Staraptor,Level 34
+#0398,Staraptor,Staravia,,
+#0399,Bidoof,,Bibarel,Level 15
+#0400,Bibarel,Bidoof,,
+#0401,Kricketot,,Kricketune,Level 10
+#0402,Kricketune,Kricketot,,
+#0403,Shinx,,Luxio,Level 15
+#0404,Luxio,Shinx,Luxray,Level 30
+#0405,Luxray,Luxio,,
+#0406,Budew,,Roselia,High Friendship during Day
+#0407,Roserade,Roselia,,
+#0408,Cranidos,,Rampardos,Level 30
+#0409,Rampardos,Cranidos,,
+#0410,Shieldon,,Bastiodon,Level 30
+#0411,Bastiodon,Shieldon,,
+#0412,Burmy,,Wormadam,Female Level 20
+#0413,Wormadam,Burmy,,
+#0414,Mothim,Burmy,,
+#0415,Combee,,Vespiquen,Female Level 21
+#0416,Vespiquen,Combee,,
+#0417,Pachirisu,,,
+#0418,Buizel,,Floatzel,Level 26
+#0419,Floatzel,Buizel,,
+#0420,Cherubi,,Cherrim,Level 25
+#0421,Cherrim,Cherubi,,
+#0422,Shellos,,Gastrodon,Level 30
+#0423,Gastrodon,Shellos,,
+#0424,Ambipom,Aipom,,
+#0425,Drifloon,,Drifblim,Level 28
+#0426,Drifblim,Drifloon,,
+#0427,Buneary,,Lopunny,High Friendship
+#0428,Lopunny,Buneary,,
+#0429,Mismagius,Misdreavus,,
+#0430,Honchkrow,Murkrow,,
+#0431,Glameow,,Purugly,Level 38
+#0432,Purugly,Glameow,,
+#0433,Chingling,,Chimecho,High Friendship at Night
+#0434,Stunky,,Skuntank,Level 34
+#0435,Skuntank,Stunky,,
+#0436,Bronzor,,Bronzong,Level 33
+#0437,Bronzong,Bronzor,,
+#0438,Bonsly,,Sudowoodo,Level up while knowing Mimic
+#0439,Mime Jr.,,Mr. Mime,Level up while knowing Mimic
+#0440,Happiny,,Chansey,Day while holding Oval Stone
+#0441,Chatot,,,
+#0442,Spiritomb,,,
+#0443,Gible,,Gabite,Level 24
+#0444,Gabite,Gible,Garchomp,Level 48
+#0445,Garchomp,Gabite,,
+#0446,Munchlax,,Snorlax,High Friendship
+#0447,Riolu,,Lucario,High Friendship during Day
+#0448,Lucario,Riolu,,
+#0449,Hippopotas,,Hippowdon,Level 34
+#0450,Hippowdon,Hippopotas,,
+#0451,Skorupi,,Drapion,Level 40
+#0452,Drapion,Skorupi,,
+#0453,Croagunk,,Toxicroak,Level 37
+#0454,Toxicroak,Croagunk,,
+#0455,Carnivine,,,
+#0456,Finneon,,Lumineon,Level 31
+#0457,Lumineon,Finneon,,
+#0458,Mantyke,,Mantine,Level up with Remoraid in party
+#0459,Snover,,Abomasnow,Level 40
+#0460,Abomasnow,Snover,,
+#0461,Weavile,Sneasel,,
+#0462,Magnezone,Magneton,,
+#0463,Lickilicky,Lickitung,,
+#0464,Rhyperior,Rhydon,,
+#0465,Tangrowth,Tangela,,
+#0466,Electivire,Electabuzz,,
+#0467,Magmortar,Magmar,,
+#0468,Togekiss,Togetic,,
+#0469,Yanmega,Yanma,,
+#0470,Leafeon,Eevee,,
+#0471,Glaceon,Eevee,,
+#0472,Gliscor,Gligar,,
+#0473,Mamoswine,Piloswine,,
+#0474,Porygon-Z,Porygon2,,
+#0475,Gallade,Kirlia,,
+#0476,Probopass,Nosepass,,
+#0477,Dusknoir,Dusclops,,
+#0478,Froslass,Snorunt,,
+#0479,Rotom,,,
+#0480,Uxie,,,
+#0481,Mesprit,,,
+#0482,Azelf,,,
+#0483,Dialga,,,
+#0484,Palkia,,,
+#0485,Heatran,,,
+#0486,Regigigas,,,
+#0487,Giratina,,,
+#0488,Cresselia,,,
+#0489,Phione,,,
+#0490,Manaphy,,,
+#0491,Darkrai,,,
+#0492,Shaymin,,,
+#0493,Arceus,,,
+#0494,Victini,,,
+#0495,Snivy,,Servine,Level 17
+#0496,Servine,Snivy,Serperior,Level 36
+#0497,Serperior,Servine,,
+#0498,Tepig,,Pignite,Level 17
+#0499,Pignite,Tepig,Emboar,Level 36
+#0500,Emboar,Pignite,,
+#0501,Oshawott,,Dewott,Level 17
+#0502,Dewott,Oshawott,Samurott,Level 36
+#0503,Samurott,Dewott,,
+#0504,Patrat,,Watchog,Level 20
+#0505,Watchog,Patrat,,
+#0506,Lillipup,,Herdier,Level 16
+#0507,Herdier,Lillipup,Stoutland,Level 32
+#0508,Stoutland,Herdier,,
+#0509,Purrloin,,Liepard,Level 20
+#0510,Liepard,Purrloin,,
+#0511,Pansage,,Simisage,Leaf Stone
+#0512,Simisage,Pansage,,
+#0513,Pansear,,Simisear,Fire Stone
+#0514,Simisear,Pansear,,
+#0515,Panpour,,Simipour,Water Stone
+#0516,Simipour,Panpour,,
+#0517,Munna,,Musharna,Moon Stone
+#0518,Musharna,Munna,,
+#0519,Pidove,,Tranquill,Level 21
+#0520,Tranquill,Pidove,Unfezant,Level 32
+#0521,Unfezant,Tranquill,,
+#0522,Blitzle,,Zebstrika,Level 27
+#0523,Zebstrika,Blitzle,,
+#0524,Roggenrola,,Boldore,Level 25
+#0525,Boldore,Roggenrola,Gigalith,Trade
+#0526,Gigalith,Boldore,,
+#0527,Woobat,,Swoobat,High Friendship
+#0528,Swoobat,Woobat,,
+#0529,Drilbur,,Excadrill,Level 31
+#0530,Excadrill,Drilbur,,
+#0531,Audino,,,
+#0532,Timburr,,Gurdurr,Level 25
+#0533,Gurdurr,Timburr,Conkeldurr,Trade
+#0534,Conkeldurr,Gurdurr,,
+#0535,Tympole,,Palpitoad,Level 25
+#0536,Palpitoad,Tympole,Seismitoad,Level 36
+#0537,Seismitoad,Palpitoad,,
+#0538,Throh,,,
+#0539,Sawk,,,
+#0540,Sewaddle,,Swadloon,Level 20
+#0541,Swadloon,Sewaddle,Leavanny,High Friendship
+#0542,Leavanny,Swadloon,,
+#0543,Venipede,,Whirlipede,Level 22
+#0544,Whirlipede,Venipede,Scolipede,Level 30
+#0545,Scolipede,Whirlipede,,
+#0546,Cottonee,,Whimsicott,Sun Stone
+#0547,Whimsicott,Cottonee,,
+#0548,Petilil,,Lilligant,Sun Stone
+#0549,Lilligant,Petilil,,
+#0550,Basculin,,Basculegion,Level up after 294 HP recoil
+#0551,Sandile,,Krokorok,Level 29
+#0552,Krokorok,Sandile,Krookodile,Level 40
+#0553,Krookodile,Krokorok,,
+#0554,Darumaka,,Darmanitan,Level 35
+#0555,Darmanitan,Darumaka,,
+#0556,Maractus,,,
+#0557,Dwebble,,Crustle,Level 34
+#0558,Crustle,Dwebble,,
+#0559,Scraggy,,Scrafty,Level 39
+#0560,Scrafty,Scraggy,,
+#0561,Sigilyph,,,
+#0562,Yamask,,Cofagrigus,Level 34
+#0563,Cofagrigus,Yamask,,
+#0564,Tirtouga,,Carracosta,Level 37
+#0565,Carracosta,Tirtouga,,
+#0566,Archen,,Archeops,Level 37
+#0567,Archeops,Archen,,
+#0568,Trubbish,,Garbodor,Level 36
+#0569,Garbodor,Trubbish,,
+#0570,Zorua,,Zoroark,Level 30
+#0571,Zoroark,Zorua,,
+#0572,Minccino,,Cinccino,Shiny Stone
+#0573,Cinccino,Minccino,,
+#0574,Gothita,,Gothorita,Level 32
+#0575,Gothorita,Gothita,Gothitelle,Level 41
+#0576,Gothitelle,Gothorita,,
+#0577,Solosis,,Duosion,Level 32
+#0578,Duosion,Solosis,Reuniclus,Level 41
+#0579,Reuniclus,Duosion,,
+#0580,Ducklett,,Swanna,Level 35
+#0581,Swanna,Ducklett,,
+#0582,Vanillite,,Vanillish,Level 35
+#0583,Vanillish,Vanillite,Vanilluxe,Level 47
+#0584,Vanilluxe,Vanillish,,
+#0585,Deerling,,Sawsbuck,Level 34
+#0586,Sawsbuck,Deerling,,
+#0587,Emolga,,,
+#0588,Karrablast,,Escavalier,Trade for Shelmet
+#0589,Escavalier,Karrablast,,
+#0590,Foongus,,Amoonguss,Level 39
+#0591,Amoonguss,Foongus,,
+#0592,Frillish,,Jellicent,Level 40
+#0593,Jellicent,Frillish,,
+#0594,Alomomola,,,
+#0595,Joltik,,Galvantula,Level 36
+#0596,Galvantula,Joltik,,
+#0597,Ferroseed,,Ferrothorn,Level 40
+#0598,Ferrothorn,Ferroseed,,
+#0599,Klink,,Klang,Level 38
+#0600,Klang,Klink,Klinklang,Level 49
+#0601,Klinklang,Klang,,
+#0602,Tynamo,,Eelektrik,Level 39
+#0603,Eelektrik,Tynamo,Eelektross,Thunder Stone
+#0604,Eelektross,Eelektrik,,
+#0605,Elgyem,,Beheeyem,Level 42
+#0606,Beheeyem,Elgyem,,
+#0607,Litwick,,Lampent,Level 41
+#0608,Lampent,Litwick,Chandelure,Dusk Stone
+#0609,Chandelure,Lampent,,
+#0610,Axew,,Fraxure,Level 38
+#0611,Fraxure,Axew,Haxorus,Level 48
+#0612,Haxorus,Fraxure,,
+#0613,Cubchoo,,Beartic,Level 37
+#0614,Beartic,Cubchoo,,
+#0615,Cryogonal,,,
+#0616,Shelmet,,Accelgor,Trade for Karrablast
+#0617,Accelgor,Shelmet,,
+#0618,Stunfisk,,,
+#0619,Mienfoo,,Mienshao,Level 50
+#0620,Mienshao,Mienfoo,,
+#0621,Druddigon,,,
+#0622,Golett,,Golurk,Level 43
+#0623,Golurk,Golett,,
+#0624,Pawniard,,Bisharp,Level 52
+#0625,Bisharp,Pawniard,Kingambit,Defeat 3 Bisharp holding Leader's Crest
+#0626,Kingambit,Bisharp,,
+#0627,Bouffalant,,,
+#0628,Rufflet,,Braviary,Level 54
+#0629,Vullaby,,Mandibuzz,Level 54
+#0630,Mandibuzz,Vullaby,,
+#0631,Heatmor,,,
+#0632,Durant,,,
+#0633,Deino,,Zweilous,Level 50
+#0634,Zweilous,Deino,Hydreigon,Level 64
+#0635,Hydreigon,Zweilous,,
+#0636,Larvesta,,Volcarona,Level 59
+#0637,Volcarona,Larvesta,,
+#0638,Cobalion,,,
+#0639,Terrakion,,,
+#0640,Virizion,,,
+#0641,Tornadus,,,
+#0642,Thundurus,,,
+#0643,Reshiram,,,
+#0644,Zekrom,,,
+#0645,Landorus,,,
+#0646,Kyurem,,,
+#0647,Keldeo,,,
+#0648,Meloetta,,,
+#0649,Genesect,,,
+#0650,Chespin,,Quilladin,Level 16
+#0651,Quilladin,Chespin,Chesnaught,Level 36
+#0652,Chesnaught,Quilladin,,
+#0653,Fennekin,,Braixen,Level 16
+#0654,Braixen,Fennekin,Delphox,Level 36
+#0655,Delphox,Braixen,,
+#0656,Froakie,,Frogadier,Level 16
+#0657,Frogadier,Froakie,Greninja,Level 36
+#0658,Greninja,Frogadier,,
+#0659,Bunnelby,,Diggersby,Level 20
+#0660,Diggersby,Bunnelby,,
+#0661,Fletchling,,Fletchinder,Level 17
+#0662,Fletchinder,Fletchling,Talonflame,Level 35
+#0663,Talonflame,Fletchinder,,
+#0664,Scatterbug,,Spewpa,Level 9
+#0665,Spewpa,Scatterbug,Vivillon,Level 12
+#0666,Vivillon,Spewpa,,
+#0667,Litleo,,Pyroar,Level 35
+#0668,Pyroar,Litleo,,
+#0669,Flabébé,,Floette,Level 19
+#0670,Floette,Flabébé,Florges,Shiny Stone
+#0671,Florges,Floette,,
+#0672,Skiddo,,Gogoat,Level 32
+#0673,Gogoat,Skiddo,,
+#0674,Pancham,,Pangoro,Level 32 with Dark-type Pokémon
+#0675,Pangoro,Pancham,,
+#0676,Furfrou,,,
+#0677,Espurr,,Meowstic,Level 25
+#0678,Meowstic,Espurr,,
+#0679,Honedge,,Doublade,Level 35
+#0680,Doublade,Honedge,Aegislash,Dusk Stone
+#0681,Aegislash,Doublade,,
+#0682,Spritzee,,Aromatisse,Trade while holding Sachet
+#0683,Aromatisse,Spritzee,,
+#0684,Swirlix,,Slurpuff,Trade while holding Whipped Dream
+#0685,Slurpuff,Swirlix,,
+#0686,Inkay,,Malamar,Level 30 while holding 3DS upside down
+#0687,Malamar,Inkay,,
+#0688,Binacle,,Barbaracle,Level 39
+#0689,Barbaracle,Binacle,,
+#0690,Skrelp,,Dragalge,Level 48
+#0691,Dragalge,Skrelp,,
+#0692,Clauncher,,Clawitzer,Level 37
+#0693,Clawitzer,Clauncher,,
+#0694,Helioptile,,Heliolisk,Sun Stone
+#0695,Heliolisk,Helioptile,,
+#0696,Tyrunt,,Tyrantrum,Level 39 during Day
+#0697,Tyrantrum,Tyrunt,,
+#0698,Amaura,,Aurorus,Level 39 at Night
+#0699,Aurorus,Amaura,,
+#0700,Sylveon,Eevee,,
+#0701,Hawlucha,,,
+#0702,Dedenne,,,
+#0703,Carbink,,,
+#0704,Goomy,,Sliggoo,Level 40
+#0705,Sliggoo,Goomy,Goodra,Level 50 during Rain
+#0706,Goodra,Sliggoo,,
+#0707,Klefki,,,
+#0708,Phantump,,Trevenant,Trade
+#0709,Trevenant,Phantump,,
+#0710,Pumpkaboo,,Gourgeist,Trade
+#0711,Gourgeist,Pumpkaboo,,
+#0712,Bergmite,,Avalugg,Level 37
+#0713,Avalugg,Bergmite,,
+#0714,Noibat,,Noivern,Level 48
+#0715,Noivern,Noibat,,
+#0716,Xerneas,,,
+#0717,Yveltal,,,
+#0718,Zygarde,,,
+#0719,Diancie,,,
+#0720,Hoopa,,,
+#0721,Volcanion,,,
+#0722,Rowlet,,Dartrix,Level 17
+#0723,Dartrix,Rowlet,Decidueye,Level 34
+#0724,Decidueye,Dartrix,,
+#0725,Litten,,Torracat,Level 17
+#0726,Torracat,Litten,Incineroar,Level 34
+#0727,Incineroar,Torracat,,
+#0728,Popplio,,Brionne,Level 17
+#0729,Brionne,Popplio,Primarina,Level 34
+#0730,Primarina,Brionne,,
+#0731,Pikipek,,Trumbeak,Level 14
+#0732,Trumbeak,Pikipek,Toucannon,Level 28
+#0733,Toucannon,Trumbeak,,
+#0734,Yungoos,,Gumshoos,Level 20 Day
+#0735,Gumshoos,Yungoos,,
+#0736,Grubbin,,Charjabug,Level 20
+#0737,Charjabug,Grubbin,Vikavolt,Special Magnetic Field
+#0738,Vikavolt,Charjabug,,
+#0739,Crabrawler,,Crabominable,Level up near Ice Stone
+#0740,Crabominable,Crabrawler,,
+#0741,Oricorio,,,
+#0742,Cutiefly,,Ribombee,Level 25
+#0743,Ribombee,Cutiefly,,
+#0744,Rockruff,,Lycanroc,Level 25
+#0745,Lycanroc,Rockruff,,
+#0746,Wishiwashi,,,
+#0747,Mareanie,,Toxapex,Level 38
+#0748,Toxapex,Mareanie,,
+#0749,Mudbray,,Mudsdale,Level 30
+#0750,Mudsdale,Mudbray,,
+#0751,Dewpider,,Araquanid,Level 22
+#0752,Araquanid,Dewpider,,
+#0753,Fomantis,,Lurantis,Level 34 Day
+#0754,Lurantis,Fomantis,,
+#0755,Morelull,,Shiinotic,Level 24
+#0756,Shiinotic,Morelull,,
+#0757,Salandit,,Salazzle,Female Level 33
+#0758,Salazzle,Salandit,,
+#0759,Stufful,,Bewear,Level 27
+#0760,Bewear,Stufful,,
+#0761,Bounsweet,,Steenee,Level 18
+#0762,Steenee,Bounsweet,Tsareena,Level up while knowing Stomp
+#0763,Tsareena,Steenee,,
+#0764,Comfey,,,
+#0765,Oranguru,,,
+#0766,Passimian,,,
+#0767,Wimpod,,Golisopod,Level 30
+#0768,Golisopod,Wimpod,,
+#0769,Sandygast,,Palossand,Level 42
+#0770,Palossand,Sandygast,,
+#0771,Pyukumuku,,,
+#0772,Type: Null,,Silvally,High Friendship
+#0773,Silvally,Type: Null,,
+#0774,Minior,,,
+#0775,Komala,,,
+#0776,Turtonator,,,
+#0777,Togedemaru,,,
+#0778,Mimikyu,,,
+#0779,Bruxish,,,
+#0780,Drampa,,,
+#0781,Dhelmise,,,
+#0782,Jangmo-o,,Hakamo-o,Level 35
+#0783,Hakamo-o,Jangmo-o,Kommo-o,Level 45
+#0784,Kommo-o,Hakamo-o,,
+#0785,Tapu Koko,,,
+#0786,Tapu Lele,,,
+#0787,Tapu Bulu,,,
+#0788,Tapu Fini,,,
+#0789,Cosmog,,Cosmoem,Level 43
+#0790,Cosmoem,Cosmog,Lunala,Level 53
+#0791,Lunala,Cosmoem,,
+#0792,Solgaleo,Cosmoem,,
+#0793,Nihilego,,,
+#0794,Buzzwole,,,
+#0795,Pheromosa,,,
+#0796,Xurkitree,,,
+#0797,Celesteela,,,
+#0798,Kartana,,,
+#0799,Guzzlord,,,
+#0800,Necrozma,,,
+#0801,Magearna,,,
+#0802,Marshadow,,,
+#0803,Poipole,,Naganadel,Level up knowing Dragon Pulse
+#0804,Naganadel,Poipole,,
+#0805,Stakataka,,,
+#0806,Blacephalon,,,
+#0807,Zeraora,,,
+#0808,Meltan,,Melmetal,400 Meltan Candy
+#0809,Melmetal,Meltan,,
+#0810,Grookey,,Thwackey,Level 16
+#0811,Thwackey,Grookey,Rillaboom,Level 35
+#0812,Rillaboom,Thwackey,,
+#0813,Scorbunny,,Raboot,Level 16
+#0814,Raboot,Scorbunny,Cinderace,Level 35
+#0815,Cinderace,Raboot,,
+#0816,Sobble,,Drizzile,Level 16
+#0817,Drizzile,Sobble,Inteleon,Level 35
+#0818,Inteleon,Drizzile,,
+#0819,Skwovet,,Greedent,Level 24
+#0820,Greedent,Skwovet,,
+#0821,Rookidee,,Corvisquire,Level 18
+#0822,Corvisquire,Rookidee,Corviknight,Level 38
+#0823,Corviknight,Corvisquire,,
+#0824,Blipbug,,Dottler,Level 10
+#0825,Dottler,Blipbug,Orbeetle,Level 30
+#0826,Orbeetle,Dottler,,
+#0827,Nickit,,Thievul,Level 18
+#0828,Thievul,Nickit,,
+#0829,Gossifleur,,Eldegoss,Level 20
+#0830,Eldegoss,Gossifleur,,
+#0831,Wooloo,,Dubwool,Level 24
+#0832,Dubwool,Wooloo,,
+#0833,Chewtle,,Drednaw,Level 22
+#0834,Drednaw,Chewtle,,
+#0835,Yamper,,Boltund,Level 25
+#0836,Boltund,Yamper,,
+#0837,Rolycoly,,Carkol,Level 18
+#0838,Carkol,Rolycoly,Coalossal,Level 34
+#0839,Coalossal,Carkol,,
+#0840,Applin,,Flapple, Tart Apple
+#0841,Flapple,Applin,,
+#0842,Appletun,Applin,,
+#0843,Silicobra,,Sandaconda,Level 36
+#0844,Sandaconda,Silicobra,,
+#0845,Cramorant,,,
+#0846,Arrokuda,,Barraskewda,Level 26
+#0847,Barraskewda,Arrokuda,,
+#0848,Toxel,,Toxtricity,Level 30
+#0849,Toxtricity,Toxel,,
+#0850,Sizzlipede,,Centiskorch,Level 28
+#0851,Centiskorch,Sizzlipede,,
+#0852,Clobbopus,,Grapploct,Level up while knowing Taunt
+#0853,Grapploct,Clobbopus,,
+#0854,Sinistea,,Polteageist,Cracked Pot/Chipped Pot
+#0855,Polteageist,Sinistea,,
+#0856,Hatenna,,Hattrem,Level 32
+#0857,Hattrem,Hatenna,Hatterene,Level 42
+#0858,Hatterene,Hattrem,,
+#0859,Impidimp,,Morgrem,Level 32
+#0860,Morgrem,Impidimp,Grimmsnarl,Level 42
+#0861,Grimmsnarl,Morgrem,,
+#0862,Obstagoon,Galarian Linoone,,
+#0863, Perrserker,Galarian Meowth,,
+#0864,Cursola,Galarian Corsola,,
+#0865, Sirfetch'd,Galarian Farfetch'd,,
+#0866,Mr. Rime,Galarian Mr. Mime,,
+#0867,Runerigus,Galarian Yamask,,
+#0868,Milcery,,Alcremie,Sweet
+#0869,Alcremie,Milcery,,
+#0870,Falinks,,,
+#0871,Pincurchin,,,
+#0872,Snom,,Frosmoth,High Friendship at Night
+#0873,Frosmoth,Snom,,
+#0874,Stonjourner,,,
+#0875,Eiscue,,,
+#0876,Indeedee,,,
+#0877,Morpeko,,,
+#0878,Cufant,,Copperajah,Level 34
+#0879,Copperajah,Cufant,,
+#0880,Dracozolt,,,
+#0881,Arctozolt,,,
+#0882,Dracovish,,,
+#0883,Arctovish,,,
+#0884,Duraludon,,Archaludon,Use Metal Alloy
+#0885,Dreepy,,Drakloak,Level 50
+#0886,Drakloak,Dreepy,Dragapult,Level 60
+#0887,Dragapult,Drakloak,,
+#0888,Zacian,,,
+#0889,Zamazenta,,,
+#0890,Eternatus,,,
+#0891,Kubfu,,Urshifu,Scroll of Darkness/Scroll of Waters
+#0892,Urshifu,Kubfu,,
+#0893,Zarude,,,
+#0894,Regieleki,,,
+#0895,Regidrago,,,
+#0896,Glastrier,,,
+#0897,Spectrier,,,
+#0898,Calyrex,,,
+#0899,Wyrdeer,Stantler,,
+#0900,Kleavor,Scyther,,
+#0901,Ursaluna,Ursaring,,
+#0902,Basculegion,Basculin,,
+#0903,Sneasler,Sneasel,,
+#0904,Overqwil,Qwilfish,,
+#0905,Enamorus,,,
+#0906,Sprigatito,,Floragato,Level 16
+#0907,Floragato,Sprigatito,Meowscarada,Level 36
+#0908,Meowscarada,Floragato,,
+#0909,Fuecoco,,Crocalor,Level 16
+#0910,Crocalor,Fuecoco,Skeledirge,Level 36
+#0911,Skeledirge,Crocalor,,
+#0912,Quaxly,,Quaxwell,Level 16
+#0913,Quaxwell,Quaxly,Quaquaval,Level 36
+#0914,Quaquaval,Quaxwell,,
+#0915,Lechonk,,Oinkologne,Level 18
+#0916,Oinkologne,Lechonk,,
+#0917,Tarountula,,Spidops,Level 15
+#0918,Spidops,Tarountula,,
+#0919,Nymble,,Lokix,Level 24
+#0920,Lokix,Nymble,,
+#0921,Pawmi,,Pawmo,Level 18
+#0922,Pawmo,Pawmi,Pawmot,Walk 1000 steps
+#0923,Pawmot,Pawmo,,
+#0924,Tandemaus,,Maushold,Level 25
+#0925,Maushold,Tandemaus,,
+#0926,Fidough,,Dachsbun,Level 26
+#0927,Dachsbun,Fidough,,
+#0928,Smoliv,,Dolliv,Level 25
+#0929,Dolliv,Smoliv,Arboliva,Level 35
+#0930,Arboliva,Dolliv,,
+#0931,Squawkabilly,,,
+#0932,Nacli,,Naclstack,Level 24
+#0933,Naclstack,Nacli,Garganacl,Level 38
+#0934,Garganacl,Naclstack,,
+#0935,Charcadet,,Armarouge,Auspect of Armor
+#0936,Armarouge,Charcadet,,
+#0937,Ceruledge,Charcadet,,
+#0938,Tadbulb,,Bellibolt,Thunder Stone
+#0939,Bellibolt,Tadbulb,,
+#0940,Wattrel,,Kilowattrel,Level 25
+#0941,Kilowattrel,Wattrel,,
+#0942,Maschiff,,Mabosstiff,Level 30
+#0943,Mabosstiff,Maschiff,,
+#0944,Shroodle,,Grafaiai,Level 28
+#0945,Grafaiai,Shroodle,,
+#0946,Brute Bonnet,,,
+#0947,Toedscool,,Toedscruel,Level 30
+#0948,Toedscruel,Toedscool,,
+#0949,Flamigo,,,
+#0950,Cetoddle,,Cetitan,Ice Stone
+#0951,Cetitan,Cetoddle,,
+#0952,Veluza,,,
+#0953,Finizen,,Palafin,Level 38 in Union Circle
+#0954,Palafin,Finizen,,
+#0955,Varoom,,Revavroom,Level 40
+#0956,Revavroom,Varoom,,
+#0957,Cyclizar,,,
+#0958,Orthworm,,,
+#0959,Glimmet,,Glimmora,Level 35
+#0960,Glimmora,Glimmet,,
+#0961,Greavard,,Houndstone,Level 30 Night
+#0962,Houndstone,Greavard,,
+#0963,Flamigo,,,
+#0964,Finizen,,Palafin,Level 38 in Union Circle
+#0965,Varoom,,Revavroom,Level 40
+#0966,Revavroom,Varoom,,
+#0967,Cyclizar,,,
+#0968,Orthworm,,,
+#0969,Glimmet,,Glimmora,Level 35
+#0970,Glimmora,Glimmet,,
+#0971,Greavard,,Houndstone,Level 30 Night
+#0972,Houndstone,Greavard,,
+#0973,Flamigo,,,
+#0974,Cetoddle,,Cetitan,Ice Stone
+#0975,Cetitan,Cetoddle,,
+#0976,Veluza,,,
+#0977,Dondozo,,,
+#0978,Tatsugiri,,,
+#0979,Annihilape,Primeape,,
+#0980,Clodsire,Paldean Wooper,,
+#0981,Farigiraf,Girafarig,,
+#0982,Dudunsparce,Dunsparce,,
+#0983,Kingambit,Bisharp,,
+#0984,Great Tusk,,,
+#0985,Scream Tail,,,
+#0986,Brute Bonnet,,,
+#0987,Flutter Mane,,,
+#0988,Slither Wing,,,
+#0989,Sandy Shocks,,,
+#0990,Iron Treads,,,
+#0991,Iron Bundle,,,
+#0992,Iron Hands,,,
+#0993,Iron Jugulis,,,
+#0994,Iron Moth,,,
+#0995,Iron Thorns,,,
+#0996,Frigibax,,Arctibax,Level 35
+#0997,Arctibax,Frigibax,Baxcalibur,Level 54
+#0998,Baxcalibur,Arctibax,,
+#0999,Gimmighoul,,Gholdengo,Collect 999 Gimmighoul Coins
+#1000,Gholdengo,Gimmighoul,,
+#1001,Wo-Chien,,,
+#1002,Chien-Pao,,,
+#1003,Ting-Lu,,,
+#1004,Chi-Yu,,,
+#1005,Raging Bolt,,,
+#1006,Iron Boulder,,,
+#1007,Koraidon,,,
+#1008,Miraidon,,,
+#1009,Walking Wake,,,
+#1010,Iron Leaves,,,
+#1011,Poltchageist,,Sinistcha,Use Unremarkable Teacup/Masterpiece Teacup
+#1012,Sinistcha,Poltchageist,,
+#1013,Okidogi,,,
+#1014,Munkidori,,,
+#1015,Fezandipiti,,,
+#1016,Pecharunt,,,
+#1017,Ogerpon,,,
+#1018,Archaludon,Duraludon,,
+#1019,Hydrapple,Applin,,
+#1020,Gouging Fire,,,
+#1021,Raging Bolt,,,
+#1022,Iron Boulder,,,
+#1023,Iron Crown,,,
+#1024,Terapagos,,,
+#1025,Pecharunt,,,

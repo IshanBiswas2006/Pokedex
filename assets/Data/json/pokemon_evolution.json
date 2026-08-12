@@ -1,0 +1,7177 @@
+[
+    {
+        "S.no": "#0001",
+        "Name": "Bulbasaur",
+        "Evolves From": "",
+        "Evolves To": "Ivysaur",
+        "Evolution Method": "Level 16"
+    },
+    {
+        "S.no": "#0002",
+        "Name": "Ivysaur",
+        "Evolves From": "Bulbasaur",
+        "Evolves To": "Venusaur",
+        "Evolution Method": "Level 32"
+    },
+    {
+        "S.no": "#0003",
+        "Name": "Venusaur",
+        "Evolves From": "Ivysaur",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0004",
+        "Name": "Charmander",
+        "Evolves From": "",
+        "Evolves To": "Charmeleon",
+        "Evolution Method": "Level 16"
+    },
+    {
+        "S.no": "#0005",
+        "Name": "Charmeleon",
+        "Evolves From": "Charmander",
+        "Evolves To": "Charizard",
+        "Evolution Method": "Level 36"
+    },
+    {
+        "S.no": "#0006",
+        "Name": "Charizard",
+        "Evolves From": "Charmeleon",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0007",
+        "Name": "Squirtle",
+        "Evolves From": "",
+        "Evolves To": "Wartortle",
+        "Evolution Method": "Level 16"
+    },
+    {
+        "S.no": "#0008",
+        "Name": "Wartortle",
+        "Evolves From": "Squirtle",
+        "Evolves To": "Blastoise",
+        "Evolution Method": "Level 36"
+    },
+    {
+        "S.no": "#0009",
+        "Name": "Blastoise",
+        "Evolves From": "Wartortle",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0010",
+        "Name": "Caterpie",
+        "Evolves From": "",
+        "Evolves To": "Metapod",
+        "Evolution Method": "Level 7"
+    },
+    {
+        "S.no": "#0011",
+        "Name": "Metapod",
+        "Evolves From": "Caterpie",
+        "Evolves To": "Butterfree",
+        "Evolution Method": "Level 10"
+    },
+    {
+        "S.no": "#0012",
+        "Name": "Butterfree",
+        "Evolves From": "Metapod",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0013",
+        "Name": "Weedle",
+        "Evolves From": "",
+        "Evolves To": "Kakuna",
+        "Evolution Method": "Level 7"
+    },
+    {
+        "S.no": "#0014",
+        "Name": "Kakuna",
+        "Evolves From": "Weedle",
+        "Evolves To": "Beedrill",
+        "Evolution Method": "Level 10"
+    },
+    {
+        "S.no": "#0015",
+        "Name": "Beedrill",
+        "Evolves From": "Kakuna",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0016",
+        "Name": "Pidgey",
+        "Evolves From": "",
+        "Evolves To": "Pidgeotto",
+        "Evolution Method": "Level 18"
+    },
+    {
+        "S.no": "#0017",
+        "Name": "Pidgeotto",
+        "Evolves From": "Pidgey",
+        "Evolves To": "Pidgeot",
+        "Evolution Method": "Level 36"
+    },
+    {
+        "S.no": "#0018",
+        "Name": "Pidgeot",
+        "Evolves From": "Pidgeotto",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0019",
+        "Name": "Rattata",
+        "Evolves From": "",
+        "Evolves To": "Raticate",
+        "Evolution Method": "Level 20"
+    },
+    {
+        "S.no": "#0020",
+        "Name": "Raticate",
+        "Evolves From": "Rattata",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0021",
+        "Name": "Spearow",
+        "Evolves From": "",
+        "Evolves To": "Fearow",
+        "Evolution Method": "Level 20"
+    },
+    {
+        "S.no": "#0022",
+        "Name": "Fearow",
+        "Evolves From": "Spearow",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0023",
+        "Name": "Ekans",
+        "Evolves From": "",
+        "Evolves To": "Arbok",
+        "Evolution Method": "Level 22"
+    },
+    {
+        "S.no": "#0024",
+        "Name": "Arbok",
+        "Evolves From": "Ekans",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0025",
+        "Name": "Pikachu",
+        "Evolves From": "Pichu",
+        "Evolves To": "Raichu",
+        "Evolution Method": "Thunder Stone"
+    },
+    {
+        "S.no": "#0026",
+        "Name": "Raichu",
+        "Evolves From": "Pikachu",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0027",
+        "Name": "Sandshrew",
+        "Evolves From": "",
+        "Evolves To": "Sandslash",
+        "Evolution Method": "Level 22"
+    },
+    {
+        "S.no": "#0028",
+        "Name": "Sandslash",
+        "Evolves From": "Sandshrew",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0029",
+        "Name": "Nidoran♀",
+        "Evolves From": "",
+        "Evolves To": "Nidorina",
+        "Evolution Method": "Level 16"
+    },
+    {
+        "S.no": "#0030",
+        "Name": "Nidorina",
+        "Evolves From": "Nidoran♀",
+        "Evolves To": "Nidoqueen",
+        "Evolution Method": "Moon Stone"
+    },
+    {
+        "S.no": "#0031",
+        "Name": "Nidoqueen",
+        "Evolves From": "Nidorina",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0032",
+        "Name": "Nidoran♂",
+        "Evolves From": "",
+        "Evolves To": "Nidorino",
+        "Evolution Method": "Level 16"
+    },
+    {
+        "S.no": "#0033",
+        "Name": "Nidorino",
+        "Evolves From": "Nidoran♂",
+        "Evolves To": "Nidoking",
+        "Evolution Method": "Moon Stone"
+    },
+    {
+        "S.no": "#0034",
+        "Name": "Nidoking",
+        "Evolves From": "Nidorino",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0035",
+        "Name": "Clefairy",
+        "Evolves From": "Cleffa",
+        "Evolves To": "Clefable",
+        "Evolution Method": "Moon Stone"
+    },
+    {
+        "S.no": "#0036",
+        "Name": "Clefable",
+        "Evolves From": "Clefairy",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0037",
+        "Name": "Vulpix",
+        "Evolves From": "",
+        "Evolves To": "Ninetales",
+        "Evolution Method": "Fire Stone"
+    },
+    {
+        "S.no": "#0038",
+        "Name": "Ninetales",
+        "Evolves From": "Vulpix",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0039",
+        "Name": "Jigglypuff",
+        "Evolves From": "Igglybuff",
+        "Evolves To": "Wigglytuff",
+        "Evolution Method": "Moon Stone"
+    },
+    {
+        "S.no": "#0040",
+        "Name": "Wigglytuff",
+        "Evolves From": "Jigglypuff",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0041",
+        "Name": "Zubat",
+        "Evolves From": "",
+        "Evolves To": "Golbat",
+        "Evolution Method": "Level 22"
+    },
+    {
+        "S.no": "#0042",
+        "Name": "Golbat",
+        "Evolves From": "Zubat",
+        "Evolves To": "Crobat",
+        "Evolution Method": "High Friendship"
+    },
+    {
+        "S.no": "#0043",
+        "Name": "Oddish",
+        "Evolves From": "",
+        "Evolves To": "Gloom",
+        "Evolution Method": "Level 21"
+    },
+    {
+        "S.no": "#0044",
+        "Name": "Gloom",
+        "Evolves From": "Oddish",
+        "Evolves To": "Vileplume",
+        "Evolution Method": "Leaf Stone"
+    },
+    {
+        "S.no": "#0045",
+        "Name": "Vileplume",
+        "Evolves From": "Gloom",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0046",
+        "Name": "Paras",
+        "Evolves From": "",
+        "Evolves To": "Parasect",
+        "Evolution Method": "Level 24"
+    },
+    {
+        "S.no": "#0047",
+        "Name": "Parasect",
+        "Evolves From": "Paras",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0048",
+        "Name": "Venonat",
+        "Evolves From": "",
+        "Evolves To": "Venomoth",
+        "Evolution Method": "Level 31"
+    },
+    {
+        "S.no": "#0049",
+        "Name": "Venomoth",
+        "Evolves From": "Venonat",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0050",
+        "Name": "Diglett",
+        "Evolves From": "",
+        "Evolves To": "Dugtrio",
+        "Evolution Method": "Level 26"
+    },
+    {
+        "S.no": "#0051",
+        "Name": "Dugtrio",
+        "Evolves From": "Diglett",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0052",
+        "Name": "Meowth",
+        "Evolves From": "",
+        "Evolves To": "Persian",
+        "Evolution Method": "Level 28"
+    },
+    {
+        "S.no": "#0053",
+        "Name": "Persian",
+        "Evolves From": "Meowth",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0054",
+        "Name": "Psyduck",
+        "Evolves From": "",
+        "Evolves To": "Golduck",
+        "Evolution Method": "Level 33"
+    },
+    {
+        "S.no": "#0055",
+        "Name": "Golduck",
+        "Evolves From": "Psyduck",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0056",
+        "Name": "Mankey",
+        "Evolves From": "",
+        "Evolves To": "Primeape",
+        "Evolution Method": "Level 28"
+    },
+    {
+        "S.no": "#0057",
+        "Name": "Primeape",
+        "Evolves From": "Mankey",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0058",
+        "Name": "Growlithe",
+        "Evolves From": "",
+        "Evolves To": "Arcanine",
+        "Evolution Method": "Fire Stone"
+    },
+    {
+        "S.no": "#0059",
+        "Name": "Arcanine",
+        "Evolves From": "Growlithe",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0060",
+        "Name": "Poliwag",
+        "Evolves From": "",
+        "Evolves To": "Poliwhirl",
+        "Evolution Method": "Level 25"
+    },
+    {
+        "S.no": "#0061",
+        "Name": "Poliwhirl",
+        "Evolves From": "Poliwag",
+        "Evolves To": "Poliwrath",
+        "Evolution Method": "Water Stone"
+    },
+    {
+        "S.no": "#0062",
+        "Name": "Poliwrath",
+        "Evolves From": "Poliwhirl",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0063",
+        "Name": "Abra",
+        "Evolves From": "",
+        "Evolves To": "Kadabra",
+        "Evolution Method": "Level 16"
+    },
+    {
+        "S.no": "#0064",
+        "Name": "Kadabra",
+        "Evolves From": "Abra",
+        "Evolves To": "Alakazam",
+        "Evolution Method": "Trade"
+    },
+    {
+        "S.no": "#0065",
+        "Name": "Alakazam",
+        "Evolves From": "Kadabra",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0066",
+        "Name": "Machop",
+        "Evolves From": "",
+        "Evolves To": "Machoke",
+        "Evolution Method": "Level 28"
+    },
+    {
+        "S.no": "#0067",
+        "Name": "Machoke",
+        "Evolves From": "Machop",
+        "Evolves To": "Machamp",
+        "Evolution Method": "Trade"
+    },
+    {
+        "S.no": "#0068",
+        "Name": "Machamp",
+        "Evolves From": "Machoke",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0069",
+        "Name": "Bellsprout",
+        "Evolves From": "",
+        "Evolves To": "Weepinbell",
+        "Evolution Method": "Level 21"
+    },
+    {
+        "S.no": "#0070",
+        "Name": "Weepinbell",
+        "Evolves From": "Bellsprout",
+        "Evolves To": "Victreebel",
+        "Evolution Method": "Leaf Stone"
+    },
+    {
+        "S.no": "#0071",
+        "Name": "Victreebel",
+        "Evolves From": "Weepinbell",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0072",
+        "Name": "Tentacool",
+        "Evolves From": "",
+        "Evolves To": "Tentacruel",
+        "Evolution Method": "Level 30"
+    },
+    {
+        "S.no": "#0073",
+        "Name": "Tentacruel",
+        "Evolves From": "Tentacool",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0074",
+        "Name": "Geodude",
+        "Evolves From": "",
+        "Evolves To": "Graveler",
+        "Evolution Method": "Level 25"
+    },
+    {
+        "S.no": "#0075",
+        "Name": "Graveler",
+        "Evolves From": "Geodude",
+        "Evolves To": "Golem",
+        "Evolution Method": "Trade"
+    },
+    {
+        "S.no": "#0076",
+        "Name": "Golem",
+        "Evolves From": "Graveler",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0077",
+        "Name": "Ponyta",
+        "Evolves From": "",
+        "Evolves To": "Rapidash",
+        "Evolution Method": "Level 40"
+    },
+    {
+        "S.no": "#0078",
+        "Name": "Rapidash",
+        "Evolves From": "Ponyta",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0079",
+        "Name": "Slowpoke",
+        "Evolves From": "",
+        "Evolves To": "Slowbro",
+        "Evolution Method": "Level 37"
+    },
+    {
+        "S.no": "#0080",
+        "Name": "Slowbro",
+        "Evolves From": "Slowpoke",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0081",
+        "Name": "Magnemite",
+        "Evolves From": "",
+        "Evolves To": "Magneton",
+        "Evolution Method": "Level 30"
+    },
+    {
+        "S.no": "#0082",
+        "Name": "Magneton",
+        "Evolves From": "Magnemite",
+        "Evolves To": "Magnezone",
+        "Evolution Method": "Thunder Stone"
+    },
+    {
+        "S.no": "#0083",
+        "Name": "Farfetch'd",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0084",
+        "Name": "Doduo",
+        "Evolves From": "",
+        "Evolves To": "Dodrio",
+        "Evolution Method": "Level 31"
+    },
+    {
+        "S.no": "#0085",
+        "Name": "Dodrio",
+        "Evolves From": "Doduo",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0086",
+        "Name": "Seel",
+        "Evolves From": "",
+        "Evolves To": "Dewgong",
+        "Evolution Method": "Level 34"
+    },
+    {
+        "S.no": "#0087",
+        "Name": "Dewgong",
+        "Evolves From": "Seel",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0088",
+        "Name": "Grimer",
+        "Evolves From": "",
+        "Evolves To": "Muk",
+        "Evolution Method": "Level 38"
+    },
+    {
+        "S.no": "#0089",
+        "Name": "Muk",
+        "Evolves From": "Grimer",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0090",
+        "Name": "Shellder",
+        "Evolves From": "",
+        "Evolves To": "Cloyster",
+        "Evolution Method": "Water Stone"
+    },
+    {
+        "S.no": "#0091",
+        "Name": "Cloyster",
+        "Evolves From": "Shellder",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0092",
+        "Name": "Gastly",
+        "Evolves From": "",
+        "Evolves To": "Haunter",
+        "Evolution Method": "Level 25"
+    },
+    {
+        "S.no": "#0093",
+        "Name": "Haunter",
+        "Evolves From": "Gastly",
+        "Evolves To": "Gengar",
+        "Evolution Method": "Trade"
+    },
+    {
+        "S.no": "#0094",
+        "Name": "Gengar",
+        "Evolves From": "Haunter",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0095",
+        "Name": "Onix",
+        "Evolves From": "",
+        "Evolves To": "Steelix",
+        "Evolution Method": "Trade while holding Metal Coat"
+    },
+    {
+        "S.no": "#0096",
+        "Name": "Drowzee",
+        "Evolves From": "",
+        "Evolves To": "Hypno",
+        "Evolution Method": "Level 26"
+    },
+    {
+        "S.no": "#0097",
+        "Name": "Hypno",
+        "Evolves From": "Drowzee",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0098",
+        "Name": "Krabby",
+        "Evolves From": "",
+        "Evolves To": "Kingler",
+        "Evolution Method": "Level 28"
+    },
+    {
+        "S.no": "#0099",
+        "Name": "Kingler",
+        "Evolves From": "Krabby",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0100",
+        "Name": "Voltorb",
+        "Evolves From": "",
+        "Evolves To": "Electrode",
+        "Evolution Method": "Level 30"
+    },
+    {
+        "S.no": "#0101",
+        "Name": "Electrode",
+        "Evolves From": "Voltorb",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0102",
+        "Name": "Exeggcute",
+        "Evolves From": "",
+        "Evolves To": "Exeggutor",
+        "Evolution Method": "Leaf Stone"
+    },
+    {
+        "S.no": "#0103",
+        "Name": "Exeggutor",
+        "Evolves From": "Exeggcute",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0104",
+        "Name": "Cubone",
+        "Evolves From": "",
+        "Evolves To": "Marowak",
+        "Evolution Method": "Level 28"
+    },
+    {
+        "S.no": "#0105",
+        "Name": "Marowak",
+        "Evolves From": "Cubone",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0106",
+        "Name": "Hitmonlee",
+        "Evolves From": "Tyrogue",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0107",
+        "Name": "Hitmonchan",
+        "Evolves From": "Tyrogue",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0108",
+        "Name": "Lickitung",
+        "Evolves From": "",
+        "Evolves To": "Lickilicky",
+        "Evolution Method": "Level up while knowing Rollout"
+    },
+    {
+        "S.no": "#0109",
+        "Name": "Koffing",
+        "Evolves From": "",
+        "Evolves To": "Weezing",
+        "Evolution Method": "Level 35"
+    },
+    {
+        "S.no": "#0110",
+        "Name": "Weezing",
+        "Evolves From": "Koffing",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0111",
+        "Name": "Rhyhorn",
+        "Evolves From": "",
+        "Evolves To": "Rhydon",
+        "Evolution Method": "Level 42"
+    },
+    {
+        "S.no": "#0112",
+        "Name": "Rhydon",
+        "Evolves From": "Rhyhorn",
+        "Evolves To": "Rhyperior",
+        "Evolution Method": "Trade while holding Protector"
+    },
+    {
+        "S.no": "#0113",
+        "Name": "Chansey",
+        "Evolves From": "Happiny",
+        "Evolves To": "Blissey",
+        "Evolution Method": "High Friendship"
+    },
+    {
+        "S.no": "#0114",
+        "Name": "Tangela",
+        "Evolves From": "",
+        "Evolves To": "Tangrowth",
+        "Evolution Method": "Level up while knowing Ancient Power"
+    },
+    {
+        "S.no": "#0115",
+        "Name": "Kangaskhan",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0116",
+        "Name": "Horsea",
+        "Evolves From": "",
+        "Evolves To": "Seadra",
+        "Evolution Method": "Level 32"
+    },
+    {
+        "S.no": "#0117",
+        "Name": "Seadra",
+        "Evolves From": "Horsea",
+        "Evolves To": "Kingdra",
+        "Evolution Method": "Trade while holding Dragon Scale"
+    },
+    {
+        "S.no": "#0118",
+        "Name": "Goldeen",
+        "Evolves From": "",
+        "Evolves To": "Seaking",
+        "Evolution Method": "Level 33"
+    },
+    {
+        "S.no": "#0119",
+        "Name": "Seaking",
+        "Evolves From": "Goldeen",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0120",
+        "Name": "Staryu",
+        "Evolves From": "",
+        "Evolves To": "Starmie",
+        "Evolution Method": "Water Stone"
+    },
+    {
+        "S.no": "#0121",
+        "Name": "Starmie",
+        "Evolves From": "Staryu",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0122",
+        "Name": "Mr. Mime",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0123",
+        "Name": "Scyther",
+        "Evolves From": "",
+        "Evolves To": "Scizor",
+        "Evolution Method": "Trade while holding Metal Coat"
+    },
+    {
+        "S.no": "#0124",
+        "Name": "Jynx",
+        "Evolves From": "Smoochum",
+        "Evolves To": "Jynx",
+        "Evolution Method": "Level 30"
+    },
+    {
+        "S.no": "#0125",
+        "Name": "Electabuzz",
+        "Evolves From": "Elekid",
+        "Evolves To": "Electivire",
+        "Evolution Method": "Trade while holding Electirizer"
+    },
+    {
+        "S.no": "#0126",
+        "Name": "Magmar",
+        "Evolves From": "Magby",
+        "Evolves To": "Magmortar",
+        "Evolution Method": "Trade while holding Magmarizer"
+    },
+    {
+        "S.no": "#0127",
+        "Name": "Pinsir",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0128",
+        "Name": "Tauros",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0129",
+        "Name": "Magikarp",
+        "Evolves From": "",
+        "Evolves To": "Gyarados",
+        "Evolution Method": "Level 20"
+    },
+    {
+        "S.no": "#0130",
+        "Name": "Gyarados",
+        "Evolves From": "Magikarp",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0131",
+        "Name": "Lapras",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0132",
+        "Name": "Ditto",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0133",
+        "Name": "Eevee",
+        "Evolves From": "",
+        "Evolves To": "Vaporeon",
+        "Evolution Method": "Water Stone"
+    },
+    {
+        "S.no": "#0134",
+        "Name": "Vaporeon",
+        "Evolves From": "Eevee",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0135",
+        "Name": "Jolteon",
+        "Evolves From": "Eevee",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0136",
+        "Name": "Flareon",
+        "Evolves From": "Eevee",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0137",
+        "Name": "Porygon",
+        "Evolves From": "",
+        "Evolves To": "Porygon2",
+        "Evolution Method": "Trade while holding Upgrade"
+    },
+    {
+        "S.no": "#0138",
+        "Name": "Omanyte",
+        "Evolves From": "",
+        "Evolves To": "Omastar",
+        "Evolution Method": "Level 40"
+    },
+    {
+        "S.no": "#0139",
+        "Name": "Omastar",
+        "Evolves From": "Omanyte",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0140",
+        "Name": "Kabuto",
+        "Evolves From": "",
+        "Evolves To": "Kabutops",
+        "Evolution Method": "Level 40"
+    },
+    {
+        "S.no": "#0141",
+        "Name": "Kabutops",
+        "Evolves From": "Kabuto",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0142",
+        "Name": "Aerodactyl",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0143",
+        "Name": "Snorlax",
+        "Evolves From": "Munchlax",
+        "Evolves To": "Snorlax",
+        "Evolution Method": "High Friendship"
+    },
+    {
+        "S.no": "#0144",
+        "Name": "Articuno",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0145",
+        "Name": "Zapdos",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0146",
+        "Name": "Moltres",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0147",
+        "Name": "Dratini",
+        "Evolves From": "",
+        "Evolves To": "Dragonair",
+        "Evolution Method": "Level 30"
+    },
+    {
+        "S.no": "#0148",
+        "Name": "Dragonair",
+        "Evolves From": "Dratini",
+        "Evolves To": "Dragonite",
+        "Evolution Method": "Level 55"
+    },
+    {
+        "S.no": "#0149",
+        "Name": "Dragonite",
+        "Evolves From": "Dragonair",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0150",
+        "Name": "Mewtwo",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0151",
+        "Name": "Mew",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0152",
+        "Name": "Chikorita",
+        "Evolves From": "",
+        "Evolves To": "Bayleef",
+        "Evolution Method": "Level 16"
+    },
+    {
+        "S.no": "#0153",
+        "Name": "Bayleef",
+        "Evolves From": "Chikorita",
+        "Evolves To": "Meganium",
+        "Evolution Method": "Level 32"
+    },
+    {
+        "S.no": "#0154",
+        "Name": "Meganium",
+        "Evolves From": "Bayleef",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0155",
+        "Name": "Cyndaquil",
+        "Evolves From": "",
+        "Evolves To": "Quilava",
+        "Evolution Method": "Level 14"
+    },
+    {
+        "S.no": "#0156",
+        "Name": "Quilava",
+        "Evolves From": "Cyndaquil",
+        "Evolves To": "Typhlosion",
+        "Evolution Method": "Level 36"
+    },
+    {
+        "S.no": "#0157",
+        "Name": "Typhlosion",
+        "Evolves From": "Quilava",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0158",
+        "Name": "Totodile",
+        "Evolves From": "",
+        "Evolves To": "Croconaw",
+        "Evolution Method": "Level 18"
+    },
+    {
+        "S.no": "#0159",
+        "Name": "Croconaw",
+        "Evolves From": "Totodile",
+        "Evolves To": "Feraligatr",
+        "Evolution Method": "Level 30"
+    },
+    {
+        "S.no": "#0160",
+        "Name": "Feraligatr",
+        "Evolves From": "Croconaw",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0161",
+        "Name": "Sentret",
+        "Evolves From": "",
+        "Evolves To": "Furret",
+        "Evolution Method": "Level 15"
+    },
+    {
+        "S.no": "#0162",
+        "Name": "Furret",
+        "Evolves From": "Sentret",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0163",
+        "Name": "Hoothoot",
+        "Evolves From": "",
+        "Evolves To": "Noctowl",
+        "Evolution Method": "Level 20"
+    },
+    {
+        "S.no": "#0164",
+        "Name": "Noctowl",
+        "Evolves From": "Hoothoot",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0165",
+        "Name": "Ledyba",
+        "Evolves From": "",
+        "Evolves To": "Ledian",
+        "Evolution Method": "Level 18"
+    },
+    {
+        "S.no": "#0166",
+        "Name": "Ledian",
+        "Evolves From": "Ledyba",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0167",
+        "Name": "Spinarak",
+        "Evolves From": "",
+        "Evolves To": "Ariados",
+        "Evolution Method": "Level 22"
+    },
+    {
+        "S.no": "#0168",
+        "Name": "Ariados",
+        "Evolves From": "Spinarak",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0169",
+        "Name": "Crobat",
+        "Evolves From": "Golbat",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0170",
+        "Name": "Chinchou",
+        "Evolves From": "",
+        "Evolves To": "Lanturn",
+        "Evolution Method": "Level 27"
+    },
+    {
+        "S.no": "#0171",
+        "Name": "Lanturn",
+        "Evolves From": "Chinchou",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0172",
+        "Name": "Pichu",
+        "Evolves From": "",
+        "Evolves To": "Pikachu",
+        "Evolution Method": "High Friendship"
+    },
+    {
+        "S.no": "#0173",
+        "Name": "Cleffa",
+        "Evolves From": "",
+        "Evolves To": "Clefairy",
+        "Evolution Method": "High Friendship"
+    },
+    {
+        "S.no": "#0174",
+        "Name": "Igglybuff",
+        "Evolves From": "",
+        "Evolves To": "Jigglypuff",
+        "Evolution Method": "High Friendship"
+    },
+    {
+        "S.no": "#0175",
+        "Name": "Togepi",
+        "Evolves From": "",
+        "Evolves To": "Togetic",
+        "Evolution Method": "High Friendship"
+    },
+    {
+        "S.no": "#0176",
+        "Name": "Togetic",
+        "Evolves From": "Togepi",
+        "Evolves To": "Togekiss",
+        "Evolution Method": "Shiny Stone"
+    },
+    {
+        "S.no": "#0177",
+        "Name": "Natu",
+        "Evolves From": "",
+        "Evolves To": "Xatu",
+        "Evolution Method": "Level 25"
+    },
+    {
+        "S.no": "#0178",
+        "Name": "Xatu",
+        "Evolves From": "Natu",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0179",
+        "Name": "Mareep",
+        "Evolves From": "",
+        "Evolves To": "Flaaffy",
+        "Evolution Method": "Level 15"
+    },
+    {
+        "S.no": "#0180",
+        "Name": "Flaaffy",
+        "Evolves From": "Mareep",
+        "Evolves To": "Ampharos",
+        "Evolution Method": "Level 30"
+    },
+    {
+        "S.no": "#0181",
+        "Name": "Ampharos",
+        "Evolves From": "Flaaffy",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0182",
+        "Name": "Bellossom",
+        "Evolves From": "Gloom",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0183",
+        "Name": "Marill",
+        "Evolves From": "Azurill",
+        "Evolves To": "Azumarill",
+        "Evolution Method": "Level 18"
+    },
+    {
+        "S.no": "#0184",
+        "Name": "Azumarill",
+        "Evolves From": "Marill",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0185",
+        "Name": "Sudowoodo",
+        "Evolves From": "Bonsly",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0186",
+        "Name": "Politoed",
+        "Evolves From": "Poliwhirl",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0187",
+        "Name": "Hoppip",
+        "Evolves From": "",
+        "Evolves To": "Skiploom",
+        "Evolution Method": "Level 18"
+    },
+    {
+        "S.no": "#0188",
+        "Name": "Skiploom",
+        "Evolves From": "Hoppip",
+        "Evolves To": "Jumpluff",
+        "Evolution Method": "Level 27"
+    },
+    {
+        "S.no": "#0189",
+        "Name": "Jumpluff",
+        "Evolves From": "Skiploom",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0190",
+        "Name": "Aipom",
+        "Evolves From": "",
+        "Evolves To": "Ambipom",
+        "Evolution Method": "Level up while knowing Double Hit"
+    },
+    {
+        "S.no": "#0191",
+        "Name": "Sunkern",
+        "Evolves From": "",
+        "Evolves To": "Sunflora",
+        "Evolution Method": "Sun Stone"
+    },
+    {
+        "S.no": "#0192",
+        "Name": "Sunflora",
+        "Evolves From": "Sunkern",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0193",
+        "Name": "Yanma",
+        "Evolves From": "",
+        "Evolves To": "Yanmega",
+        "Evolution Method": "Level up while knowing Ancient Power"
+    },
+    {
+        "S.no": "#0194",
+        "Name": "Wooper",
+        "Evolves From": "",
+        "Evolves To": "Quagsire",
+        "Evolution Method": "Level 20"
+    },
+    {
+        "S.no": "#0195",
+        "Name": "Quagsire",
+        "Evolves From": "Wooper",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0196",
+        "Name": "Espeon",
+        "Evolves From": "Eevee",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0197",
+        "Name": "Umbreon",
+        "Evolves From": "Eevee",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0198",
+        "Name": "Murkrow",
+        "Evolves From": "",
+        "Evolves To": "Honchkrow",
+        "Evolution Method": "Dusk Stone"
+    },
+    {
+        "S.no": "#0199",
+        "Name": "Slowking",
+        "Evolves From": "Slowpoke",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0200",
+        "Name": "Misdreavus",
+        "Evolves From": "",
+        "Evolves To": "Mismagius",
+        "Evolution Method": "Dusk Stone"
+    },
+    {
+        "S.no": "#0201",
+        "Name": "Unown",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0202",
+        "Name": "Wobbuffet",
+        "Evolves From": "Wynaut",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0203",
+        "Name": "Girafarig",
+        "Evolves From": "",
+        "Evolves To": "Farigiraf",
+        "Evolution Method": "Level up while knowing Twin Beam"
+    },
+    {
+        "S.no": "#0204",
+        "Name": "Pineco",
+        "Evolves From": "",
+        "Evolves To": "Forretress",
+        "Evolution Method": "Level 31"
+    },
+    {
+        "S.no": "#0205",
+        "Name": "Forretress",
+        "Evolves From": "Pineco",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0206",
+        "Name": "Dunsparce",
+        "Evolves From": "",
+        "Evolves To": "Dudunsparce",
+        "Evolution Method": "Level up while knowing Hyper Drill"
+    },
+    {
+        "S.no": "#0207",
+        "Name": "Gligar",
+        "Evolves From": "",
+        "Evolves To": "Gliscor",
+        "Evolution Method": "Night while holding Razor Fang"
+    },
+    {
+        "S.no": "#0208",
+        "Name": "Steelix",
+        "Evolves From": "Onix",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0209",
+        "Name": "Snubbull",
+        "Evolves From": "",
+        "Evolves To": "Granbull",
+        "Evolution Method": "Level 23"
+    },
+    {
+        "S.no": "#0210",
+        "Name": "Granbull",
+        "Evolves From": "Snubbull",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0211",
+        "Name": "Qwilfish",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0212",
+        "Name": "Scizor",
+        "Evolves From": "Scyther",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0213",
+        "Name": "Shuckle",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0214",
+        "Name": "Heracross",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0215",
+        "Name": "Sneasel",
+        "Evolves From": "",
+        "Evolves To": "Weavile",
+        "Evolution Method": "Night while holding Razor Claw"
+    },
+    {
+        "S.no": "#0216",
+        "Name": "Teddiursa",
+        "Evolves From": "",
+        "Evolves To": "Ursaring",
+        "Evolution Method": "Level 30"
+    },
+    {
+        "S.no": "#0217",
+        "Name": "Ursaring",
+        "Evolves From": "Teddiursa",
+        "Evolves To": "Ursaluna",
+        "Evolution Method": "Use Peat Block during Full Moon"
+    },
+    {
+        "S.no": "#0218",
+        "Name": "Slugma",
+        "Evolves From": "",
+        "Evolves To": "Magcargo",
+        "Evolution Method": "Level 38"
+    },
+    {
+        "S.no": "#0219",
+        "Name": "Magcargo",
+        "Evolves From": "Slugma",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0220",
+        "Name": "Swinub",
+        "Evolves From": "",
+        "Evolves To": "Piloswine",
+        "Evolution Method": "Level 33"
+    },
+    {
+        "S.no": "#0221",
+        "Name": "Piloswine",
+        "Evolves From": "Swinub",
+        "Evolves To": "Mamoswine",
+        "Evolution Method": "Level up while knowing Ancient Power"
+    },
+    {
+        "S.no": "#0222",
+        "Name": "Corsola",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0223",
+        "Name": "Remoraid",
+        "Evolves From": "",
+        "Evolves To": "Octillery",
+        "Evolution Method": "Level 25"
+    },
+    {
+        "S.no": "#0224",
+        "Name": "Octillery",
+        "Evolves From": "Remoraid",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0225",
+        "Name": "Delibird",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0226",
+        "Name": "Mantine",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0227",
+        "Name": "Skarmory",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0228",
+        "Name": "Houndour",
+        "Evolves From": "",
+        "Evolves To": "Houndoom",
+        "Evolution Method": "Level 24"
+    },
+    {
+        "S.no": "#0229",
+        "Name": "Houndoom",
+        "Evolves From": "Houndour",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0230",
+        "Name": "Kingdra",
+        "Evolves From": "Seadra",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0231",
+        "Name": "Phanpy",
+        "Evolves From": "",
+        "Evolves To": "Donphan",
+        "Evolution Method": "Level 25"
+    },
+    {
+        "S.no": "#0232",
+        "Name": "Donphan",
+        "Evolves From": "Phanpy",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0233",
+        "Name": "Porygon2",
+        "Evolves From": "Porygon",
+        "Evolves To": "Porygon-Z",
+        "Evolution Method": "Trade while holding Dubious Disc"
+    },
+    {
+        "S.no": "#0234",
+        "Name": "Stantler",
+        "Evolves From": "",
+        "Evolves To": "Wyrdeer",
+        "Evolution Method": "Level up while knowing Psyshield Bash"
+    },
+    {
+        "S.no": "#0235",
+        "Name": "Smeargle",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0236",
+        "Name": "Tyrogue",
+        "Evolves From": "",
+        "Evolves To": "Hitmonlee",
+        "Evolution Method": "Attack > Defense"
+    },
+    {
+        "S.no": "#0237",
+        "Name": "Hitmontop",
+        "Evolves From": "Tyrogue",
+        "Evolves To": "Attack = Defense",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0238",
+        "Name": "Smoochum",
+        "Evolves From": "",
+        "Evolves To": "Jynx",
+        "Evolution Method": "Level 30"
+    },
+    {
+        "S.no": "#0239",
+        "Name": "Elekid",
+        "Evolves From": "",
+        "Evolves To": "Electabuzz",
+        "Evolution Method": "Level 30"
+    },
+    {
+        "S.no": "#0240",
+        "Name": "Magby",
+        "Evolves From": "",
+        "Evolves To": "Magmar",
+        "Evolution Method": "Level 30"
+    },
+    {
+        "S.no": "#0241",
+        "Name": "Miltank",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0242",
+        "Name": "Blissey",
+        "Evolves From": "Chansey",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0243",
+        "Name": "Raikou",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0244",
+        "Name": "Entei",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0245",
+        "Name": "Suicune",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0246",
+        "Name": "Larvitar",
+        "Evolves From": "",
+        "Evolves To": "Pupitar",
+        "Evolution Method": "Level 30"
+    },
+    {
+        "S.no": "#0247",
+        "Name": "Pupitar",
+        "Evolves From": "Larvitar",
+        "Evolves To": "Tyranitar",
+        "Evolution Method": "Level 55"
+    },
+    {
+        "S.no": "#0248",
+        "Name": "Tyranitar",
+        "Evolves From": "Pupitar",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0249",
+        "Name": "Lugia",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0250",
+        "Name": "Ho-Oh",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0251",
+        "Name": "Celebi",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0252",
+        "Name": "Treecko",
+        "Evolves From": "",
+        "Evolves To": "Grovyle",
+        "Evolution Method": "Level 16"
+    },
+    {
+        "S.no": "#0253",
+        "Name": "Grovyle",
+        "Evolves From": "Treecko",
+        "Evolves To": "Sceptile",
+        "Evolution Method": "Level 36"
+    },
+    {
+        "S.no": "#0254",
+        "Name": "Sceptile",
+        "Evolves From": "Grovyle",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0255",
+        "Name": "Torchic",
+        "Evolves From": "",
+        "Evolves To": "Combusken",
+        "Evolution Method": "Level 16"
+    },
+    {
+        "S.no": "#0256",
+        "Name": "Combusken",
+        "Evolves From": "Torchic",
+        "Evolves To": "Blaziken",
+        "Evolution Method": "Level 36"
+    },
+    {
+        "S.no": "#0257",
+        "Name": "Blaziken",
+        "Evolves From": "Combusken",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0258",
+        "Name": "Mudkip",
+        "Evolves From": "",
+        "Evolves To": "Marshtomp",
+        "Evolution Method": "Level 16"
+    },
+    {
+        "S.no": "#0259",
+        "Name": "Marshtomp",
+        "Evolves From": "Mudkip",
+        "Evolves To": "Swampert",
+        "Evolution Method": "Level 36"
+    },
+    {
+        "S.no": "#0260",
+        "Name": "Swampert",
+        "Evolves From": "Marshtomp",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0261",
+        "Name": "Poochyena",
+        "Evolves From": "",
+        "Evolves To": "Mightyena",
+        "Evolution Method": "Level 18"
+    },
+    {
+        "S.no": "#0262",
+        "Name": "Mightyena",
+        "Evolves From": "Poochyena",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0263",
+        "Name": "Zigzagoon",
+        "Evolves From": "",
+        "Evolves To": "Linoone",
+        "Evolution Method": "Level 20"
+    },
+    {
+        "S.no": "#0264",
+        "Name": "Linoone",
+        "Evolves From": "Zigzagoon",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0265",
+        "Name": "Wurmple",
+        "Evolves From": "",
+        "Evolves To": "Silcoon",
+        "Evolution Method": "Level 7"
+    },
+    {
+        "S.no": "#0266",
+        "Name": "Silcoon",
+        "Evolves From": "Wurmple",
+        "Evolves To": "Beautifly",
+        "Evolution Method": "Level 10"
+    },
+    {
+        "S.no": "#0267",
+        "Name": "Beautifly",
+        "Evolves From": "Silcoon",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0268",
+        "Name": "Cascoon",
+        "Evolves From": "Wurmple",
+        "Evolves To": "Dustox",
+        "Evolution Method": "Level 10"
+    },
+    {
+        "S.no": "#0269",
+        "Name": "Dustox",
+        "Evolves From": "Cascoon",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0270",
+        "Name": "Lotad",
+        "Evolves From": "",
+        "Evolves To": "Lombre",
+        "Evolution Method": "Level 14"
+    },
+    {
+        "S.no": "#0271",
+        "Name": "Lombre",
+        "Evolves From": "Lotad",
+        "Evolves To": "Ludicolo",
+        "Evolution Method": "Water Stone"
+    },
+    {
+        "S.no": "#0272",
+        "Name": "Ludicolo",
+        "Evolves From": "Lombre",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0273",
+        "Name": "Seedot",
+        "Evolves From": "",
+        "Evolves To": "Nuzleaf",
+        "Evolution Method": "Level 14"
+    },
+    {
+        "S.no": "#0274",
+        "Name": "Nuzleaf",
+        "Evolves From": "Seedot",
+        "Evolves To": "Shiftry",
+        "Evolution Method": "Leaf Stone"
+    },
+    {
+        "S.no": "#0275",
+        "Name": "Shiftry",
+        "Evolves From": "Nuzleaf",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0276",
+        "Name": "Taillow",
+        "Evolves From": "",
+        "Evolves To": "Swellow",
+        "Evolution Method": "Level 22"
+    },
+    {
+        "S.no": "#0277",
+        "Name": "Swellow",
+        "Evolves From": "Taillow",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0278",
+        "Name": "Wingull",
+        "Evolves From": "",
+        "Evolves To": "Pelipper",
+        "Evolution Method": "Level 25"
+    },
+    {
+        "S.no": "#0279",
+        "Name": "Pelipper",
+        "Evolves From": "Wingull",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0280",
+        "Name": "Ralts",
+        "Evolves From": "",
+        "Evolves To": "Kirlia",
+        "Evolution Method": "Level 20"
+    },
+    {
+        "S.no": "#0281",
+        "Name": "Kirlia",
+        "Evolves From": "Ralts",
+        "Evolves To": "Gardevoir",
+        "Evolution Method": "Level 30"
+    },
+    {
+        "S.no": "#0282",
+        "Name": "Gardevoir",
+        "Evolves From": "Kirlia",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0283",
+        "Name": "Surskit",
+        "Evolves From": "",
+        "Evolves To": "Masquerain",
+        "Evolution Method": "Level 22"
+    },
+    {
+        "S.no": "#0284",
+        "Name": "Masquerain",
+        "Evolves From": "Surskit",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0285",
+        "Name": "Shroomish",
+        "Evolves From": "",
+        "Evolves To": "Breloom",
+        "Evolution Method": "Level 23"
+    },
+    {
+        "S.no": "#0286",
+        "Name": "Breloom",
+        "Evolves From": "Shroomish",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0287",
+        "Name": "Slakoth",
+        "Evolves From": "",
+        "Evolves To": "Vigoroth",
+        "Evolution Method": "Level 18"
+    },
+    {
+        "S.no": "#0288",
+        "Name": "Vigoroth",
+        "Evolves From": "Slakoth",
+        "Evolves To": "Slaking",
+        "Evolution Method": "Level 36"
+    },
+    {
+        "S.no": "#0289",
+        "Name": "Slaking",
+        "Evolves From": "Vigoroth",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0290",
+        "Name": "Nincada",
+        "Evolves From": "",
+        "Evolves To": "Ninjask",
+        "Evolution Method": "Level 20"
+    },
+    {
+        "S.no": "#0291",
+        "Name": "Ninjask",
+        "Evolves From": "Nincada",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0292",
+        "Name": "Shedinja",
+        "Evolves From": "Nincada",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0293",
+        "Name": "Whismur",
+        "Evolves From": "",
+        "Evolves To": "Loudred",
+        "Evolution Method": "Level 20"
+    },
+    {
+        "S.no": "#0294",
+        "Name": "Loudred",
+        "Evolves From": "Whismur",
+        "Evolves To": "Exploud",
+        "Evolution Method": "Level 40"
+    },
+    {
+        "S.no": "#0295",
+        "Name": "Exploud",
+        "Evolves From": "Loudred",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0296",
+        "Name": "Makuhita",
+        "Evolves From": "",
+        "Evolves To": "Hariyama",
+        "Evolution Method": "Level 24"
+    },
+    {
+        "S.no": "#0297",
+        "Name": "Hariyama",
+        "Evolves From": "Makuhita",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0298",
+        "Name": "Azurill",
+        "Evolves From": "",
+        "Evolves To": "Marill",
+        "Evolution Method": "High Friendship"
+    },
+    {
+        "S.no": "#0299",
+        "Name": "Nosepass",
+        "Evolves From": "",
+        "Evolves To": "Probopass",
+        "Evolution Method": "Level up in a special magnetic field"
+    },
+    {
+        "S.no": "#0300",
+        "Name": "Skitty",
+        "Evolves From": "",
+        "Evolves To": "Delcatty",
+        "Evolution Method": "Moon Stone"
+    },
+    {
+        "S.no": "#0301",
+        "Name": "Delcatty",
+        "Evolves From": "Skitty",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0302",
+        "Name": "Sableye",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0303",
+        "Name": "Mawile",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0304",
+        "Name": "Aron",
+        "Evolves From": "",
+        "Evolves To": "Lairon",
+        "Evolution Method": "Level 32"
+    },
+    {
+        "S.no": "#0305",
+        "Name": "Lairon",
+        "Evolves From": "Aron",
+        "Evolves To": "Aggron",
+        "Evolution Method": "Level 42"
+    },
+    {
+        "S.no": "#0306",
+        "Name": "Aggron",
+        "Evolves From": "Lairon",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0307",
+        "Name": "Meditite",
+        "Evolves From": "",
+        "Evolves To": "Medicham",
+        "Evolution Method": "Level 37"
+    },
+    {
+        "S.no": "#0308",
+        "Name": "Medicham",
+        "Evolves From": "Meditite",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0309",
+        "Name": "Electrike",
+        "Evolves From": "",
+        "Evolves To": "Manectric",
+        "Evolution Method": "Level 26"
+    },
+    {
+        "S.no": "#0310",
+        "Name": "Manectric",
+        "Evolves From": "Electrike",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0311",
+        "Name": "Plusle",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0312",
+        "Name": "Minun",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0313",
+        "Name": "Volbeat",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0314",
+        "Name": "Illumise",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0315",
+        "Name": "Roselia",
+        "Evolves From": "Budew",
+        "Evolves To": "Roserade",
+        "Evolution Method": "Shiny Stone"
+    },
+    {
+        "S.no": "#0316",
+        "Name": "Gulpin",
+        "Evolves From": "",
+        "Evolves To": "Swalot",
+        "Evolution Method": "Level 26"
+    },
+    {
+        "S.no": "#0317",
+        "Name": "Swalot",
+        "Evolves From": "Gulpin",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0318",
+        "Name": "Carvanha",
+        "Evolves From": "",
+        "Evolves To": "Sharpedo",
+        "Evolution Method": "Level 30"
+    },
+    {
+        "S.no": "#0319",
+        "Name": "Sharpedo",
+        "Evolves From": "Carvanha",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0320",
+        "Name": "Wailmer",
+        "Evolves From": "",
+        "Evolves To": "Wailord",
+        "Evolution Method": "Level 40"
+    },
+    {
+        "S.no": "#0321",
+        "Name": "Wailord",
+        "Evolves From": "Wailmer",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0322",
+        "Name": "Numel",
+        "Evolves From": "",
+        "Evolves To": "Camerupt",
+        "Evolution Method": "Level 33"
+    },
+    {
+        "S.no": "#0323",
+        "Name": "Camerupt",
+        "Evolves From": "Numel",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0324",
+        "Name": "Torkoal",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0325",
+        "Name": "Spoink",
+        "Evolves From": "",
+        "Evolves To": "Grumpig",
+        "Evolution Method": "Level 32"
+    },
+    {
+        "S.no": "#0326",
+        "Name": "Grumpig",
+        "Evolves From": "Spoink",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0327",
+        "Name": "Spinda",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0328",
+        "Name": "Trapinch",
+        "Evolves From": "",
+        "Evolves To": "Vibrava",
+        "Evolution Method": "Level 35"
+    },
+    {
+        "S.no": "#0329",
+        "Name": "Vibrava",
+        "Evolves From": "Trapinch",
+        "Evolves To": "Flygon",
+        "Evolution Method": "Level 45"
+    },
+    {
+        "S.no": "#0330",
+        "Name": "Flygon",
+        "Evolves From": "Vibrava",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0331",
+        "Name": "Cacnea",
+        "Evolves From": "",
+        "Evolves To": "Cacturne",
+        "Evolution Method": "Level 32"
+    },
+    {
+        "S.no": "#0332",
+        "Name": "Cacturne",
+        "Evolves From": "Cacnea",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0333",
+        "Name": "Swablu",
+        "Evolves From": "",
+        "Evolves To": "Altaria",
+        "Evolution Method": "Level 35"
+    },
+    {
+        "S.no": "#0334",
+        "Name": "Altaria",
+        "Evolves From": "Swablu",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0335",
+        "Name": "Zangoose",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0336",
+        "Name": "Seviper",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0337",
+        "Name": "Lunatone",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0338",
+        "Name": "Solrock",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0339",
+        "Name": "Barboach",
+        "Evolves From": "",
+        "Evolves To": "Whiscash",
+        "Evolution Method": "Level 30"
+    },
+    {
+        "S.no": "#0340",
+        "Name": "Whiscash",
+        "Evolves From": "Barboach",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0341",
+        "Name": "Corphish",
+        "Evolves From": "",
+        "Evolves To": "Crawdaunt",
+        "Evolution Method": "Level 30"
+    },
+    {
+        "S.no": "#0342",
+        "Name": "Crawdaunt",
+        "Evolves From": "Corphish",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0343",
+        "Name": "Baltoy",
+        "Evolves From": "",
+        "Evolves To": "Claydol",
+        "Evolution Method": "Level 36"
+    },
+    {
+        "S.no": "#0344",
+        "Name": "Claydol",
+        "Evolves From": "Baltoy",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0345",
+        "Name": "Lileep",
+        "Evolves From": "",
+        "Evolves To": "Cradily",
+        "Evolution Method": "Level 40"
+    },
+    {
+        "S.no": "#0346",
+        "Name": "Cradily",
+        "Evolves From": "Lileep",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0347",
+        "Name": "Anorith",
+        "Evolves From": "",
+        "Evolves To": "Armaldo",
+        "Evolution Method": "Level 40"
+    },
+    {
+        "S.no": "#0348",
+        "Name": "Armaldo",
+        "Evolves From": "Anorith",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0349",
+        "Name": "Feebas",
+        "Evolves From": "",
+        "Evolves To": "Milotic",
+        "Evolution Method": "Beauty/Trade with Prism Scale"
+    },
+    {
+        "S.no": "#0350",
+        "Name": "Milotic",
+        "Evolves From": "Feebas",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0351",
+        "Name": "Castform",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0352",
+        "Name": "Kecleon",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0353",
+        "Name": "Shuppet",
+        "Evolves From": "",
+        "Evolves To": "Banette",
+        "Evolution Method": "Level 37"
+    },
+    {
+        "S.no": "#0354",
+        "Name": "Banette",
+        "Evolves From": "Shuppet",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0355",
+        "Name": "Duskull",
+        "Evolves From": "",
+        "Evolves To": "Dusclops",
+        "Evolution Method": "Level 37"
+    },
+    {
+        "S.no": "#0356",
+        "Name": "Dusclops",
+        "Evolves From": "Duskull",
+        "Evolves To": "Dusknoir",
+        "Evolution Method": "Trade while holding Reaper Cloth"
+    },
+    {
+        "S.no": "#0357",
+        "Name": "Tropius",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0358",
+        "Name": "Chimecho",
+        "Evolves From": "Chingling",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0359",
+        "Name": "Absol",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0360",
+        "Name": "Wynaut",
+        "Evolves From": "",
+        "Evolves To": "Wobbuffet",
+        "Evolution Method": "Level 15"
+    },
+    {
+        "S.no": "#0361",
+        "Name": "Snorunt",
+        "Evolves From": "",
+        "Evolves To": "Glalie",
+        "Evolution Method": "Level 42"
+    },
+    {
+        "S.no": "#0362",
+        "Name": "Glalie",
+        "Evolves From": "Snorunt",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0363",
+        "Name": "Spheal",
+        "Evolves From": "",
+        "Evolves To": "Sealeo",
+        "Evolution Method": "Level 32"
+    },
+    {
+        "S.no": "#0364",
+        "Name": "Sealeo",
+        "Evolves From": "Spheal",
+        "Evolves To": "Walrein",
+        "Evolution Method": "Level 44"
+    },
+    {
+        "S.no": "#0365",
+        "Name": "Walrein",
+        "Evolves From": "Sealeo",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0366",
+        "Name": "Clamperl",
+        "Evolves From": "",
+        "Evolves To": "Huntail",
+        "Evolution Method": "Trade with Deep Sea Tooth"
+    },
+    {
+        "S.no": "#0367",
+        "Name": "Huntail",
+        "Evolves From": "Clamperl",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0368",
+        "Name": "Gorebyss",
+        "Evolves From": "Clamperl",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0369",
+        "Name": "Relicanth",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0370",
+        "Name": "Luvdisc",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0371",
+        "Name": "Bagon",
+        "Evolves From": "",
+        "Evolves To": "Shelgon",
+        "Evolution Method": "Level 30"
+    },
+    {
+        "S.no": "#0372",
+        "Name": "Shelgon",
+        "Evolves From": "Bagon",
+        "Evolves To": "Salamence",
+        "Evolution Method": "Level 50"
+    },
+    {
+        "S.no": "#0373",
+        "Name": "Salamence",
+        "Evolves From": "Shelgon",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0374",
+        "Name": "Beldum",
+        "Evolves From": "",
+        "Evolves To": "Metang",
+        "Evolution Method": "Level 20"
+    },
+    {
+        "S.no": "#0375",
+        "Name": "Metang",
+        "Evolves From": "Beldum",
+        "Evolves To": "Metagross",
+        "Evolution Method": "Level 45"
+    },
+    {
+        "S.no": "#0376",
+        "Name": "Metagross",
+        "Evolves From": "Metang",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0377",
+        "Name": "Regirock",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0378",
+        "Name": "Regice",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0379",
+        "Name": "Registeel",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0380",
+        "Name": "Latias",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0381",
+        "Name": "Latios",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0382",
+        "Name": "Kyogre",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0383",
+        "Name": "Groudon",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0384",
+        "Name": "Rayquaza",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0385",
+        "Name": "Jirachi",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0386",
+        "Name": "Deoxys",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0387",
+        "Name": "Turtwig",
+        "Evolves From": "",
+        "Evolves To": "Grotle",
+        "Evolution Method": "Level 18"
+    },
+    {
+        "S.no": "#0388",
+        "Name": "Grotle",
+        "Evolves From": "Turtwig",
+        "Evolves To": "Torterra",
+        "Evolution Method": "Level 32"
+    },
+    {
+        "S.no": "#0389",
+        "Name": "Torterra",
+        "Evolves From": "Grotle",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0390",
+        "Name": "Chimchar",
+        "Evolves From": "",
+        "Evolves To": "Monferno",
+        "Evolution Method": "Level 14"
+    },
+    {
+        "S.no": "#0391",
+        "Name": "Monferno",
+        "Evolves From": "Chimchar",
+        "Evolves To": "Infernape",
+        "Evolution Method": "Level 36"
+    },
+    {
+        "S.no": "#0392",
+        "Name": "Infernape",
+        "Evolves From": "Monferno",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0393",
+        "Name": "Piplup",
+        "Evolves From": "",
+        "Evolves To": "Prinplup",
+        "Evolution Method": "Level 16"
+    },
+    {
+        "S.no": "#0394",
+        "Name": "Prinplup",
+        "Evolves From": "Piplup",
+        "Evolves To": "Empoleon",
+        "Evolution Method": "Level 36"
+    },
+    {
+        "S.no": "#0395",
+        "Name": "Empoleon",
+        "Evolves From": "Prinplup",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0396",
+        "Name": "Starly",
+        "Evolves From": "",
+        "Evolves To": "Staravia",
+        "Evolution Method": "Level 14"
+    },
+    {
+        "S.no": "#0397",
+        "Name": "Staravia",
+        "Evolves From": "Starly",
+        "Evolves To": "Staraptor",
+        "Evolution Method": "Level 34"
+    },
+    {
+        "S.no": "#0398",
+        "Name": "Staraptor",
+        "Evolves From": "Staravia",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0399",
+        "Name": "Bidoof",
+        "Evolves From": "",
+        "Evolves To": "Bibarel",
+        "Evolution Method": "Level 15"
+    },
+    {
+        "S.no": "#0400",
+        "Name": "Bibarel",
+        "Evolves From": "Bidoof",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0401",
+        "Name": "Kricketot",
+        "Evolves From": "",
+        "Evolves To": "Kricketune",
+        "Evolution Method": "Level 10"
+    },
+    {
+        "S.no": "#0402",
+        "Name": "Kricketune",
+        "Evolves From": "Kricketot",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0403",
+        "Name": "Shinx",
+        "Evolves From": "",
+        "Evolves To": "Luxio",
+        "Evolution Method": "Level 15"
+    },
+    {
+        "S.no": "#0404",
+        "Name": "Luxio",
+        "Evolves From": "Shinx",
+        "Evolves To": "Luxray",
+        "Evolution Method": "Level 30"
+    },
+    {
+        "S.no": "#0405",
+        "Name": "Luxray",
+        "Evolves From": "Luxio",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0406",
+        "Name": "Budew",
+        "Evolves From": "",
+        "Evolves To": "Roselia",
+        "Evolution Method": "High Friendship during Day"
+    },
+    {
+        "S.no": "#0407",
+        "Name": "Roserade",
+        "Evolves From": "Roselia",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0408",
+        "Name": "Cranidos",
+        "Evolves From": "",
+        "Evolves To": "Rampardos",
+        "Evolution Method": "Level 30"
+    },
+    {
+        "S.no": "#0409",
+        "Name": "Rampardos",
+        "Evolves From": "Cranidos",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0410",
+        "Name": "Shieldon",
+        "Evolves From": "",
+        "Evolves To": "Bastiodon",
+        "Evolution Method": "Level 30"
+    },
+    {
+        "S.no": "#0411",
+        "Name": "Bastiodon",
+        "Evolves From": "Shieldon",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0412",
+        "Name": "Burmy",
+        "Evolves From": "",
+        "Evolves To": "Wormadam",
+        "Evolution Method": "Female Level 20"
+    },
+    {
+        "S.no": "#0413",
+        "Name": "Wormadam",
+        "Evolves From": "Burmy",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0414",
+        "Name": "Mothim",
+        "Evolves From": "Burmy",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0415",
+        "Name": "Combee",
+        "Evolves From": "",
+        "Evolves To": "Vespiquen",
+        "Evolution Method": "Female Level 21"
+    },
+    {
+        "S.no": "#0416",
+        "Name": "Vespiquen",
+        "Evolves From": "Combee",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0417",
+        "Name": "Pachirisu",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0418",
+        "Name": "Buizel",
+        "Evolves From": "",
+        "Evolves To": "Floatzel",
+        "Evolution Method": "Level 26"
+    },
+    {
+        "S.no": "#0419",
+        "Name": "Floatzel",
+        "Evolves From": "Buizel",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0420",
+        "Name": "Cherubi",
+        "Evolves From": "",
+        "Evolves To": "Cherrim",
+        "Evolution Method": "Level 25"
+    },
+    {
+        "S.no": "#0421",
+        "Name": "Cherrim",
+        "Evolves From": "Cherubi",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0422",
+        "Name": "Shellos",
+        "Evolves From": "",
+        "Evolves To": "Gastrodon",
+        "Evolution Method": "Level 30"
+    },
+    {
+        "S.no": "#0423",
+        "Name": "Gastrodon",
+        "Evolves From": "Shellos",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0424",
+        "Name": "Ambipom",
+        "Evolves From": "Aipom",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0425",
+        "Name": "Drifloon",
+        "Evolves From": "",
+        "Evolves To": "Drifblim",
+        "Evolution Method": "Level 28"
+    },
+    {
+        "S.no": "#0426",
+        "Name": "Drifblim",
+        "Evolves From": "Drifloon",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0427",
+        "Name": "Buneary",
+        "Evolves From": "",
+        "Evolves To": "Lopunny",
+        "Evolution Method": "High Friendship"
+    },
+    {
+        "S.no": "#0428",
+        "Name": "Lopunny",
+        "Evolves From": "Buneary",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0429",
+        "Name": "Mismagius",
+        "Evolves From": "Misdreavus",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0430",
+        "Name": "Honchkrow",
+        "Evolves From": "Murkrow",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0431",
+        "Name": "Glameow",
+        "Evolves From": "",
+        "Evolves To": "Purugly",
+        "Evolution Method": "Level 38"
+    },
+    {
+        "S.no": "#0432",
+        "Name": "Purugly",
+        "Evolves From": "Glameow",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0433",
+        "Name": "Chingling",
+        "Evolves From": "",
+        "Evolves To": "Chimecho",
+        "Evolution Method": "High Friendship at Night"
+    },
+    {
+        "S.no": "#0434",
+        "Name": "Stunky",
+        "Evolves From": "",
+        "Evolves To": "Skuntank",
+        "Evolution Method": "Level 34"
+    },
+    {
+        "S.no": "#0435",
+        "Name": "Skuntank",
+        "Evolves From": "Stunky",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0436",
+        "Name": "Bronzor",
+        "Evolves From": "",
+        "Evolves To": "Bronzong",
+        "Evolution Method": "Level 33"
+    },
+    {
+        "S.no": "#0437",
+        "Name": "Bronzong",
+        "Evolves From": "Bronzor",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0438",
+        "Name": "Bonsly",
+        "Evolves From": "",
+        "Evolves To": "Sudowoodo",
+        "Evolution Method": "Level up while knowing Mimic"
+    },
+    {
+        "S.no": "#0439",
+        "Name": "Mime Jr.",
+        "Evolves From": "",
+        "Evolves To": "Mr. Mime",
+        "Evolution Method": "Level up while knowing Mimic"
+    },
+    {
+        "S.no": "#0440",
+        "Name": "Happiny",
+        "Evolves From": "",
+        "Evolves To": "Chansey",
+        "Evolution Method": "Day while holding Oval Stone"
+    },
+    {
+        "S.no": "#0441",
+        "Name": "Chatot",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0442",
+        "Name": "Spiritomb",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0443",
+        "Name": "Gible",
+        "Evolves From": "",
+        "Evolves To": "Gabite",
+        "Evolution Method": "Level 24"
+    },
+    {
+        "S.no": "#0444",
+        "Name": "Gabite",
+        "Evolves From": "Gible",
+        "Evolves To": "Garchomp",
+        "Evolution Method": "Level 48"
+    },
+    {
+        "S.no": "#0445",
+        "Name": "Garchomp",
+        "Evolves From": "Gabite",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0446",
+        "Name": "Munchlax",
+        "Evolves From": "",
+        "Evolves To": "Snorlax",
+        "Evolution Method": "High Friendship"
+    },
+    {
+        "S.no": "#0447",
+        "Name": "Riolu",
+        "Evolves From": "",
+        "Evolves To": "Lucario",
+        "Evolution Method": "High Friendship during Day"
+    },
+    {
+        "S.no": "#0448",
+        "Name": "Lucario",
+        "Evolves From": "Riolu",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0449",
+        "Name": "Hippopotas",
+        "Evolves From": "",
+        "Evolves To": "Hippowdon",
+        "Evolution Method": "Level 34"
+    },
+    {
+        "S.no": "#0450",
+        "Name": "Hippowdon",
+        "Evolves From": "Hippopotas",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0451",
+        "Name": "Skorupi",
+        "Evolves From": "",
+        "Evolves To": "Drapion",
+        "Evolution Method": "Level 40"
+    },
+    {
+        "S.no": "#0452",
+        "Name": "Drapion",
+        "Evolves From": "Skorupi",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0453",
+        "Name": "Croagunk",
+        "Evolves From": "",
+        "Evolves To": "Toxicroak",
+        "Evolution Method": "Level 37"
+    },
+    {
+        "S.no": "#0454",
+        "Name": "Toxicroak",
+        "Evolves From": "Croagunk",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0455",
+        "Name": "Carnivine",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0456",
+        "Name": "Finneon",
+        "Evolves From": "",
+        "Evolves To": "Lumineon",
+        "Evolution Method": "Level 31"
+    },
+    {
+        "S.no": "#0457",
+        "Name": "Lumineon",
+        "Evolves From": "Finneon",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0458",
+        "Name": "Mantyke",
+        "Evolves From": "",
+        "Evolves To": "Mantine",
+        "Evolution Method": "Level up with Remoraid in party"
+    },
+    {
+        "S.no": "#0459",
+        "Name": "Snover",
+        "Evolves From": "",
+        "Evolves To": "Abomasnow",
+        "Evolution Method": "Level 40"
+    },
+    {
+        "S.no": "#0460",
+        "Name": "Abomasnow",
+        "Evolves From": "Snover",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0461",
+        "Name": "Weavile",
+        "Evolves From": "Sneasel",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0462",
+        "Name": "Magnezone",
+        "Evolves From": "Magneton",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0463",
+        "Name": "Lickilicky",
+        "Evolves From": "Lickitung",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0464",
+        "Name": "Rhyperior",
+        "Evolves From": "Rhydon",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0465",
+        "Name": "Tangrowth",
+        "Evolves From": "Tangela",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0466",
+        "Name": "Electivire",
+        "Evolves From": "Electabuzz",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0467",
+        "Name": "Magmortar",
+        "Evolves From": "Magmar",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0468",
+        "Name": "Togekiss",
+        "Evolves From": "Togetic",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0469",
+        "Name": "Yanmega",
+        "Evolves From": "Yanma",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0470",
+        "Name": "Leafeon",
+        "Evolves From": "Eevee",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0471",
+        "Name": "Glaceon",
+        "Evolves From": "Eevee",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0472",
+        "Name": "Gliscor",
+        "Evolves From": "Gligar",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0473",
+        "Name": "Mamoswine",
+        "Evolves From": "Piloswine",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0474",
+        "Name": "Porygon-Z",
+        "Evolves From": "Porygon2",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0475",
+        "Name": "Gallade",
+        "Evolves From": "Kirlia",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0476",
+        "Name": "Probopass",
+        "Evolves From": "Nosepass",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0477",
+        "Name": "Dusknoir",
+        "Evolves From": "Dusclops",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0478",
+        "Name": "Froslass",
+        "Evolves From": "Snorunt",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0479",
+        "Name": "Rotom",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0480",
+        "Name": "Uxie",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0481",
+        "Name": "Mesprit",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0482",
+        "Name": "Azelf",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0483",
+        "Name": "Dialga",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0484",
+        "Name": "Palkia",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0485",
+        "Name": "Heatran",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0486",
+        "Name": "Regigigas",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0487",
+        "Name": "Giratina",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0488",
+        "Name": "Cresselia",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0489",
+        "Name": "Phione",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0490",
+        "Name": "Manaphy",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0491",
+        "Name": "Darkrai",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0492",
+        "Name": "Shaymin",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0493",
+        "Name": "Arceus",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0494",
+        "Name": "Victini",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0495",
+        "Name": "Snivy",
+        "Evolves From": "",
+        "Evolves To": "Servine",
+        "Evolution Method": "Level 17"
+    },
+    {
+        "S.no": "#0496",
+        "Name": "Servine",
+        "Evolves From": "Snivy",
+        "Evolves To": "Serperior",
+        "Evolution Method": "Level 36"
+    },
+    {
+        "S.no": "#0497",
+        "Name": "Serperior",
+        "Evolves From": "Servine",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0498",
+        "Name": "Tepig",
+        "Evolves From": "",
+        "Evolves To": "Pignite",
+        "Evolution Method": "Level 17"
+    },
+    {
+        "S.no": "#0499",
+        "Name": "Pignite",
+        "Evolves From": "Tepig",
+        "Evolves To": "Emboar",
+        "Evolution Method": "Level 36"
+    },
+    {
+        "S.no": "#0500",
+        "Name": "Emboar",
+        "Evolves From": "Pignite",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0501",
+        "Name": "Oshawott",
+        "Evolves From": "",
+        "Evolves To": "Dewott",
+        "Evolution Method": "Level 17"
+    },
+    {
+        "S.no": "#0502",
+        "Name": "Dewott",
+        "Evolves From": "Oshawott",
+        "Evolves To": "Samurott",
+        "Evolution Method": "Level 36"
+    },
+    {
+        "S.no": "#0503",
+        "Name": "Samurott",
+        "Evolves From": "Dewott",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0504",
+        "Name": "Patrat",
+        "Evolves From": "",
+        "Evolves To": "Watchog",
+        "Evolution Method": "Level 20"
+    },
+    {
+        "S.no": "#0505",
+        "Name": "Watchog",
+        "Evolves From": "Patrat",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0506",
+        "Name": "Lillipup",
+        "Evolves From": "",
+        "Evolves To": "Herdier",
+        "Evolution Method": "Level 16"
+    },
+    {
+        "S.no": "#0507",
+        "Name": "Herdier",
+        "Evolves From": "Lillipup",
+        "Evolves To": "Stoutland",
+        "Evolution Method": "Level 32"
+    },
+    {
+        "S.no": "#0508",
+        "Name": "Stoutland",
+        "Evolves From": "Herdier",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0509",
+        "Name": "Purrloin",
+        "Evolves From": "",
+        "Evolves To": "Liepard",
+        "Evolution Method": "Level 20"
+    },
+    {
+        "S.no": "#0510",
+        "Name": "Liepard",
+        "Evolves From": "Purrloin",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0511",
+        "Name": "Pansage",
+        "Evolves From": "",
+        "Evolves To": "Simisage",
+        "Evolution Method": "Leaf Stone"
+    },
+    {
+        "S.no": "#0512",
+        "Name": "Simisage",
+        "Evolves From": "Pansage",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0513",
+        "Name": "Pansear",
+        "Evolves From": "",
+        "Evolves To": "Simisear",
+        "Evolution Method": "Fire Stone"
+    },
+    {
+        "S.no": "#0514",
+        "Name": "Simisear",
+        "Evolves From": "Pansear",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0515",
+        "Name": "Panpour",
+        "Evolves From": "",
+        "Evolves To": "Simipour",
+        "Evolution Method": "Water Stone"
+    },
+    {
+        "S.no": "#0516",
+        "Name": "Simipour",
+        "Evolves From": "Panpour",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0517",
+        "Name": "Munna",
+        "Evolves From": "",
+        "Evolves To": "Musharna",
+        "Evolution Method": "Moon Stone"
+    },
+    {
+        "S.no": "#0518",
+        "Name": "Musharna",
+        "Evolves From": "Munna",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0519",
+        "Name": "Pidove",
+        "Evolves From": "",
+        "Evolves To": "Tranquill",
+        "Evolution Method": "Level 21"
+    },
+    {
+        "S.no": "#0520",
+        "Name": "Tranquill",
+        "Evolves From": "Pidove",
+        "Evolves To": "Unfezant",
+        "Evolution Method": "Level 32"
+    },
+    {
+        "S.no": "#0521",
+        "Name": "Unfezant",
+        "Evolves From": "Tranquill",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0522",
+        "Name": "Blitzle",
+        "Evolves From": "",
+        "Evolves To": "Zebstrika",
+        "Evolution Method": "Level 27"
+    },
+    {
+        "S.no": "#0523",
+        "Name": "Zebstrika",
+        "Evolves From": "Blitzle",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0524",
+        "Name": "Roggenrola",
+        "Evolves From": "",
+        "Evolves To": "Boldore",
+        "Evolution Method": "Level 25"
+    },
+    {
+        "S.no": "#0525",
+        "Name": "Boldore",
+        "Evolves From": "Roggenrola",
+        "Evolves To": "Gigalith",
+        "Evolution Method": "Trade"
+    },
+    {
+        "S.no": "#0526",
+        "Name": "Gigalith",
+        "Evolves From": "Boldore",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0527",
+        "Name": "Woobat",
+        "Evolves From": "",
+        "Evolves To": "Swoobat",
+        "Evolution Method": "High Friendship"
+    },
+    {
+        "S.no": "#0528",
+        "Name": "Swoobat",
+        "Evolves From": "Woobat",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0529",
+        "Name": "Drilbur",
+        "Evolves From": "",
+        "Evolves To": "Excadrill",
+        "Evolution Method": "Level 31"
+    },
+    {
+        "S.no": "#0530",
+        "Name": "Excadrill",
+        "Evolves From": "Drilbur",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0531",
+        "Name": "Audino",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0532",
+        "Name": "Timburr",
+        "Evolves From": "",
+        "Evolves To": "Gurdurr",
+        "Evolution Method": "Level 25"
+    },
+    {
+        "S.no": "#0533",
+        "Name": "Gurdurr",
+        "Evolves From": "Timburr",
+        "Evolves To": "Conkeldurr",
+        "Evolution Method": "Trade"
+    },
+    {
+        "S.no": "#0534",
+        "Name": "Conkeldurr",
+        "Evolves From": "Gurdurr",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0535",
+        "Name": "Tympole",
+        "Evolves From": "",
+        "Evolves To": "Palpitoad",
+        "Evolution Method": "Level 25"
+    },
+    {
+        "S.no": "#0536",
+        "Name": "Palpitoad",
+        "Evolves From": "Tympole",
+        "Evolves To": "Seismitoad",
+        "Evolution Method": "Level 36"
+    },
+    {
+        "S.no": "#0537",
+        "Name": "Seismitoad",
+        "Evolves From": "Palpitoad",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0538",
+        "Name": "Throh",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0539",
+        "Name": "Sawk",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0540",
+        "Name": "Sewaddle",
+        "Evolves From": "",
+        "Evolves To": "Swadloon",
+        "Evolution Method": "Level 20"
+    },
+    {
+        "S.no": "#0541",
+        "Name": "Swadloon",
+        "Evolves From": "Sewaddle",
+        "Evolves To": "Leavanny",
+        "Evolution Method": "High Friendship"
+    },
+    {
+        "S.no": "#0542",
+        "Name": "Leavanny",
+        "Evolves From": "Swadloon",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0543",
+        "Name": "Venipede",
+        "Evolves From": "",
+        "Evolves To": "Whirlipede",
+        "Evolution Method": "Level 22"
+    },
+    {
+        "S.no": "#0544",
+        "Name": "Whirlipede",
+        "Evolves From": "Venipede",
+        "Evolves To": "Scolipede",
+        "Evolution Method": "Level 30"
+    },
+    {
+        "S.no": "#0545",
+        "Name": "Scolipede",
+        "Evolves From": "Whirlipede",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0546",
+        "Name": "Cottonee",
+        "Evolves From": "",
+        "Evolves To": "Whimsicott",
+        "Evolution Method": "Sun Stone"
+    },
+    {
+        "S.no": "#0547",
+        "Name": "Whimsicott",
+        "Evolves From": "Cottonee",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0548",
+        "Name": "Petilil",
+        "Evolves From": "",
+        "Evolves To": "Lilligant",
+        "Evolution Method": "Sun Stone"
+    },
+    {
+        "S.no": "#0549",
+        "Name": "Lilligant",
+        "Evolves From": "Petilil",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0550",
+        "Name": "Basculin",
+        "Evolves From": "",
+        "Evolves To": "Basculegion",
+        "Evolution Method": "Level up after 294 HP recoil"
+    },
+    {
+        "S.no": "#0551",
+        "Name": "Sandile",
+        "Evolves From": "",
+        "Evolves To": "Krokorok",
+        "Evolution Method": "Level 29"
+    },
+    {
+        "S.no": "#0552",
+        "Name": "Krokorok",
+        "Evolves From": "Sandile",
+        "Evolves To": "Krookodile",
+        "Evolution Method": "Level 40"
+    },
+    {
+        "S.no": "#0553",
+        "Name": "Krookodile",
+        "Evolves From": "Krokorok",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0554",
+        "Name": "Darumaka",
+        "Evolves From": "",
+        "Evolves To": "Darmanitan",
+        "Evolution Method": "Level 35"
+    },
+    {
+        "S.no": "#0555",
+        "Name": "Darmanitan",
+        "Evolves From": "Darumaka",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0556",
+        "Name": "Maractus",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0557",
+        "Name": "Dwebble",
+        "Evolves From": "",
+        "Evolves To": "Crustle",
+        "Evolution Method": "Level 34"
+    },
+    {
+        "S.no": "#0558",
+        "Name": "Crustle",
+        "Evolves From": "Dwebble",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0559",
+        "Name": "Scraggy",
+        "Evolves From": "",
+        "Evolves To": "Scrafty",
+        "Evolution Method": "Level 39"
+    },
+    {
+        "S.no": "#0560",
+        "Name": "Scrafty",
+        "Evolves From": "Scraggy",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0561",
+        "Name": "Sigilyph",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0562",
+        "Name": "Yamask",
+        "Evolves From": "",
+        "Evolves To": "Cofagrigus",
+        "Evolution Method": "Level 34"
+    },
+    {
+        "S.no": "#0563",
+        "Name": "Cofagrigus",
+        "Evolves From": "Yamask",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0564",
+        "Name": "Tirtouga",
+        "Evolves From": "",
+        "Evolves To": "Carracosta",
+        "Evolution Method": "Level 37"
+    },
+    {
+        "S.no": "#0565",
+        "Name": "Carracosta",
+        "Evolves From": "Tirtouga",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0566",
+        "Name": "Archen",
+        "Evolves From": "",
+        "Evolves To": "Archeops",
+        "Evolution Method": "Level 37"
+    },
+    {
+        "S.no": "#0567",
+        "Name": "Archeops",
+        "Evolves From": "Archen",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0568",
+        "Name": "Trubbish",
+        "Evolves From": "",
+        "Evolves To": "Garbodor",
+        "Evolution Method": "Level 36"
+    },
+    {
+        "S.no": "#0569",
+        "Name": "Garbodor",
+        "Evolves From": "Trubbish",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0570",
+        "Name": "Zorua",
+        "Evolves From": "",
+        "Evolves To": "Zoroark",
+        "Evolution Method": "Level 30"
+    },
+    {
+        "S.no": "#0571",
+        "Name": "Zoroark",
+        "Evolves From": "Zorua",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0572",
+        "Name": "Minccino",
+        "Evolves From": "",
+        "Evolves To": "Cinccino",
+        "Evolution Method": "Shiny Stone"
+    },
+    {
+        "S.no": "#0573",
+        "Name": "Cinccino",
+        "Evolves From": "Minccino",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0574",
+        "Name": "Gothita",
+        "Evolves From": "",
+        "Evolves To": "Gothorita",
+        "Evolution Method": "Level 32"
+    },
+    {
+        "S.no": "#0575",
+        "Name": "Gothorita",
+        "Evolves From": "Gothita",
+        "Evolves To": "Gothitelle",
+        "Evolution Method": "Level 41"
+    },
+    {
+        "S.no": "#0576",
+        "Name": "Gothitelle",
+        "Evolves From": "Gothorita",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0577",
+        "Name": "Solosis",
+        "Evolves From": "",
+        "Evolves To": "Duosion",
+        "Evolution Method": "Level 32"
+    },
+    {
+        "S.no": "#0578",
+        "Name": "Duosion",
+        "Evolves From": "Solosis",
+        "Evolves To": "Reuniclus",
+        "Evolution Method": "Level 41"
+    },
+    {
+        "S.no": "#0579",
+        "Name": "Reuniclus",
+        "Evolves From": "Duosion",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0580",
+        "Name": "Ducklett",
+        "Evolves From": "",
+        "Evolves To": "Swanna",
+        "Evolution Method": "Level 35"
+    },
+    {
+        "S.no": "#0581",
+        "Name": "Swanna",
+        "Evolves From": "Ducklett",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0582",
+        "Name": "Vanillite",
+        "Evolves From": "",
+        "Evolves To": "Vanillish",
+        "Evolution Method": "Level 35"
+    },
+    {
+        "S.no": "#0583",
+        "Name": "Vanillish",
+        "Evolves From": "Vanillite",
+        "Evolves To": "Vanilluxe",
+        "Evolution Method": "Level 47"
+    },
+    {
+        "S.no": "#0584",
+        "Name": "Vanilluxe",
+        "Evolves From": "Vanillish",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0585",
+        "Name": "Deerling",
+        "Evolves From": "",
+        "Evolves To": "Sawsbuck",
+        "Evolution Method": "Level 34"
+    },
+    {
+        "S.no": "#0586",
+        "Name": "Sawsbuck",
+        "Evolves From": "Deerling",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0587",
+        "Name": "Emolga",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0588",
+        "Name": "Karrablast",
+        "Evolves From": "",
+        "Evolves To": "Escavalier",
+        "Evolution Method": "Trade for Shelmet"
+    },
+    {
+        "S.no": "#0589",
+        "Name": "Escavalier",
+        "Evolves From": "Karrablast",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0590",
+        "Name": "Foongus",
+        "Evolves From": "",
+        "Evolves To": "Amoonguss",
+        "Evolution Method": "Level 39"
+    },
+    {
+        "S.no": "#0591",
+        "Name": "Amoonguss",
+        "Evolves From": "Foongus",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0592",
+        "Name": "Frillish",
+        "Evolves From": "",
+        "Evolves To": "Jellicent",
+        "Evolution Method": "Level 40"
+    },
+    {
+        "S.no": "#0593",
+        "Name": "Jellicent",
+        "Evolves From": "Frillish",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0594",
+        "Name": "Alomomola",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0595",
+        "Name": "Joltik",
+        "Evolves From": "",
+        "Evolves To": "Galvantula",
+        "Evolution Method": "Level 36"
+    },
+    {
+        "S.no": "#0596",
+        "Name": "Galvantula",
+        "Evolves From": "Joltik",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0597",
+        "Name": "Ferroseed",
+        "Evolves From": "",
+        "Evolves To": "Ferrothorn",
+        "Evolution Method": "Level 40"
+    },
+    {
+        "S.no": "#0598",
+        "Name": "Ferrothorn",
+        "Evolves From": "Ferroseed",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0599",
+        "Name": "Klink",
+        "Evolves From": "",
+        "Evolves To": "Klang",
+        "Evolution Method": "Level 38"
+    },
+    {
+        "S.no": "#0600",
+        "Name": "Klang",
+        "Evolves From": "Klink",
+        "Evolves To": "Klinklang",
+        "Evolution Method": "Level 49"
+    },
+    {
+        "S.no": "#0601",
+        "Name": "Klinklang",
+        "Evolves From": "Klang",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0602",
+        "Name": "Tynamo",
+        "Evolves From": "",
+        "Evolves To": "Eelektrik",
+        "Evolution Method": "Level 39"
+    },
+    {
+        "S.no": "#0603",
+        "Name": "Eelektrik",
+        "Evolves From": "Tynamo",
+        "Evolves To": "Eelektross",
+        "Evolution Method": "Thunder Stone"
+    },
+    {
+        "S.no": "#0604",
+        "Name": "Eelektross",
+        "Evolves From": "Eelektrik",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0605",
+        "Name": "Elgyem",
+        "Evolves From": "",
+        "Evolves To": "Beheeyem",
+        "Evolution Method": "Level 42"
+    },
+    {
+        "S.no": "#0606",
+        "Name": "Beheeyem",
+        "Evolves From": "Elgyem",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0607",
+        "Name": "Litwick",
+        "Evolves From": "",
+        "Evolves To": "Lampent",
+        "Evolution Method": "Level 41"
+    },
+    {
+        "S.no": "#0608",
+        "Name": "Lampent",
+        "Evolves From": "Litwick",
+        "Evolves To": "Chandelure",
+        "Evolution Method": "Dusk Stone"
+    },
+    {
+        "S.no": "#0609",
+        "Name": "Chandelure",
+        "Evolves From": "Lampent",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0610",
+        "Name": "Axew",
+        "Evolves From": "",
+        "Evolves To": "Fraxure",
+        "Evolution Method": "Level 38"
+    },
+    {
+        "S.no": "#0611",
+        "Name": "Fraxure",
+        "Evolves From": "Axew",
+        "Evolves To": "Haxorus",
+        "Evolution Method": "Level 48"
+    },
+    {
+        "S.no": "#0612",
+        "Name": "Haxorus",
+        "Evolves From": "Fraxure",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0613",
+        "Name": "Cubchoo",
+        "Evolves From": "",
+        "Evolves To": "Beartic",
+        "Evolution Method": "Level 37"
+    },
+    {
+        "S.no": "#0614",
+        "Name": "Beartic",
+        "Evolves From": "Cubchoo",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0615",
+        "Name": "Cryogonal",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0616",
+        "Name": "Shelmet",
+        "Evolves From": "",
+        "Evolves To": "Accelgor",
+        "Evolution Method": "Trade for Karrablast"
+    },
+    {
+        "S.no": "#0617",
+        "Name": "Accelgor",
+        "Evolves From": "Shelmet",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0618",
+        "Name": "Stunfisk",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0619",
+        "Name": "Mienfoo",
+        "Evolves From": "",
+        "Evolves To": "Mienshao",
+        "Evolution Method": "Level 50"
+    },
+    {
+        "S.no": "#0620",
+        "Name": "Mienshao",
+        "Evolves From": "Mienfoo",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0621",
+        "Name": "Druddigon",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0622",
+        "Name": "Golett",
+        "Evolves From": "",
+        "Evolves To": "Golurk",
+        "Evolution Method": "Level 43"
+    },
+    {
+        "S.no": "#0623",
+        "Name": "Golurk",
+        "Evolves From": "Golett",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0624",
+        "Name": "Pawniard",
+        "Evolves From": "",
+        "Evolves To": "Bisharp",
+        "Evolution Method": "Level 52"
+    },
+    {
+        "S.no": "#0625",
+        "Name": "Bisharp",
+        "Evolves From": "Pawniard",
+        "Evolves To": "Kingambit",
+        "Evolution Method": "Defeat 3 Bisharp holding Leader's Crest"
+    },
+    {
+        "S.no": "#0626",
+        "Name": "Kingambit",
+        "Evolves From": "Bisharp",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0627",
+        "Name": "Bouffalant",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0628",
+        "Name": "Rufflet",
+        "Evolves From": "",
+        "Evolves To": "Braviary",
+        "Evolution Method": "Level 54"
+    },
+    {
+        "S.no": "#0629",
+        "Name": "Vullaby",
+        "Evolves From": "",
+        "Evolves To": "Mandibuzz",
+        "Evolution Method": "Level 54"
+    },
+    {
+        "S.no": "#0630",
+        "Name": "Mandibuzz",
+        "Evolves From": "Vullaby",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0631",
+        "Name": "Heatmor",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0632",
+        "Name": "Durant",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0633",
+        "Name": "Deino",
+        "Evolves From": "",
+        "Evolves To": "Zweilous",
+        "Evolution Method": "Level 50"
+    },
+    {
+        "S.no": "#0634",
+        "Name": "Zweilous",
+        "Evolves From": "Deino",
+        "Evolves To": "Hydreigon",
+        "Evolution Method": "Level 64"
+    },
+    {
+        "S.no": "#0635",
+        "Name": "Hydreigon",
+        "Evolves From": "Zweilous",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0636",
+        "Name": "Larvesta",
+        "Evolves From": "",
+        "Evolves To": "Volcarona",
+        "Evolution Method": "Level 59"
+    },
+    {
+        "S.no": "#0637",
+        "Name": "Volcarona",
+        "Evolves From": "Larvesta",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0638",
+        "Name": "Cobalion",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0639",
+        "Name": "Terrakion",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0640",
+        "Name": "Virizion",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0641",
+        "Name": "Tornadus",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0642",
+        "Name": "Thundurus",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0643",
+        "Name": "Reshiram",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0644",
+        "Name": "Zekrom",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0645",
+        "Name": "Landorus",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0646",
+        "Name": "Kyurem",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0647",
+        "Name": "Keldeo",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0648",
+        "Name": "Meloetta",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0649",
+        "Name": "Genesect",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0650",
+        "Name": "Chespin",
+        "Evolves From": "",
+        "Evolves To": "Quilladin",
+        "Evolution Method": "Level 16"
+    },
+    {
+        "S.no": "#0651",
+        "Name": "Quilladin",
+        "Evolves From": "Chespin",
+        "Evolves To": "Chesnaught",
+        "Evolution Method": "Level 36"
+    },
+    {
+        "S.no": "#0652",
+        "Name": "Chesnaught",
+        "Evolves From": "Quilladin",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0653",
+        "Name": "Fennekin",
+        "Evolves From": "",
+        "Evolves To": "Braixen",
+        "Evolution Method": "Level 16"
+    },
+    {
+        "S.no": "#0654",
+        "Name": "Braixen",
+        "Evolves From": "Fennekin",
+        "Evolves To": "Delphox",
+        "Evolution Method": "Level 36"
+    },
+    {
+        "S.no": "#0655",
+        "Name": "Delphox",
+        "Evolves From": "Braixen",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0656",
+        "Name": "Froakie",
+        "Evolves From": "",
+        "Evolves To": "Frogadier",
+        "Evolution Method": "Level 16"
+    },
+    {
+        "S.no": "#0657",
+        "Name": "Frogadier",
+        "Evolves From": "Froakie",
+        "Evolves To": "Greninja",
+        "Evolution Method": "Level 36"
+    },
+    {
+        "S.no": "#0658",
+        "Name": "Greninja",
+        "Evolves From": "Frogadier",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0659",
+        "Name": "Bunnelby",
+        "Evolves From": "",
+        "Evolves To": "Diggersby",
+        "Evolution Method": "Level 20"
+    },
+    {
+        "S.no": "#0660",
+        "Name": "Diggersby",
+        "Evolves From": "Bunnelby",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0661",
+        "Name": "Fletchling",
+        "Evolves From": "",
+        "Evolves To": "Fletchinder",
+        "Evolution Method": "Level 17"
+    },
+    {
+        "S.no": "#0662",
+        "Name": "Fletchinder",
+        "Evolves From": "Fletchling",
+        "Evolves To": "Talonflame",
+        "Evolution Method": "Level 35"
+    },
+    {
+        "S.no": "#0663",
+        "Name": "Talonflame",
+        "Evolves From": "Fletchinder",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0664",
+        "Name": "Scatterbug",
+        "Evolves From": "",
+        "Evolves To": "Spewpa",
+        "Evolution Method": "Level 9"
+    },
+    {
+        "S.no": "#0665",
+        "Name": "Spewpa",
+        "Evolves From": "Scatterbug",
+        "Evolves To": "Vivillon",
+        "Evolution Method": "Level 12"
+    },
+    {
+        "S.no": "#0666",
+        "Name": "Vivillon",
+        "Evolves From": "Spewpa",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0667",
+        "Name": "Litleo",
+        "Evolves From": "",
+        "Evolves To": "Pyroar",
+        "Evolution Method": "Level 35"
+    },
+    {
+        "S.no": "#0668",
+        "Name": "Pyroar",
+        "Evolves From": "Litleo",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0669",
+        "Name": "Flabébé",
+        "Evolves From": "",
+        "Evolves To": "Floette",
+        "Evolution Method": "Level 19"
+    },
+    {
+        "S.no": "#0670",
+        "Name": "Floette",
+        "Evolves From": "Flabébé",
+        "Evolves To": "Florges",
+        "Evolution Method": "Shiny Stone"
+    },
+    {
+        "S.no": "#0671",
+        "Name": "Florges",
+        "Evolves From": "Floette",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0672",
+        "Name": "Skiddo",
+        "Evolves From": "",
+        "Evolves To": "Gogoat",
+        "Evolution Method": "Level 32"
+    },
+    {
+        "S.no": "#0673",
+        "Name": "Gogoat",
+        "Evolves From": "Skiddo",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0674",
+        "Name": "Pancham",
+        "Evolves From": "",
+        "Evolves To": "Pangoro",
+        "Evolution Method": "Level 32 with Dark-type Pokémon"
+    },
+    {
+        "S.no": "#0675",
+        "Name": "Pangoro",
+        "Evolves From": "Pancham",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0676",
+        "Name": "Furfrou",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0677",
+        "Name": "Espurr",
+        "Evolves From": "",
+        "Evolves To": "Meowstic",
+        "Evolution Method": "Level 25"
+    },
+    {
+        "S.no": "#0678",
+        "Name": "Meowstic",
+        "Evolves From": "Espurr",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0679",
+        "Name": "Honedge",
+        "Evolves From": "",
+        "Evolves To": "Doublade",
+        "Evolution Method": "Level 35"
+    },
+    {
+        "S.no": "#0680",
+        "Name": "Doublade",
+        "Evolves From": "Honedge",
+        "Evolves To": "Aegislash",
+        "Evolution Method": "Dusk Stone"
+    },
+    {
+        "S.no": "#0681",
+        "Name": "Aegislash",
+        "Evolves From": "Doublade",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0682",
+        "Name": "Spritzee",
+        "Evolves From": "",
+        "Evolves To": "Aromatisse",
+        "Evolution Method": "Trade while holding Sachet"
+    },
+    {
+        "S.no": "#0683",
+        "Name": "Aromatisse",
+        "Evolves From": "Spritzee",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0684",
+        "Name": "Swirlix",
+        "Evolves From": "",
+        "Evolves To": "Slurpuff",
+        "Evolution Method": "Trade while holding Whipped Dream"
+    },
+    {
+        "S.no": "#0685",
+        "Name": "Slurpuff",
+        "Evolves From": "Swirlix",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0686",
+        "Name": "Inkay",
+        "Evolves From": "",
+        "Evolves To": "Malamar",
+        "Evolution Method": "Level 30 while holding 3DS upside down"
+    },
+    {
+        "S.no": "#0687",
+        "Name": "Malamar",
+        "Evolves From": "Inkay",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0688",
+        "Name": "Binacle",
+        "Evolves From": "",
+        "Evolves To": "Barbaracle",
+        "Evolution Method": "Level 39"
+    },
+    {
+        "S.no": "#0689",
+        "Name": "Barbaracle",
+        "Evolves From": "Binacle",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0690",
+        "Name": "Skrelp",
+        "Evolves From": "",
+        "Evolves To": "Dragalge",
+        "Evolution Method": "Level 48"
+    },
+    {
+        "S.no": "#0691",
+        "Name": "Dragalge",
+        "Evolves From": "Skrelp",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0692",
+        "Name": "Clauncher",
+        "Evolves From": "",
+        "Evolves To": "Clawitzer",
+        "Evolution Method": "Level 37"
+    },
+    {
+        "S.no": "#0693",
+        "Name": "Clawitzer",
+        "Evolves From": "Clauncher",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0694",
+        "Name": "Helioptile",
+        "Evolves From": "",
+        "Evolves To": "Heliolisk",
+        "Evolution Method": "Sun Stone"
+    },
+    {
+        "S.no": "#0695",
+        "Name": "Heliolisk",
+        "Evolves From": "Helioptile",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0696",
+        "Name": "Tyrunt",
+        "Evolves From": "",
+        "Evolves To": "Tyrantrum",
+        "Evolution Method": "Level 39 during Day"
+    },
+    {
+        "S.no": "#0697",
+        "Name": "Tyrantrum",
+        "Evolves From": "Tyrunt",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0698",
+        "Name": "Amaura",
+        "Evolves From": "",
+        "Evolves To": "Aurorus",
+        "Evolution Method": "Level 39 at Night"
+    },
+    {
+        "S.no": "#0699",
+        "Name": "Aurorus",
+        "Evolves From": "Amaura",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0700",
+        "Name": "Sylveon",
+        "Evolves From": "Eevee",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0701",
+        "Name": "Hawlucha",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0702",
+        "Name": "Dedenne",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0703",
+        "Name": "Carbink",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0704",
+        "Name": "Goomy",
+        "Evolves From": "",
+        "Evolves To": "Sliggoo",
+        "Evolution Method": "Level 40"
+    },
+    {
+        "S.no": "#0705",
+        "Name": "Sliggoo",
+        "Evolves From": "Goomy",
+        "Evolves To": "Goodra",
+        "Evolution Method": "Level 50 during Rain"
+    },
+    {
+        "S.no": "#0706",
+        "Name": "Goodra",
+        "Evolves From": "Sliggoo",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0707",
+        "Name": "Klefki",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0708",
+        "Name": "Phantump",
+        "Evolves From": "",
+        "Evolves To": "Trevenant",
+        "Evolution Method": "Trade"
+    },
+    {
+        "S.no": "#0709",
+        "Name": "Trevenant",
+        "Evolves From": "Phantump",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0710",
+        "Name": "Pumpkaboo",
+        "Evolves From": "",
+        "Evolves To": "Gourgeist",
+        "Evolution Method": "Trade"
+    },
+    {
+        "S.no": "#0711",
+        "Name": "Gourgeist",
+        "Evolves From": "Pumpkaboo",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0712",
+        "Name": "Bergmite",
+        "Evolves From": "",
+        "Evolves To": "Avalugg",
+        "Evolution Method": "Level 37"
+    },
+    {
+        "S.no": "#0713",
+        "Name": "Avalugg",
+        "Evolves From": "Bergmite",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0714",
+        "Name": "Noibat",
+        "Evolves From": "",
+        "Evolves To": "Noivern",
+        "Evolution Method": "Level 48"
+    },
+    {
+        "S.no": "#0715",
+        "Name": "Noivern",
+        "Evolves From": "Noibat",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0716",
+        "Name": "Xerneas",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0717",
+        "Name": "Yveltal",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0718",
+        "Name": "Zygarde",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0719",
+        "Name": "Diancie",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0720",
+        "Name": "Hoopa",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0721",
+        "Name": "Volcanion",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0722",
+        "Name": "Rowlet",
+        "Evolves From": "",
+        "Evolves To": "Dartrix",
+        "Evolution Method": "Level 17"
+    },
+    {
+        "S.no": "#0723",
+        "Name": "Dartrix",
+        "Evolves From": "Rowlet",
+        "Evolves To": "Decidueye",
+        "Evolution Method": "Level 34"
+    },
+    {
+        "S.no": "#0724",
+        "Name": "Decidueye",
+        "Evolves From": "Dartrix",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0725",
+        "Name": "Litten",
+        "Evolves From": "",
+        "Evolves To": "Torracat",
+        "Evolution Method": "Level 17"
+    },
+    {
+        "S.no": "#0726",
+        "Name": "Torracat",
+        "Evolves From": "Litten",
+        "Evolves To": "Incineroar",
+        "Evolution Method": "Level 34"
+    },
+    {
+        "S.no": "#0727",
+        "Name": "Incineroar",
+        "Evolves From": "Torracat",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0728",
+        "Name": "Popplio",
+        "Evolves From": "",
+        "Evolves To": "Brionne",
+        "Evolution Method": "Level 17"
+    },
+    {
+        "S.no": "#0729",
+        "Name": "Brionne",
+        "Evolves From": "Popplio",
+        "Evolves To": "Primarina",
+        "Evolution Method": "Level 34"
+    },
+    {
+        "S.no": "#0730",
+        "Name": "Primarina",
+        "Evolves From": "Brionne",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0731",
+        "Name": "Pikipek",
+        "Evolves From": "",
+        "Evolves To": "Trumbeak",
+        "Evolution Method": "Level 14"
+    },
+    {
+        "S.no": "#0732",
+        "Name": "Trumbeak",
+        "Evolves From": "Pikipek",
+        "Evolves To": "Toucannon",
+        "Evolution Method": "Level 28"
+    },
+    {
+        "S.no": "#0733",
+        "Name": "Toucannon",
+        "Evolves From": "Trumbeak",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0734",
+        "Name": "Yungoos",
+        "Evolves From": "",
+        "Evolves To": "Gumshoos",
+        "Evolution Method": "Level 20 Day"
+    },
+    {
+        "S.no": "#0735",
+        "Name": "Gumshoos",
+        "Evolves From": "Yungoos",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0736",
+        "Name": "Grubbin",
+        "Evolves From": "",
+        "Evolves To": "Charjabug",
+        "Evolution Method": "Level 20"
+    },
+    {
+        "S.no": "#0737",
+        "Name": "Charjabug",
+        "Evolves From": "Grubbin",
+        "Evolves To": "Vikavolt",
+        "Evolution Method": "Special Magnetic Field"
+    },
+    {
+        "S.no": "#0738",
+        "Name": "Vikavolt",
+        "Evolves From": "Charjabug",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0739",
+        "Name": "Crabrawler",
+        "Evolves From": "",
+        "Evolves To": "Crabominable",
+        "Evolution Method": "Level up near Ice Stone"
+    },
+    {
+        "S.no": "#0740",
+        "Name": "Crabominable",
+        "Evolves From": "Crabrawler",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0741",
+        "Name": "Oricorio",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0742",
+        "Name": "Cutiefly",
+        "Evolves From": "",
+        "Evolves To": "Ribombee",
+        "Evolution Method": "Level 25"
+    },
+    {
+        "S.no": "#0743",
+        "Name": "Ribombee",
+        "Evolves From": "Cutiefly",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0744",
+        "Name": "Rockruff",
+        "Evolves From": "",
+        "Evolves To": "Lycanroc",
+        "Evolution Method": "Level 25"
+    },
+    {
+        "S.no": "#0745",
+        "Name": "Lycanroc",
+        "Evolves From": "Rockruff",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0746",
+        "Name": "Wishiwashi",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0747",
+        "Name": "Mareanie",
+        "Evolves From": "",
+        "Evolves To": "Toxapex",
+        "Evolution Method": "Level 38"
+    },
+    {
+        "S.no": "#0748",
+        "Name": "Toxapex",
+        "Evolves From": "Mareanie",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0749",
+        "Name": "Mudbray",
+        "Evolves From": "",
+        "Evolves To": "Mudsdale",
+        "Evolution Method": "Level 30"
+    },
+    {
+        "S.no": "#0750",
+        "Name": "Mudsdale",
+        "Evolves From": "Mudbray",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0751",
+        "Name": "Dewpider",
+        "Evolves From": "",
+        "Evolves To": "Araquanid",
+        "Evolution Method": "Level 22"
+    },
+    {
+        "S.no": "#0752",
+        "Name": "Araquanid",
+        "Evolves From": "Dewpider",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0753",
+        "Name": "Fomantis",
+        "Evolves From": "",
+        "Evolves To": "Lurantis",
+        "Evolution Method": "Level 34 Day"
+    },
+    {
+        "S.no": "#0754",
+        "Name": "Lurantis",
+        "Evolves From": "Fomantis",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0755",
+        "Name": "Morelull",
+        "Evolves From": "",
+        "Evolves To": "Shiinotic",
+        "Evolution Method": "Level 24"
+    },
+    {
+        "S.no": "#0756",
+        "Name": "Shiinotic",
+        "Evolves From": "Morelull",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0757",
+        "Name": "Salandit",
+        "Evolves From": "",
+        "Evolves To": "Salazzle",
+        "Evolution Method": "Female Level 33"
+    },
+    {
+        "S.no": "#0758",
+        "Name": "Salazzle",
+        "Evolves From": "Salandit",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0759",
+        "Name": "Stufful",
+        "Evolves From": "",
+        "Evolves To": "Bewear",
+        "Evolution Method": "Level 27"
+    },
+    {
+        "S.no": "#0760",
+        "Name": "Bewear",
+        "Evolves From": "Stufful",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0761",
+        "Name": "Bounsweet",
+        "Evolves From": "",
+        "Evolves To": "Steenee",
+        "Evolution Method": "Level 18"
+    },
+    {
+        "S.no": "#0762",
+        "Name": "Steenee",
+        "Evolves From": "Bounsweet",
+        "Evolves To": "Tsareena",
+        "Evolution Method": "Level up while knowing Stomp"
+    },
+    {
+        "S.no": "#0763",
+        "Name": "Tsareena",
+        "Evolves From": "Steenee",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0764",
+        "Name": "Comfey",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0765",
+        "Name": "Oranguru",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0766",
+        "Name": "Passimian",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0767",
+        "Name": "Wimpod",
+        "Evolves From": "",
+        "Evolves To": "Golisopod",
+        "Evolution Method": "Level 30"
+    },
+    {
+        "S.no": "#0768",
+        "Name": "Golisopod",
+        "Evolves From": "Wimpod",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0769",
+        "Name": "Sandygast",
+        "Evolves From": "",
+        "Evolves To": "Palossand",
+        "Evolution Method": "Level 42"
+    },
+    {
+        "S.no": "#0770",
+        "Name": "Palossand",
+        "Evolves From": "Sandygast",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0771",
+        "Name": "Pyukumuku",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0772",
+        "Name": "Type: Null",
+        "Evolves From": "",
+        "Evolves To": "Silvally",
+        "Evolution Method": "High Friendship"
+    },
+    {
+        "S.no": "#0773",
+        "Name": "Silvally",
+        "Evolves From": "Type: Null",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0774",
+        "Name": "Minior",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0775",
+        "Name": "Komala",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0776",
+        "Name": "Turtonator",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0777",
+        "Name": "Togedemaru",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0778",
+        "Name": "Mimikyu",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0779",
+        "Name": "Bruxish",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0780",
+        "Name": "Drampa",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0781",
+        "Name": "Dhelmise",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0782",
+        "Name": "Jangmo-o",
+        "Evolves From": "",
+        "Evolves To": "Hakamo-o",
+        "Evolution Method": "Level 35"
+    },
+    {
+        "S.no": "#0783",
+        "Name": "Hakamo-o",
+        "Evolves From": "Jangmo-o",
+        "Evolves To": "Kommo-o",
+        "Evolution Method": "Level 45"
+    },
+    {
+        "S.no": "#0784",
+        "Name": "Kommo-o",
+        "Evolves From": "Hakamo-o",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0785",
+        "Name": "Tapu Koko",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0786",
+        "Name": "Tapu Lele",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0787",
+        "Name": "Tapu Bulu",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0788",
+        "Name": "Tapu Fini",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0789",
+        "Name": "Cosmog",
+        "Evolves From": "",
+        "Evolves To": "Cosmoem",
+        "Evolution Method": "Level 43"
+    },
+    {
+        "S.no": "#0790",
+        "Name": "Cosmoem",
+        "Evolves From": "Cosmog",
+        "Evolves To": "Lunala",
+        "Evolution Method": "Level 53"
+    },
+    {
+        "S.no": "#0791",
+        "Name": "Lunala",
+        "Evolves From": "Cosmoem",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0792",
+        "Name": "Solgaleo",
+        "Evolves From": "Cosmoem",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0793",
+        "Name": "Nihilego",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0794",
+        "Name": "Buzzwole",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0795",
+        "Name": "Pheromosa",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0796",
+        "Name": "Xurkitree",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0797",
+        "Name": "Celesteela",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0798",
+        "Name": "Kartana",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0799",
+        "Name": "Guzzlord",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0800",
+        "Name": "Necrozma",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0801",
+        "Name": "Magearna",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0802",
+        "Name": "Marshadow",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0803",
+        "Name": "Poipole",
+        "Evolves From": "",
+        "Evolves To": "Naganadel",
+        "Evolution Method": "Level up knowing Dragon Pulse"
+    },
+    {
+        "S.no": "#0804",
+        "Name": "Naganadel",
+        "Evolves From": "Poipole",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0805",
+        "Name": "Stakataka",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0806",
+        "Name": "Blacephalon",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0807",
+        "Name": "Zeraora",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0808",
+        "Name": "Meltan",
+        "Evolves From": "",
+        "Evolves To": "Melmetal",
+        "Evolution Method": "400 Meltan Candy"
+    },
+    {
+        "S.no": "#0809",
+        "Name": "Melmetal",
+        "Evolves From": "Meltan",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0810",
+        "Name": "Grookey",
+        "Evolves From": "",
+        "Evolves To": "Thwackey",
+        "Evolution Method": "Level 16"
+    },
+    {
+        "S.no": "#0811",
+        "Name": "Thwackey",
+        "Evolves From": "Grookey",
+        "Evolves To": "Rillaboom",
+        "Evolution Method": "Level 35"
+    },
+    {
+        "S.no": "#0812",
+        "Name": "Rillaboom",
+        "Evolves From": "Thwackey",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0813",
+        "Name": "Scorbunny",
+        "Evolves From": "",
+        "Evolves To": "Raboot",
+        "Evolution Method": "Level 16"
+    },
+    {
+        "S.no": "#0814",
+        "Name": "Raboot",
+        "Evolves From": "Scorbunny",
+        "Evolves To": "Cinderace",
+        "Evolution Method": "Level 35"
+    },
+    {
+        "S.no": "#0815",
+        "Name": "Cinderace",
+        "Evolves From": "Raboot",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0816",
+        "Name": "Sobble",
+        "Evolves From": "",
+        "Evolves To": "Drizzile",
+        "Evolution Method": "Level 16"
+    },
+    {
+        "S.no": "#0817",
+        "Name": "Drizzile",
+        "Evolves From": "Sobble",
+        "Evolves To": "Inteleon",
+        "Evolution Method": "Level 35"
+    },
+    {
+        "S.no": "#0818",
+        "Name": "Inteleon",
+        "Evolves From": "Drizzile",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0819",
+        "Name": "Skwovet",
+        "Evolves From": "",
+        "Evolves To": "Greedent",
+        "Evolution Method": "Level 24"
+    },
+    {
+        "S.no": "#0820",
+        "Name": "Greedent",
+        "Evolves From": "Skwovet",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0821",
+        "Name": "Rookidee",
+        "Evolves From": "",
+        "Evolves To": "Corvisquire",
+        "Evolution Method": "Level 18"
+    },
+    {
+        "S.no": "#0822",
+        "Name": "Corvisquire",
+        "Evolves From": "Rookidee",
+        "Evolves To": "Corviknight",
+        "Evolution Method": "Level 38"
+    },
+    {
+        "S.no": "#0823",
+        "Name": "Corviknight",
+        "Evolves From": "Corvisquire",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0824",
+        "Name": "Blipbug",
+        "Evolves From": "",
+        "Evolves To": "Dottler",
+        "Evolution Method": "Level 10"
+    },
+    {
+        "S.no": "#0825",
+        "Name": "Dottler",
+        "Evolves From": "Blipbug",
+        "Evolves To": "Orbeetle",
+        "Evolution Method": "Level 30"
+    },
+    {
+        "S.no": "#0826",
+        "Name": "Orbeetle",
+        "Evolves From": "Dottler",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0827",
+        "Name": "Nickit",
+        "Evolves From": "",
+        "Evolves To": "Thievul",
+        "Evolution Method": "Level 18"
+    },
+    {
+        "S.no": "#0828",
+        "Name": "Thievul",
+        "Evolves From": "Nickit",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0829",
+        "Name": "Gossifleur",
+        "Evolves From": "",
+        "Evolves To": "Eldegoss",
+        "Evolution Method": "Level 20"
+    },
+    {
+        "S.no": "#0830",
+        "Name": "Eldegoss",
+        "Evolves From": "Gossifleur",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0831",
+        "Name": "Wooloo",
+        "Evolves From": "",
+        "Evolves To": "Dubwool",
+        "Evolution Method": "Level 24"
+    },
+    {
+        "S.no": "#0832",
+        "Name": "Dubwool",
+        "Evolves From": "Wooloo",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0833",
+        "Name": "Chewtle",
+        "Evolves From": "",
+        "Evolves To": "Drednaw",
+        "Evolution Method": "Level 22"
+    },
+    {
+        "S.no": "#0834",
+        "Name": "Drednaw",
+        "Evolves From": "Chewtle",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0835",
+        "Name": "Yamper",
+        "Evolves From": "",
+        "Evolves To": "Boltund",
+        "Evolution Method": "Level 25"
+    },
+    {
+        "S.no": "#0836",
+        "Name": "Boltund",
+        "Evolves From": "Yamper",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0837",
+        "Name": "Rolycoly",
+        "Evolves From": "",
+        "Evolves To": "Carkol",
+        "Evolution Method": "Level 18"
+    },
+    {
+        "S.no": "#0838",
+        "Name": "Carkol",
+        "Evolves From": "Rolycoly",
+        "Evolves To": "Coalossal",
+        "Evolution Method": "Level 34"
+    },
+    {
+        "S.no": "#0839",
+        "Name": "Coalossal",
+        "Evolves From": "Carkol",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0840",
+        "Name": "Applin",
+        "Evolves From": "",
+        "Evolves To": "Flapple",
+        "Evolution Method": " Tart Apple"
+    },
+    {
+        "S.no": "#0841",
+        "Name": "Flapple",
+        "Evolves From": "Applin",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0842",
+        "Name": "Appletun",
+        "Evolves From": "Applin",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0843",
+        "Name": "Silicobra",
+        "Evolves From": "",
+        "Evolves To": "Sandaconda",
+        "Evolution Method": "Level 36"
+    },
+    {
+        "S.no": "#0844",
+        "Name": "Sandaconda",
+        "Evolves From": "Silicobra",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0845",
+        "Name": "Cramorant",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0846",
+        "Name": "Arrokuda",
+        "Evolves From": "",
+        "Evolves To": "Barraskewda",
+        "Evolution Method": "Level 26"
+    },
+    {
+        "S.no": "#0847",
+        "Name": "Barraskewda",
+        "Evolves From": "Arrokuda",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0848",
+        "Name": "Toxel",
+        "Evolves From": "",
+        "Evolves To": "Toxtricity",
+        "Evolution Method": "Level 30"
+    },
+    {
+        "S.no": "#0849",
+        "Name": "Toxtricity",
+        "Evolves From": "Toxel",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0850",
+        "Name": "Sizzlipede",
+        "Evolves From": "",
+        "Evolves To": "Centiskorch",
+        "Evolution Method": "Level 28"
+    },
+    {
+        "S.no": "#0851",
+        "Name": "Centiskorch",
+        "Evolves From": "Sizzlipede",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0852",
+        "Name": "Clobbopus",
+        "Evolves From": "",
+        "Evolves To": "Grapploct",
+        "Evolution Method": "Level up while knowing Taunt"
+    },
+    {
+        "S.no": "#0853",
+        "Name": "Grapploct",
+        "Evolves From": "Clobbopus",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0854",
+        "Name": "Sinistea",
+        "Evolves From": "",
+        "Evolves To": "Polteageist",
+        "Evolution Method": "Cracked Pot/Chipped Pot"
+    },
+    {
+        "S.no": "#0855",
+        "Name": "Polteageist",
+        "Evolves From": "Sinistea",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0856",
+        "Name": "Hatenna",
+        "Evolves From": "",
+        "Evolves To": "Hattrem",
+        "Evolution Method": "Level 32"
+    },
+    {
+        "S.no": "#0857",
+        "Name": "Hattrem",
+        "Evolves From": "Hatenna",
+        "Evolves To": "Hatterene",
+        "Evolution Method": "Level 42"
+    },
+    {
+        "S.no": "#0858",
+        "Name": "Hatterene",
+        "Evolves From": "Hattrem",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0859",
+        "Name": "Impidimp",
+        "Evolves From": "",
+        "Evolves To": "Morgrem",
+        "Evolution Method": "Level 32"
+    },
+    {
+        "S.no": "#0860",
+        "Name": "Morgrem",
+        "Evolves From": "Impidimp",
+        "Evolves To": "Grimmsnarl",
+        "Evolution Method": "Level 42"
+    },
+    {
+        "S.no": "#0861",
+        "Name": "Grimmsnarl",
+        "Evolves From": "Morgrem",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0862",
+        "Name": "Obstagoon",
+        "Evolves From": "Galarian Linoone",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0863",
+        "Name": " Perrserker",
+        "Evolves From": "Galarian Meowth",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0864",
+        "Name": "Cursola",
+        "Evolves From": "Galarian Corsola",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0865",
+        "Name": " Sirfetch'd",
+        "Evolves From": "Galarian Farfetch'd",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0866",
+        "Name": "Mr. Rime",
+        "Evolves From": "Galarian Mr. Mime",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0867",
+        "Name": "Runerigus",
+        "Evolves From": "Galarian Yamask",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0868",
+        "Name": "Milcery",
+        "Evolves From": "",
+        "Evolves To": "Alcremie",
+        "Evolution Method": "Sweet"
+    },
+    {
+        "S.no": "#0869",
+        "Name": "Alcremie",
+        "Evolves From": "Milcery",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0870",
+        "Name": "Falinks",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0871",
+        "Name": "Pincurchin",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0872",
+        "Name": "Snom",
+        "Evolves From": "",
+        "Evolves To": "Frosmoth",
+        "Evolution Method": "High Friendship at Night"
+    },
+    {
+        "S.no": "#0873",
+        "Name": "Frosmoth",
+        "Evolves From": "Snom",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0874",
+        "Name": "Stonjourner",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0875",
+        "Name": "Eiscue",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0876",
+        "Name": "Indeedee",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0877",
+        "Name": "Morpeko",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0878",
+        "Name": "Cufant",
+        "Evolves From": "",
+        "Evolves To": "Copperajah",
+        "Evolution Method": "Level 34"
+    },
+    {
+        "S.no": "#0879",
+        "Name": "Copperajah",
+        "Evolves From": "Cufant",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0880",
+        "Name": "Dracozolt",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0881",
+        "Name": "Arctozolt",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0882",
+        "Name": "Dracovish",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0883",
+        "Name": "Arctovish",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0884",
+        "Name": "Duraludon",
+        "Evolves From": "",
+        "Evolves To": "Archaludon",
+        "Evolution Method": "Use Metal Alloy"
+    },
+    {
+        "S.no": "#0885",
+        "Name": "Dreepy",
+        "Evolves From": "",
+        "Evolves To": "Drakloak",
+        "Evolution Method": "Level 50"
+    },
+    {
+        "S.no": "#0886",
+        "Name": "Drakloak",
+        "Evolves From": "Dreepy",
+        "Evolves To": "Dragapult",
+        "Evolution Method": "Level 60"
+    },
+    {
+        "S.no": "#0887",
+        "Name": "Dragapult",
+        "Evolves From": "Drakloak",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0888",
+        "Name": "Zacian",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0889",
+        "Name": "Zamazenta",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0890",
+        "Name": "Eternatus",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0891",
+        "Name": "Kubfu",
+        "Evolves From": "",
+        "Evolves To": "Urshifu",
+        "Evolution Method": "Scroll of Darkness/Scroll of Waters"
+    },
+    {
+        "S.no": "#0892",
+        "Name": "Urshifu",
+        "Evolves From": "Kubfu",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0893",
+        "Name": "Zarude",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0894",
+        "Name": "Regieleki",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0895",
+        "Name": "Regidrago",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0896",
+        "Name": "Glastrier",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0897",
+        "Name": "Spectrier",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0898",
+        "Name": "Calyrex",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0899",
+        "Name": "Wyrdeer",
+        "Evolves From": "Stantler",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0900",
+        "Name": "Kleavor",
+        "Evolves From": "Scyther",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0901",
+        "Name": "Ursaluna",
+        "Evolves From": "Ursaring",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0902",
+        "Name": "Basculegion",
+        "Evolves From": "Basculin",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0903",
+        "Name": "Sneasler",
+        "Evolves From": "Sneasel",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0904",
+        "Name": "Overqwil",
+        "Evolves From": "Qwilfish",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0905",
+        "Name": "Enamorus",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0906",
+        "Name": "Sprigatito",
+        "Evolves From": "",
+        "Evolves To": "Floragato",
+        "Evolution Method": "Level 16"
+    },
+    {
+        "S.no": "#0907",
+        "Name": "Floragato",
+        "Evolves From": "Sprigatito",
+        "Evolves To": "Meowscarada",
+        "Evolution Method": "Level 36"
+    },
+    {
+        "S.no": "#0908",
+        "Name": "Meowscarada",
+        "Evolves From": "Floragato",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0909",
+        "Name": "Fuecoco",
+        "Evolves From": "",
+        "Evolves To": "Crocalor",
+        "Evolution Method": "Level 16"
+    },
+    {
+        "S.no": "#0910",
+        "Name": "Crocalor",
+        "Evolves From": "Fuecoco",
+        "Evolves To": "Skeledirge",
+        "Evolution Method": "Level 36"
+    },
+    {
+        "S.no": "#0911",
+        "Name": "Skeledirge",
+        "Evolves From": "Crocalor",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0912",
+        "Name": "Quaxly",
+        "Evolves From": "",
+        "Evolves To": "Quaxwell",
+        "Evolution Method": "Level 16"
+    },
+    {
+        "S.no": "#0913",
+        "Name": "Quaxwell",
+        "Evolves From": "Quaxly",
+        "Evolves To": "Quaquaval",
+        "Evolution Method": "Level 36"
+    },
+    {
+        "S.no": "#0914",
+        "Name": "Quaquaval",
+        "Evolves From": "Quaxwell",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0915",
+        "Name": "Lechonk",
+        "Evolves From": "",
+        "Evolves To": "Oinkologne",
+        "Evolution Method": "Level 18"
+    },
+    {
+        "S.no": "#0916",
+        "Name": "Oinkologne",
+        "Evolves From": "Lechonk",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0917",
+        "Name": "Tarountula",
+        "Evolves From": "",
+        "Evolves To": "Spidops",
+        "Evolution Method": "Level 15"
+    },
+    {
+        "S.no": "#0918",
+        "Name": "Spidops",
+        "Evolves From": "Tarountula",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0919",
+        "Name": "Nymble",
+        "Evolves From": "",
+        "Evolves To": "Lokix",
+        "Evolution Method": "Level 24"
+    },
+    {
+        "S.no": "#0920",
+        "Name": "Lokix",
+        "Evolves From": "Nymble",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0921",
+        "Name": "Pawmi",
+        "Evolves From": "",
+        "Evolves To": "Pawmo",
+        "Evolution Method": "Level 18"
+    },
+    {
+        "S.no": "#0922",
+        "Name": "Pawmo",
+        "Evolves From": "Pawmi",
+        "Evolves To": "Pawmot",
+        "Evolution Method": "Walk 1000 steps"
+    },
+    {
+        "S.no": "#0923",
+        "Name": "Pawmot",
+        "Evolves From": "Pawmo",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0924",
+        "Name": "Tandemaus",
+        "Evolves From": "",
+        "Evolves To": "Maushold",
+        "Evolution Method": "Level 25"
+    },
+    {
+        "S.no": "#0925",
+        "Name": "Maushold",
+        "Evolves From": "Tandemaus",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0926",
+        "Name": "Fidough",
+        "Evolves From": "",
+        "Evolves To": "Dachsbun",
+        "Evolution Method": "Level 26"
+    },
+    {
+        "S.no": "#0927",
+        "Name": "Dachsbun",
+        "Evolves From": "Fidough",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0928",
+        "Name": "Smoliv",
+        "Evolves From": "",
+        "Evolves To": "Dolliv",
+        "Evolution Method": "Level 25"
+    },
+    {
+        "S.no": "#0929",
+        "Name": "Dolliv",
+        "Evolves From": "Smoliv",
+        "Evolves To": "Arboliva",
+        "Evolution Method": "Level 35"
+    },
+    {
+        "S.no": "#0930",
+        "Name": "Arboliva",
+        "Evolves From": "Dolliv",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0931",
+        "Name": "Squawkabilly",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0932",
+        "Name": "Nacli",
+        "Evolves From": "",
+        "Evolves To": "Naclstack",
+        "Evolution Method": "Level 24"
+    },
+    {
+        "S.no": "#0933",
+        "Name": "Naclstack",
+        "Evolves From": "Nacli",
+        "Evolves To": "Garganacl",
+        "Evolution Method": "Level 38"
+    },
+    {
+        "S.no": "#0934",
+        "Name": "Garganacl",
+        "Evolves From": "Naclstack",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0935",
+        "Name": "Charcadet",
+        "Evolves From": "",
+        "Evolves To": "Armarouge",
+        "Evolution Method": "Auspect of Armor"
+    },
+    {
+        "S.no": "#0936",
+        "Name": "Armarouge",
+        "Evolves From": "Charcadet",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0937",
+        "Name": "Ceruledge",
+        "Evolves From": "Charcadet",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0938",
+        "Name": "Tadbulb",
+        "Evolves From": "",
+        "Evolves To": "Bellibolt",
+        "Evolution Method": "Thunder Stone"
+    },
+    {
+        "S.no": "#0939",
+        "Name": "Bellibolt",
+        "Evolves From": "Tadbulb",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0940",
+        "Name": "Wattrel",
+        "Evolves From": "",
+        "Evolves To": "Kilowattrel",
+        "Evolution Method": "Level 25"
+    },
+    {
+        "S.no": "#0941",
+        "Name": "Kilowattrel",
+        "Evolves From": "Wattrel",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0942",
+        "Name": "Maschiff",
+        "Evolves From": "",
+        "Evolves To": "Mabosstiff",
+        "Evolution Method": "Level 30"
+    },
+    {
+        "S.no": "#0943",
+        "Name": "Mabosstiff",
+        "Evolves From": "Maschiff",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0944",
+        "Name": "Shroodle",
+        "Evolves From": "",
+        "Evolves To": "Grafaiai",
+        "Evolution Method": "Level 28"
+    },
+    {
+        "S.no": "#0945",
+        "Name": "Grafaiai",
+        "Evolves From": "Shroodle",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0946",
+        "Name": "Brute Bonnet",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0947",
+        "Name": "Toedscool",
+        "Evolves From": "",
+        "Evolves To": "Toedscruel",
+        "Evolution Method": "Level 30"
+    },
+    {
+        "S.no": "#0948",
+        "Name": "Toedscruel",
+        "Evolves From": "Toedscool",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0949",
+        "Name": "Flamigo",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0950",
+        "Name": "Cetoddle",
+        "Evolves From": "",
+        "Evolves To": "Cetitan",
+        "Evolution Method": "Ice Stone"
+    },
+    {
+        "S.no": "#0951",
+        "Name": "Cetitan",
+        "Evolves From": "Cetoddle",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0952",
+        "Name": "Veluza",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0953",
+        "Name": "Finizen",
+        "Evolves From": "",
+        "Evolves To": "Palafin",
+        "Evolution Method": "Level 38 in Union Circle"
+    },
+    {
+        "S.no": "#0954",
+        "Name": "Palafin",
+        "Evolves From": "Finizen",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0955",
+        "Name": "Varoom",
+        "Evolves From": "",
+        "Evolves To": "Revavroom",
+        "Evolution Method": "Level 40"
+    },
+    {
+        "S.no": "#0956",
+        "Name": "Revavroom",
+        "Evolves From": "Varoom",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0957",
+        "Name": "Cyclizar",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0958",
+        "Name": "Orthworm",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0959",
+        "Name": "Glimmet",
+        "Evolves From": "",
+        "Evolves To": "Glimmora",
+        "Evolution Method": "Level 35"
+    },
+    {
+        "S.no": "#0960",
+        "Name": "Glimmora",
+        "Evolves From": "Glimmet",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0961",
+        "Name": "Greavard",
+        "Evolves From": "",
+        "Evolves To": "Houndstone",
+        "Evolution Method": "Level 30 Night"
+    },
+    {
+        "S.no": "#0962",
+        "Name": "Houndstone",
+        "Evolves From": "Greavard",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0963",
+        "Name": "Flamigo",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0964",
+        "Name": "Finizen",
+        "Evolves From": "",
+        "Evolves To": "Palafin",
+        "Evolution Method": "Level 38 in Union Circle"
+    },
+    {
+        "S.no": "#0965",
+        "Name": "Varoom",
+        "Evolves From": "",
+        "Evolves To": "Revavroom",
+        "Evolution Method": "Level 40"
+    },
+    {
+        "S.no": "#0966",
+        "Name": "Revavroom",
+        "Evolves From": "Varoom",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0967",
+        "Name": "Cyclizar",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0968",
+        "Name": "Orthworm",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0969",
+        "Name": "Glimmet",
+        "Evolves From": "",
+        "Evolves To": "Glimmora",
+        "Evolution Method": "Level 35"
+    },
+    {
+        "S.no": "#0970",
+        "Name": "Glimmora",
+        "Evolves From": "Glimmet",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0971",
+        "Name": "Greavard",
+        "Evolves From": "",
+        "Evolves To": "Houndstone",
+        "Evolution Method": "Level 30 Night"
+    },
+    {
+        "S.no": "#0972",
+        "Name": "Houndstone",
+        "Evolves From": "Greavard",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0973",
+        "Name": "Flamigo",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0974",
+        "Name": "Cetoddle",
+        "Evolves From": "",
+        "Evolves To": "Cetitan",
+        "Evolution Method": "Ice Stone"
+    },
+    {
+        "S.no": "#0975",
+        "Name": "Cetitan",
+        "Evolves From": "Cetoddle",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0976",
+        "Name": "Veluza",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0977",
+        "Name": "Dondozo",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0978",
+        "Name": "Tatsugiri",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0979",
+        "Name": "Annihilape",
+        "Evolves From": "Primeape",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0980",
+        "Name": "Clodsire",
+        "Evolves From": "Paldean Wooper",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0981",
+        "Name": "Farigiraf",
+        "Evolves From": "Girafarig",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0982",
+        "Name": "Dudunsparce",
+        "Evolves From": "Dunsparce",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0983",
+        "Name": "Kingambit",
+        "Evolves From": "Bisharp",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0984",
+        "Name": "Great Tusk",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0985",
+        "Name": "Scream Tail",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0986",
+        "Name": "Brute Bonnet",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0987",
+        "Name": "Flutter Mane",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0988",
+        "Name": "Slither Wing",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0989",
+        "Name": "Sandy Shocks",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0990",
+        "Name": "Iron Treads",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0991",
+        "Name": "Iron Bundle",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0992",
+        "Name": "Iron Hands",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0993",
+        "Name": "Iron Jugulis",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0994",
+        "Name": "Iron Moth",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0995",
+        "Name": "Iron Thorns",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0996",
+        "Name": "Frigibax",
+        "Evolves From": "",
+        "Evolves To": "Arctibax",
+        "Evolution Method": "Level 35"
+    },
+    {
+        "S.no": "#0997",
+        "Name": "Arctibax",
+        "Evolves From": "Frigibax",
+        "Evolves To": "Baxcalibur",
+        "Evolution Method": "Level 54"
+    },
+    {
+        "S.no": "#0998",
+        "Name": "Baxcalibur",
+        "Evolves From": "Arctibax",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0999",
+        "Name": "Gimmighoul",
+        "Evolves From": "",
+        "Evolves To": "Gholdengo",
+        "Evolution Method": "Collect 999 Gimmighoul Coins"
+    },
+    {
+        "S.no": "#1000",
+        "Name": "Gholdengo",
+        "Evolves From": "Gimmighoul",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#1001",
+        "Name": "Wo-Chien",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#1002",
+        "Name": "Chien-Pao",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#1003",
+        "Name": "Ting-Lu",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#1004",
+        "Name": "Chi-Yu",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#1005",
+        "Name": "Raging Bolt",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#1006",
+        "Name": "Iron Boulder",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#1007",
+        "Name": "Koraidon",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#1008",
+        "Name": "Miraidon",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#1009",
+        "Name": "Walking Wake",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#1010",
+        "Name": "Iron Leaves",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#1011",
+        "Name": "Poltchageist",
+        "Evolves From": "",
+        "Evolves To": "Sinistcha",
+        "Evolution Method": "Use Unremarkable Teacup/Masterpiece Teacup"
+    },
+    {
+        "S.no": "#1012",
+        "Name": "Sinistcha",
+        "Evolves From": "Poltchageist",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#1013",
+        "Name": "Okidogi",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#1014",
+        "Name": "Munkidori",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#1015",
+        "Name": "Fezandipiti",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#1016",
+        "Name": "Pecharunt",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#1017",
+        "Name": "Ogerpon",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#1018",
+        "Name": "Archaludon",
+        "Evolves From": "Duraludon",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#1019",
+        "Name": "Hydrapple",
+        "Evolves From": "Applin",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#1020",
+        "Name": "Gouging Fire",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#1021",
+        "Name": "Raging Bolt",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#1022",
+        "Name": "Iron Boulder",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#1023",
+        "Name": "Iron Crown",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#1024",
+        "Name": "Terapagos",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#1025",
+        "Name": "Pecharunt",
+        "Evolves From": "",
+        "Evolves To": "",
+        "Evolution Method": ""
+    }
+]
