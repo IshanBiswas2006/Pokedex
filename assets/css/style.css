@@ -3,11 +3,10 @@
 ======================================== */
 
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-
 
 /* ========================================
    HTML / BODY
@@ -15,171 +14,205 @@
 
 html,
 body {
-    min-height: 100%;
+  min-height: 100%;
 
-    font-family:
-        Arial,
-        Helvetica,
-        sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
-
 
 body {
-    min-height: 100vh;
+  min-height: 100vh;
 
-    background:
-        linear-gradient(
-            135deg,
-            #e53935 0%,
-            #ff6f61 45%,
-            #ffd54f 100%
-        );
-
-    background-attachment: fixed;
-
-    transition:
-        background 0.5s ease,
-        color 0.5s ease;
+  background: #e0e0e0;
 }
-
 
 /* ========================================
    HEADER
 ======================================== */
 
 header {
-    width: 100%;
-    padding: 20px 50px;
+  width: 100%;
+  padding: 20px 50px;
 }
-
 
 nav {
-    display: flex;
+  display: flex;
 
-    align-items: center;
+  align-items: center;
 
-    justify-content: space-between;
+  justify-content: space-between;
 }
-
 
 nav img {
-    width: 50px;
-    height: 50px;
+  width: 50px;
+  height: 50px;
 
-    object-fit: contain;
+  object-fit: contain;
 }
-
 
 nav h1 {
-    color: white;
+  color: #222;
 
-    font-size: 36px;
-    font-weight: 800;
+  font-size: 36px;
+  font-weight: 800;
 }
-
 
 nav button {
-    padding: 11px 20px;
+  width: 60px;
+  height: 32px;
 
-    border: none;
-    border-radius: 25px;
+  padding: 0;
 
-    background: white;
-    color: #222;
+  border: none;
+  border-radius: 20px;
 
-    font-size: 14px;
-    font-weight: bold;
+  background: #e0e0e0;
 
-    cursor: pointer;
+  cursor: pointer;
 
-    transition:
-        transform 0.3s ease,
-        background 0.3s ease;
+  position: relative;
+
+  box-shadow:
+    inset 4px 4px 8px rgba(0, 0, 0, 0.15),
+    inset -4px -4px 8px rgba(255, 255, 255, 0.7);
+
+  transition: 0.3s ease;
 }
 
+/* Toggle circle */
+nav button::before {
+  content: "🌙";
 
-nav button:hover {
-    transform: scale(1.05);
+  position: absolute;
+
+  top: 4px;
+  left: 4px;
+
+  width: 24px;
+  height: 24px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  border-radius: 50%;
+
+  background: #e0e0e0;
+
+  font-size: 13px;
+
+  box-shadow:
+    3px 3px 6px rgba(0, 0, 0, 0.2),
+    -3px -3px 6px rgba(255, 255, 255, 0.8);
+
+  transition: 0.3s ease;
 }
 
+/* Night mode */
+body.night nav button {
+  background: #1e293b;
+
+  box-shadow:
+    inset 4px 4px 8px rgba(0, 0, 0, 0.4),
+    inset -4px -4px 8px rgba(71, 85, 105, 0.3);
+}
+
+body.night nav button::before {
+  content: "☀️";
+
+  left: 32px;
+
+  background: #334155;
+
+  box-shadow:
+    3px 3px 6px rgba(0, 0, 0, 0.4),
+    -3px -3px 6px rgba(71, 85, 105, 0.3);
+}
 
 /* ========================================
    MAIN
 ======================================== */
 
 main {
-    width: 90%;
-    max-width: 1100px;
+  width: 90%;
+  max-width: 1100px;
 
-    margin: 30px auto 60px;
+  margin: 30px auto 60px;
+
+  background: #e0e0e0;
+  border-radius: 20px;
+
+  padding: 30px;
+
+  box-shadow:
+    10px 10px 20px rgba(0, 0, 0, 0.15),
+    -10px -10px 20px rgba(255, 255, 255, 0.7);
 }
-
 
 /* ========================================
    SEARCH
 ======================================== */
 
 .search-section {
-    text-align: center;
+  text-align: center;
 
-    margin-bottom: 35px;
+  margin-bottom: 35px;
 }
-
 
 .search-section label {
-    display: block;
+  display: block;
 
-    margin-bottom: 12px;
+  margin-bottom: 12px;
 
-    color: white;
+  color: #222;
 
-    font-size: 20px;
-    font-weight: bold;
+  font-size: 20px;
+  font-weight: bold;
 }
-
 
 .search-box {
-    display: flex;
+  display: flex;
 
-    justify-content: center;
-    align-items: flex-start;
+  justify-content: center;
+  align-items: flex-start;
 
-    gap: 10px;
+  gap: 10px;
 }
-
-
 /* ========================================
    SEARCH INPUT
 ======================================== */
 
 .search-input-wrapper {
-    position: relative;
+  position: relative;
 
-    width: 320px;
+  width: 320px;
 }
-
 
 .search-input-wrapper input {
-    width: 100%;
+  width: 100%;
 
-    padding: 13px 16px;
+  padding: 13px 16px;
 
-    border: none;
-    border-radius: 10px;
+  border: none;
+  border-radius: 10px;
 
-    outline: none;
+  outline: none;
 
-    font-size: 16px;
+  background: #e0e0e0;
+  color: #222;
 
-    transition:
-        box-shadow 0.3s ease;
+  font-size: 16px;
+
+  box-shadow:
+    inset 5px 5px 10px rgba(0, 0, 0, 0.15),
+    inset -5px -5px 10px rgba(255, 255, 255, 0.7);
+
+  transition: box-shadow 0.3s ease;
 }
 
-
 .search-input-wrapper input:focus {
-    box-shadow:
-        0 0 0 3px
-        rgba(255, 255, 255, 0.35);
+  box-shadow:
+    inset 3px 3px 7px rgba(0, 0, 0, 0.15),
+    inset -3px -3px 7px rgba(255, 255, 255, 0.7);
 }
 
 
@@ -188,716 +221,788 @@ main {
 ======================================== */
 
 .search-box button {
-    padding: 13px 25px;
+  padding: 13px 25px;
 
-    border: none;
-    border-radius: 10px;
+  border: none;
+  border-radius: 10px;
 
-    background: #222;
-    color: white;
+  background: #e0e0e0;
+  color: #222;
 
-    font-size: 16px;
-    font-weight: bold;
+  font-size: 16px;
+  font-weight: bold;
 
-    cursor: pointer;
+  cursor: pointer;
 
-    transition:
-        background 0.3s ease,
-        transform 0.3s ease;
+  box-shadow:
+    6px 6px 12px rgba(0, 0, 0, 0.15),
+    -6px -6px 12px rgba(255, 255, 255, 0.7);
+
+  transition: box-shadow 0.3s ease;
 }
-
 
 .search-box button:hover {
-    background: #000;
-
-    transform:
-        translateY(-2px);
+  box-shadow:
+    3px 3px 6px rgba(0, 0, 0, 0.15),
+    -3px -3px 6px rgba(255, 255, 255, 0.7);
 }
 
+.search-box button:active {
+  box-shadow:
+    inset 3px 3px 6px rgba(0, 0, 0, 0.15),
+    inset -3px -3px 6px rgba(255, 255, 255, 0.7);
+}
 
 /* ========================================
    SUGGESTIONS
 ======================================== */
 
 .suggestions {
-    position: absolute;
+  position: absolute;
 
-    top: calc(100% + 5px);
-    left: 0;
+  top: calc(100% + 5px);
+  left: 0;
 
-    width: 100%;
-    max-height: 250px;
+  width: 100%;
+  max-height: 250px;
 
-    overflow-y: auto;
+  overflow-y: auto;
 
-    background: white;
+  background: #e0e0e0;
 
-    border-radius: 10px;
+  border-radius: 10px;
 
-    box-shadow:
-        0 10px 25px
-        rgba(0, 0, 0, 0.2);
+  box-shadow:
+    6px 6px 12px rgba(0, 0, 0, 0.15),
+    -6px -6px 12px rgba(255, 255, 255, 0.7);
 
-    z-index: 1000;
+  z-index: 1000;
 
-    display: none;
+  display: none;
 
-    text-align: left;
+  text-align: left;
 }
-
 
 .suggestion-item {
-    padding: 12px 16px;
+  padding: 12px 16px;
 
-    color: #222;
+  color: #222;
 
-    font-size: 15px;
-    font-weight: bold;
+  font-size: 15px;
+  font-weight: bold;
 
-    cursor: pointer;
+  cursor: pointer;
 
-    transition:
-        background 0.2s ease;
+  transition: box-shadow 0.2s ease;
 }
-
 
 .suggestion-item:hover {
-    background: #f1f1f1;
-}
+  background: #e0e0e0;
 
+  box-shadow:
+    inset 3px 3px 6px rgba(0, 0, 0, 0.12),
+    inset -3px -3px 6px rgba(255, 255, 255, 0.7);
+}
 
 /* ========================================
    POKÉMON CARD
 ======================================== */
 
 .pokemon-card {
-    display: grid;
+  display: grid;
 
-    grid-template-columns: 40% 60%;
+  grid-template-columns: 40% 60%;
 
-    min-height: 400px;
+  min-height: 400px;
 
-    padding: 30px;
+  padding: 30px;
 
-    background:
-        rgba(255, 255, 255, 0.92);
+  background: #e0e0e0;
 
-    border-radius: 25px;
+  border-radius: 25px;
 
-    box-shadow:
-        0 15px 40px
-        rgba(0, 0, 0, 0.2);
+  box-shadow:
+    12px 12px 24px rgba(0, 0, 0, 0.15),
+    -12px -12px 24px rgba(255, 255, 255, 0.7);
 
-    transition:
-        background 0.5s ease;
+  transition: box-shadow 0.3s ease;
 }
 
+.pokemon-card:hover {
+  box-shadow:
+    8px 8px 16px rgba(0, 0, 0, 0.15),
+    -8px -8px 16px rgba(255, 255, 255, 0.7);
+}
 
 /* ========================================
    POKÉMON IMAGE
 ======================================== */
 
 .pokemon-image {
-    display: flex;
+  display: flex;
 
-    justify-content: center;
-    align-items: center;
+  justify-content: center;
+  align-items: center;
 
-    min-height: 330px;
+  min-height: 330px;
+
+  background: #e0e0e0;
+
+  border-radius: 20px;
+
+  box-shadow:
+    inset 8px 8px 16px rgba(0, 0, 0, 0.15),
+    inset -8px -8px 16px rgba(255, 255, 255, 0.7);
 }
-
 
 .pokemon-image img {
-    width: 280px;
-    height: 280px;
+  width: 280px;
+  height: 280px;
 
-    object-fit: contain;
+  object-fit: contain;
 
-    transition:
-        transform 0.3s ease;
+  transition: transform 0.3s ease;
 }
-
 
 .pokemon-image img:hover {
-    transform: scale(1.08);
+  transform: scale(1.08);
 }
-
 
 /* ========================================
    POKÉMON INFO
 ======================================== */
 
 .pokemon-info {
-    padding: 20px;
+  padding: 20px;
 }
-
 
 .pokemon-info h2 {
-    margin-bottom: 25px;
+  margin-bottom: 25px;
 
-    color: #222;
+  color: #222;
 
-    font-size: 32px;
+  font-size: 32px;
 }
-
 
 .info-grid {
-    display: grid;
+  display: grid;
 
-    grid-template-columns:
-        repeat(2, 1fr);
+  grid-template-columns: repeat(2, 1fr);
 
-    gap: 15px;
+  gap: 15px;
 }
-
 
 .info-item {
-    padding: 16px;
+  padding: 16px;
 
-    border-radius: 12px;
+  border-radius: 12px;
 
-    background: #f4f4f4;
+  background: #e0e0e0;
 
-    transition:
-        transform 0.2s ease,
-        background 0.3s ease;
+  box-shadow:
+    6px 6px 12px rgba(0, 0, 0, 0.15),
+    -6px -6px 12px rgba(255, 255, 255, 0.7);
+
+  transition:
+    box-shadow 0.3s ease;
 }
-
 
 .info-item:hover {
-    transform: translateY(-3px);
+  box-shadow:
+    3px 3px 6px rgba(0, 0, 0, 0.15),
+    -3px -3px 6px rgba(255, 255, 255, 0.7);
 }
-
 
 .info-item span {
-    display: block;
+  display: block;
 
-    margin-bottom: 7px;
+  margin-bottom: 7px;
 
-    color: #777;
+  color: #777;
 
-    font-size: 13px;
-    font-weight: bold;
+  font-size: 13px;
+  font-weight: bold;
 
-    text-transform: uppercase;
+  text-transform: uppercase;
 }
-
 
 .info-item p {
-    color: #222;
+  color: #222;
 
-    font-size: 17px;
-    font-weight: bold;
+  font-size: 17px;
+  font-weight: bold;
 }
-
 
 /* ========================================
    EVOLUTION SECTION
 ======================================== */
 
 .evolution-section {
-    margin-top: 30px;
+  margin-top: 30px;
 
-    padding: 30px;
+  padding: 30px;
 
-    background:
-        rgba(255, 255, 255, 0.92);
+  background: #e0e0e0;
 
-    border-radius: 25px;
+  border-radius: 25px;
 
-    box-shadow:
-        0 15px 40px
-        rgba(0, 0, 0, 0.2);
+  box-shadow:
+    12px 12px 24px rgba(0, 0, 0, 0.15),
+    -12px -12px 24px rgba(255, 255, 255, 0.7);
 
-    transition:
-        background 0.5s ease;
+  transition: box-shadow 0.3s ease;
 }
 
+.evolution-section:hover {
+  box-shadow:
+    8px 8px 16px rgba(0, 0, 0, 0.15),
+    -8px -8px 16px rgba(255, 255, 255, 0.7);
+}
 
 /* ========================================
    EVOLUTION HEADER
 ======================================== */
 
 .evolution-header {
-    display: flex;
+  display: flex;
 
-    justify-content: space-between;
-    align-items: center;
+  justify-content: space-between;
+  align-items: center;
 
-    margin-bottom: 25px;
+  margin-bottom: 25px;
 }
-
 
 .evolution-header h2 {
-    color: #222;
+  color: #222;
 
-    font-size: 28px;
+  font-size: 28px;
 }
-
 
 #evolutionStatus {
-    padding: 8px 14px;
+  padding: 8px 14px;
 
-    border-radius: 20px;
+  border-radius: 20px;
 
-    background: #f1f1f1;
+  background: #e0e0e0;
 
-    color: #555;
+  color: #555;
 
-    font-size: 14px;
-    font-weight: bold;
+  font-size: 14px;
+  font-weight: bold;
+
+  box-shadow:
+    inset 3px 3px 6px rgba(0, 0, 0, 0.12),
+    inset -3px -3px 6px rgba(255, 255, 255, 0.7);
 }
-
 
 /* ========================================
    EVOLUTION CHAIN
 ======================================== */
 
 .evolution-chain {
-    display: flex;
+  display: flex;
 
-    justify-content: center;
-    align-items: center;
+  justify-content: center;
+  align-items: center;
 
-    gap: 20px;
+  gap: 20px;
 
-    width: 100%;
-    min-height: 220px;
+  width: 100%;
+  min-height: 220px;
 
-    overflow-x: auto;
+  overflow-x: auto;
 
-    padding: 10px;
+  padding: 10px;
+
+  background: #e0e0e0;
+
+  border-radius: 20px;
+
+  box-shadow:
+    inset 6px 6px 12px rgba(0, 0, 0, 0.12),
+    inset -6px -6px 12px rgba(255, 255, 255, 0.7);
 }
-
 
 /* ========================================
    EVOLUTION POKÉMON CARD
 ======================================== */
 
 .evolution-pokemon {
-    width: 170px;
+  width: 170px;
 
-    padding: 15px;
+  padding: 15px;
 
-    flex-shrink: 0;
+  flex-shrink: 0;
 
-    border-radius: 18px;
+  border-radius: 18px;
 
-    background: #f4f4f4;
+  background: #e0e0e0;
 
-    text-align: center;
+  text-align: center;
 
-    cursor: pointer;
+  cursor: pointer;
 
-    transition:
-        transform 0.3s ease,
-        box-shadow 0.3s ease,
-        background 0.3s ease;
+  box-shadow:
+    7px 7px 14px rgba(0, 0, 0, 0.15),
+    -7px -7px 14px rgba(255, 255, 255, 0.7);
+
+  transition:
+    box-shadow 0.3s ease;
 }
-
 
 .evolution-pokemon:hover {
-    transform:
-        translateY(-8px)
-        scale(1.03);
-
-    box-shadow:
-        0 12px 25px
-        rgba(0, 0, 0, 0.18);
+  box-shadow:
+    3px 3px 7px rgba(0, 0, 0, 0.15),
+    -3px -3px 7px rgba(255, 255, 255, 0.7);
 }
 
+.evolution-pokemon:active {
+  box-shadow:
+    inset 4px 4px 8px rgba(0, 0, 0, 0.15),
+    inset -4px -4px 8px rgba(255, 255, 255, 0.7);
+}
 
 .evolution-pokemon img {
-    width: 120px;
-    height: 120px;
+  width: 120px;
+  height: 120px;
 
-    object-fit: contain;
+  object-fit: contain;
 
-    transition:
-        transform 0.3s ease;
+  transition: transform 0.3s ease;
 }
-
 
 .evolution-pokemon:hover img {
-    transform: scale(1.08);
+  transform: scale(1.05);
 }
-
 
 .evolution-pokemon h3 {
-    margin-top: 8px;
+  margin-top: 8px;
 
-    color: #222;
+  color: #222;
 
-    font-size: 18px;
+  font-size: 18px;
 }
-
 
 .evolution-pokemon span {
-    display: block;
+  display: block;
 
-    margin-top: 4px;
+  margin-top: 4px;
 
-    color: #777;
+  color: #777;
 
-    font-size: 12px;
-    font-weight: bold;
+  font-size: 12px;
+  font-weight: bold;
 }
-
 
 /* ========================================
    EVOLUTION ARROW
 ======================================== */
 
 .evolution-arrow {
-    flex-shrink: 0;
+  flex-shrink: 0;
 
-    color: #555;
+  color: #555;
 
-    font-size: 32px;
-    font-weight: bold;
+  font-size: 32px;
+  font-weight: bold;
+
+  text-shadow:
+    2px 2px 4px rgba(0, 0, 0, 0.15),
+    -2px -2px 4px rgba(255, 255, 255, 0.7);
 }
-
 
 /* ========================================
    EVOLUTION PLACEHOLDER
 ======================================== */
 
 #evolutionPlaceholder {
-    color: #777;
+  color: #777;
 
-    font-size: 16px;
+  font-size: 16px;
 
-    text-align: center;
+  text-align: center;
+
+  text-shadow:
+    1px 1px 2px rgba(0, 0, 0, 0.12),
+    -1px -1px 2px rgba(255, 255, 255, 0.7);
 }
-
 
 /* ========================================
    STATS SECTION
 ======================================== */
 
 .stats-section {
-    margin-top: 30px;
+  margin-top: 30px;
 
-    padding: 30px;
+  padding: 30px;
 
-    background:
-        rgba(255, 255, 255, 0.92);
+  background: #e0e0e0;
 
-    border-radius: 25px;
+  border-radius: 25px;
 
-    box-shadow:
-        0 15px 40px
-        rgba(0, 0, 0, 0.2);
+  box-shadow:
+    12px 12px 24px rgba(0, 0, 0, 0.15),
+    -12px -12px 24px rgba(255, 255, 255, 0.7);
 
-    transition:
-        background 0.5s ease;
+  transition: box-shadow 0.3s ease;
 }
 
+.stats-section:hover {
+  box-shadow:
+    8px 8px 16px rgba(0, 0, 0, 0.15),
+    -8px -8px 16px rgba(255, 255, 255, 0.7);
+}
 
 /* ========================================
    STATS HEADER
 ======================================== */
 
 .stats-header {
-    display: flex;
+  display: flex;
 
-    justify-content: space-between;
-    align-items: center;
+  justify-content: space-between;
+  align-items: center;
 
-    margin-bottom: 25px;
+  margin-bottom: 25px;
 }
-
 
 .stats-header h2 {
-    color: #222;
+  color: #222;
 
-    font-size: 28px;
+  font-size: 28px;
 }
-
 
 #statsStatus {
-    padding: 8px 14px;
+  padding: 8px 14px;
 
-    border-radius: 20px;
+  border-radius: 20px;
 
-    background: #f1f1f1;
+  background: #e0e0e0;
 
-    color: #555;
+  color: #555;
 
-    font-size: 14px;
-    font-weight: bold;
+  font-size: 14px;
+  font-weight: bold;
+
+  box-shadow:
+    inset 3px 3px 6px rgba(0, 0, 0, 0.12),
+    inset -3px -3px 6px rgba(255, 255, 255, 0.7);
 }
-
 
 /* ========================================
    MATPLOTLIB CHART
 ======================================== */
 
 .stats-chart {
-    width: 100%;
-    min-height: 300px;
+  width: 100%;
+  min-height: 300px;
 
-    display: flex;
+  display: flex;
 
-    justify-content: center;
-    align-items: center;
+  justify-content: center;
+  align-items: center;
 
-    overflow: hidden;
+  overflow: hidden;
 
-    border-radius: 15px;
+  padding: 15px;
+
+  border-radius: 15px;
+
+  background: #e0e0e0;
+
+  box-shadow:
+    inset 6px 6px 12px rgba(0, 0, 0, 0.12),
+    inset -6px -6px 12px rgba(255, 255, 255, 0.7);
 }
-
 
 .stats-chart img {
-    display: none;
+  display: none;
 
-    width: 100%;
-    max-width: 800px;
+  width: 100%;
+  max-width: 800px;
 
-    height: auto;
+  height: auto;
 
-    border-radius: 15px;
+  border-radius: 15px;
+
+  box-shadow:
+    6px 6px 12px rgba(0, 0, 0, 0.15),
+    -6px -6px 12px rgba(255, 255, 255, 0.7);
 }
-
 
 #statsPlaceholder {
-    color: #777;
+  color: #777;
 
-    font-size: 16px;
+  font-size: 16px;
 
-    text-align: center;
+  text-align: center;
+
+  text-shadow:
+    1px 1px 2px rgba(0, 0, 0, 0.12),
+    -1px -1px 2px rgba(255, 255, 255, 0.7);
 }
-
 
 /* ========================================
    NIGHT MODE
 ======================================== */
 
 body.night {
-    background:
-        linear-gradient(
-            135deg,
-            #0f172a 0%,
-            #1e293b 50%,
-            #334155 100%
-        );
+  background: #1e293b;
 }
 
+/* MAIN CARDS */
 
 body.night .pokemon-card,
 body.night .evolution-section,
 body.night .stats-section {
-    background:
-        rgba(30, 41, 59, 0.95);
+  background: #1e293b;
+
+  box-shadow:
+    10px 10px 20px rgba(0, 0, 0, 0.35),
+    -10px -10px 20px rgba(71, 85, 105, 0.25);
 }
 
+/* HEADINGS */
 
 body.night .pokemon-info h2,
 body.night .evolution-header h2,
 body.night .stats-header h2 {
-    color: white;
+  color: #f8fafc;
 }
 
+/* INFO / EVOLUTION CARDS */
 
 body.night .info-item,
 body.night .evolution-pokemon {
-    background: #334155;
+  background: #1e293b;
+
+  box-shadow:
+    6px 6px 12px rgba(0, 0, 0, 0.35),
+    -6px -6px 12px rgba(71, 85, 105, 0.25);
 }
 
+/* PRESSED / HOVER */
 
-body.night .info-item span {
-    color: #cbd5e1;
+body.night .info-item:hover,
+body.night .evolution-pokemon:hover {
+  box-shadow:
+    3px 3px 7px rgba(0, 0, 0, 0.35),
+    -3px -3px 7px rgba(71, 85, 105, 0.25);
 }
 
+/* TEXT */
+
+body.night .info-item span,
+body.night .evolution-pokemon span {
+  color: #cbd5e1;
+}
 
 body.night .info-item p,
 body.night .evolution-pokemon h3 {
-    color: white;
+  color: #f8fafc;
 }
 
+/* STATUS */
 
 body.night #statsStatus,
 body.night #evolutionStatus {
-    background: #334155;
+  background: #1e293b;
 
-    color: #e2e8f0;
+  color: #e2e8f0;
+
+  box-shadow:
+    inset 3px 3px 6px rgba(0, 0, 0, 0.3),
+    inset -3px -3px 6px rgba(71, 85, 105, 0.25);
 }
 
+/* PLACEHOLDER */
 
 body.night #statsPlaceholder,
 body.night #evolutionPlaceholder {
-    color: #cbd5e1;
+  color: #cbd5e1;
 }
 
-
-body.night .evolution-pokemon span {
-    color: #cbd5e1;
-}
-
+/* ARROW */
 
 body.night .evolution-arrow {
-    color: #cbd5e1;
+  color: #cbd5e1;
+
+  text-shadow:
+    2px 2px 4px rgba(0, 0, 0, 0.4),
+    -2px -2px 4px rgba(71, 85, 105, 0.25);
 }
 
+/* EVOLUTION CHAIN */
+
+body.night .evolution-chain,
+body.night .stats-chart {
+  background: #1e293b;
+
+  box-shadow:
+    inset 6px 6px 12px rgba(0, 0, 0, 0.3),
+    inset -6px -6px 12px rgba(71, 85, 105, 0.25);
+}
+
+/* POKÉMON IMAGE AREA */
+
+body.night .pokemon-image {
+  background: #1e293b;
+
+  box-shadow:
+    inset 8px 8px 16px rgba(0, 0, 0, 0.3),
+    inset -8px -8px 16px rgba(71, 85, 105, 0.25);
+}
 
 /* ========================================
    NIGHT MODE SUGGESTIONS
 ======================================== */
 
 body.night .suggestions {
-    background: #1e293b;
-}
+  background: #1e293b;
 
+  box-shadow:
+    6px 6px 12px rgba(0, 0, 0, 0.35),
+    -6px -6px 12px rgba(71, 85, 105, 0.25);
+}
 
 body.night .suggestion-item {
-    color: white;
+  color: #f8fafc;
 }
-
 
 body.night .suggestion-item:hover {
-    background: #334155;
-}
+  background: #1e293b;
 
+  box-shadow:
+    inset 3px 3px 6px rgba(0, 0, 0, 0.3),
+    inset -3px -3px 6px rgba(71, 85, 105, 0.25);
+}
 
 /* ========================================
    RESPONSIVE
 ======================================== */
 
 @media (max-width: 768px) {
+  header {
+    padding: 20px;
+  }
 
-    header {
-        padding: 20px;
-    }
+  nav h1 {
+    font-size: 28px;
+    color: #222;
+  }
 
+  nav img {
+    width: 40px;
+    height: 40px;
+  }
 
-    nav h1 {
-        font-size: 28px;
-    }
+  .pokemon-card {
+    grid-template-columns: 1fr;
+    background: #e0e0e0;
 
+    box-shadow:
+      8px 8px 16px rgba(0, 0, 0, 0.15),
+      -8px -8px 16px rgba(255, 255, 255, 0.7);
+  }
 
-    nav img {
-        width: 40px;
-        height: 40px;
-    }
+  .pokemon-image {
+    min-height: 250px;
+  }
 
+  .pokemon-image img {
+    width: 220px;
+    height: 220px;
+  }
 
-    .pokemon-card {
-        grid-template-columns: 1fr;
-    }
+  .pokemon-info {
+    padding: 10px;
+  }
 
+  .info-grid {
+    grid-template-columns: 1fr;
+  }
 
-    .pokemon-image {
-        min-height: 250px;
-    }
+  .search-box {
+    flex-direction: column;
+    align-items: center;
+  }
 
+  .search-input-wrapper {
+    width: 100%;
+    max-width: 400px;
+  }
 
-    .pokemon-image img {
-        width: 220px;
-        height: 220px;
-    }
+  .search-box button {
+    width: 100%;
+    max-width: 400px;
+  }
 
+  .evolution-section,
+  .stats-section {
+    padding: 20px;
+  }
 
-    .pokemon-info {
-        padding: 10px;
-    }
+  .evolution-header,
+  .stats-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
 
+  .evolution-chain {
+    justify-content: flex-start;
+  }
 
-    .info-grid {
-        grid-template-columns: 1fr;
-    }
+  .evolution-pokemon {
+    width: 145px;
+  }
 
+  .evolution-pokemon img {
+    width: 100px;
+    height: 100px;
+  }
 
-    .search-box {
-        flex-direction: column;
-
-        align-items: center;
-    }
-
-
-    .search-input-wrapper {
-        width: 100%;
-
-        max-width: 400px;
-    }
-
-
-    .search-box button {
-        width: 100%;
-
-        max-width: 400px;
-    }
-
-
-    .evolution-section {
-        padding: 20px;
-    }
-
-
-    .evolution-header {
-        flex-direction: column;
-
-        align-items: flex-start;
-
-        gap: 10px;
-    }
-
-
-    .evolution-chain {
-        justify-content: flex-start;
-    }
-
-
-    .evolution-pokemon {
-        width: 145px;
-    }
-
-
-    .evolution-pokemon img {
-        width: 100px;
-        height: 100px;
-    }
-
-
-    .evolution-arrow {
-        font-size: 26px;
-    }
-
-
-    .stats-header {
-        flex-direction: column;
-
-        align-items: flex-start;
-
-        gap: 10px;
-    }
-
+  .evolution-arrow {
+    font-size: 26px;
+  }
 }
 
-
 @media (max-width: 450px) {
+  nav h1 {
+    font-size: 24px;
+  }
 
-    nav h1 {
-        font-size: 24px;
-    }
+  nav button {
+    padding: 9px 14px;
+  }
 
+  .pokemon-card {
+    padding: 20px;
+  }
 
-    nav button {
-        padding: 9px 14px;
-    }
+  .stats-section {
+    padding: 20px;
+  }
 
+  .pokemon-info h2 {
+    font-size: 26px;
+  }
+}
 
-    .pokemon-card {
-        padding: 20px;
-    }
+/* NIGHT MODE */
 
+@media (max-width: 768px) {
+  body.night nav h1 {
+    color: #f8fafc;
+  }
 
-    .stats-section {
-        padding: 20px;
-    }
+  body.night .pokemon-card,
+  body.night .evolution-section,
+  body.night .stats-section {
+    background: #1e293b;
 
-
-    .pokemon-info h2 {
-        font-size: 26px;
-    }
-
+    box-shadow:
+      8px 8px 16px rgba(0, 0, 0, 0.35),
+      -8px -8px 16px rgba(71, 85, 105, 0.25);
+  }
 }

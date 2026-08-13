@@ -1,0 +1,114 @@
+[
+    {
+        "S.no": "#0133",
+        "Name": "Eevee",
+        "Evolves From": "",
+        "Evolves To": "Vaporeon",
+        "Evolution Method": "Water Stone"
+    },
+    {
+        "S.no": "#0133",
+        "Name": "Eevee",
+        "Evolves From": "",
+        "Evolves To": "Jolteon",
+        "Evolution Method": "Thunder Stone"
+    },
+    {
+        "S.no": "#0133",
+        "Name": "Eevee",
+        "Evolves From": "",
+        "Evolves To": "Flareon",
+        "Evolution Method": "Fire Stone"
+    },
+    {
+        "S.no": "#0133",
+        "Name": "Eevee",
+        "Evolves From": "",
+        "Evolves To": "Espeon",
+        "Evolution Method": "High Friendship + Day"
+    },
+    {
+        "S.no": "#0133",
+        "Name": "Eevee",
+        "Evolves From": "",
+        "Evolves To": "Umbreon",
+        "Evolution Method": "High Friendship + Night"
+    },
+    {
+        "S.no": "#0133",
+        "Name": "Eevee",
+        "Evolves From": "",
+        "Evolves To": "Leafeon",
+        "Evolution Method": "Leaf Stone"
+    },
+    {
+        "S.no": "#0133",
+        "Name": "Eevee",
+        "Evolves From": "",
+        "Evolves To": "Glaceon",
+        "Evolution Method": "Ice Stone"
+    },
+    {
+        "S.no": "#0133",
+        "Name": "Eevee",
+        "Evolves From": "",
+        "Evolves To": "Sylveon",
+        "Evolution Method": "High Friendship + Fairy-type Move"
+    },
+    {
+        "S.no": "#0134",
+        "Name": "Vaporeon",
+        "Evolves From": "Eevee",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0135",
+        "Name": "Jolteon",
+        "Evolves From": "Eevee",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0136",
+        "Name": "Flareon",
+        "Evolves From": "Eevee",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0196",
+        "Name": "Espeon",
+        "Evolves From": "Eevee",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0197",
+        "Name": "Umbreon",
+        "Evolves From": "Eevee",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0470",
+        "Name": "Leafeon",
+        "Evolves From": "Eevee",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0471",
+        "Name": "Glaceon",
+        "Evolves From": "Eevee",
+        "Evolves To": "",
+        "Evolution Method": ""
+    },
+    {
+        "S.no": "#0700",
+        "Name": "Sylveon",
+        "Evolves From": "Eevee",
+        "Evolves To": "",
+        "Evolution Method": ""
+    }
+]

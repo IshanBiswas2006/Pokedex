@@ -1,0 +1,17 @@
+S.no,Name,Evolves From,Evolves To,Evolution Method
+#0133,Eevee,,Vaporeon,Water Stone
+#0133,Eevee,,Jolteon,Thunder Stone
+#0133,Eevee,,Flareon,Fire Stone
+#0133,Eevee,,Espeon,High Friendship + Day
+#0133,Eevee,,Umbreon,High Friendship + Night
+#0133,Eevee,,Leafeon,Leaf Stone
+#0133,Eevee,,Glaceon,Ice Stone
+#0133,Eevee,,Sylveon,High Friendship + Fairy-type Move
+#0134,Vaporeon,Eevee,,
+#0135,Jolteon,Eevee,,
+#0136,Flareon,Eevee,,
+#0196,Espeon,Eevee,,
+#0197,Umbreon,Eevee,,
+#0470,Leafeon,Eevee,,
+#0471,Glaceon,Eevee,,
+#0700,Sylveon,Eevee,,
